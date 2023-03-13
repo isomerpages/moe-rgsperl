@@ -10,10 +10,10 @@ _**A) Induction Programme  ~ Year 1 \**_
 
 |**PROGRAMME**   | **VENUE**  | **DATE**  |**TIME**   | **OWNERS**  |
 |:-:|---|---|---|---|
-| Induction (II) & Structured Mentoring Process<br>**_(only for_** **_2017_** **_New Teachers)_**  |   |   |   |   |
-| Understanding by Design (I) & Strategies for Conceptual Learning  |   |   |   |   |
-| Conceptions of Giftedness (Cognitive Domain)  |   |   |   |   |
-| Understanding by Design (II) & Strategies for Conceptual Learning  |   |   |   |   |
+| Induction (II) & Structured Mentoring Process<br>**_(only for_** **_2017_** **_New Teachers)_**  | Raffles Room  |   |   |   |
+| Understanding by Design (I) & Strategies for Conceptual Learning  | Raffles Room  |   |   |   |
+| Conceptions of Giftedness (Cognitive Domain)  | Oehlers Room  |   |   |   |
+| Understanding by Design (II) & Strategies for Conceptual Learning  | Raffles Room  |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
