@@ -59,3 +59,21 @@ Knowledge of teaching is learned in practice (Ball & Cohen, 1999). It is connect
 Teachers take note not only of what they teach but also, how they have done so. They examine students’ learning in terms of the desired outcomes and use the feedback to further hone their practice. As Smylie (2010) noted, “We will fail … to improve schooling for children until we acknowledge the importance of schools not only as places for teachers to work but also as places for teachers to learn” (p. 92).
 
 5 \.  <u>Data-driven :</u> Pedagogical decisions are based on triangulated data on student performance. Professional learning is therefore, outcomes-focused.Assessment is valued for its data on the teaching–learning relationship.
+
+#### EVALUATION OF PROFESSIONAL LEARNING
+
+Evidence that directly co-relates professional learning with student achievement is thin. Given the complexities of human motivations and classroom dynamics, this is understandable. Current research only suggests that a well-developed PD Plan influences teacher practice and student performance but a causal relationship is not established.
+
+Moreover, professional learning includes outcomes that go beyond student learning. These include professional interaction amongst staff, mentoring of new teachers and practitioner inquiry. These activities contribute to staff morale, capacity- building and collegiality which should be valued for their intrinsic worth.
+
+In fact, OECD quotes the Heisenberg’s Uncertainty Principle[\[2\]](https://www.rgs.edu.sg/about-us/professional-development#_ftn2) **PAGE NOT FOUND** to warn PD planners on the ‘corrupting and distorting’ effects of quantitative indicators for what is largely, a social process.
+
+Thus, for now, the quality of RGS’ Professional learning is evaluated using evidence–backed standards for professional learning, <u>focusing on the processes and outcomes of teacher learning</u> rather than to establish a causal relationship between professional learning and student achievement. Meanwhile, through in-house research and scan of research elsewhere, this relationship will be attempted.
+
+The RGS Professional Learning standards are adapted from the following organisations:
+
+1.  Academy of Science Teachers, MOE, Singapore: Teacher Growth Model
+2.  Learning Forward Professional Learning Association, United States
+3.  National Staff Development Council, United States (now known as Learning Forward)
+4.  National Comprehensive Centre for Teacher Quality, United States
+5.  Ministry of Education, New Zealand:Teacher Professional Learning and Development: Best Evidence Synthesis Iteration
