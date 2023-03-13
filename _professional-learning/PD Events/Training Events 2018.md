@@ -34,3 +34,14 @@ third_nav_title: PD Events
 
 #### C) PROFESSIONAL LEARNING PROGRAMMES
 
+| **PROGRAMME**  | **DATE**  |
+|:-:|---|
+| New KPs Induction  | 12 Feb  |
+| Future Problem Solving Coaches Workshops  | 22 Feb – 1 Mar  |
+| World Edulead Conference  |26-29 March   |
+|  Open Classroom & PeRL Symposium | 20 Apr  |
+|  EAS Learning Journey | 19 June  |
+| Differentiated Instruction Workshop by Professor Tomlinson  | 3 Sept  |
+|  EAS Professional Development Day | 13 Nov  |
+| First-Aid Course | 15-16 Nov  |
+|   |   |
