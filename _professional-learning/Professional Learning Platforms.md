@@ -31,3 +31,21 @@ This in-house biennial event showcases teacher-led workshops, symposium and rese
 | 2015  | Engaging Diversity in 21st Century Education  | Click [here](/files/GPD%202015%20Programme_23%20July.pdf) to view the GDP 2015 programme booklet   |
 | 2017  | Inspire, Empower & Transform  | Click [here](https://www.rgs.edu.sg/qql/slot/u554/PL/2017%20GPD%20Programme%20Booklet.pdf) **PDF EEXCEEDS 5MB** to view the GDP 2017 programme booklet |
 |   |   |   |
+
+#### SCHOOL-BASED TRAINING
+
+School-based training centres on enhancing teachers’ professional practices and on-going reflection. The aim is to nurture the adept, reflective teacher of the highly able learner.
+
+As a school for gifted and talented, the RGS Professional Development Plan therefore, focuses on the following core competencies:
+
+1 \.  Gifted & Talented pedagogies such as _Critical Thinking, Creative Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven instruction_ <br>
+2 \.  Curriculum Design Framework such as Understanding by Design (UbD), Lynn Erickson’s concept-based learning principles<br>
+3 \.  Practitioner Inquiry<br>
+4 \.  Assessment Literacy: Assessment principles, Formative & Summative assessments, Design of the Performance Task<br>
+5 \.  Learning Technologies
+
+#### INDUCTION PROGRAMME
+
+The Professional Learning Academy provides a 2-year Induction Programme for teachers new to RGS. The Programme aims to (a) provide support to the teachers they adjust to the new environment and (b) train them in the pedagogical content knowledge and skills appropriate to the school’s student profile.
+
+The core of the induction programme is the relationship between the new teachers and a Mentor, who is usually the Senior Teacher. Each teacher works with his/ her Mentor to set goals, collect and analyze classroom evidence, plan and reflect on lessons. The focus on the teachers’ craft and well-being ensures that the partnership may lead to a positive learning experience for both the teacher-mentors and mentees.
