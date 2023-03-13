@@ -31,3 +31,14 @@ The PD plan is based on a set of beliefs and values about teaching and learning 
 2 \.  **Sustained** professional learning contributes to quality teaching<br>
 3 \.  Teams engage in a **continuous cycle** of improvement because they want to improve their practice<br>
 4 \.  **Student learning needs** define educators’ learning needs
+
+These beliefs have largely endured in RGS over time.
+
+However, current research in professional development increasingly points to the need for shifts in the conventional approaches to it. For instance, research consistently reflects the limitations of a one-shot approach to training. When teachers attend training that is not directly connected to their practice in real time, the transfer of learning is usually impeded.
+
+The value of a top-down approach to PD is also questionable. Rather than teachers being told that they ‘should’, ‘must’ and ‘need’ to be equipped in the expected capacities, the school management views student learning as a collective responsibility.
+
+The entire fraternity takes ownership for setting high expectations for student learning.
+
+#### FEATURES OF RGS' PROFESSIONAL LEARNING
+
