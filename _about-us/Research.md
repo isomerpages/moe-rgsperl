@@ -33,7 +33,7 @@ Our overarching aim is to enhance and enrich an Asian discourse in education. Th
 Deliberate effort is taken to ensure that research findings are used to inform practice. The findings
 are disseminated in the following ways:
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.dfkurcec4b4z0.amplifyapp.com/images/PeRL%20research%20focus%20(1).png">
 <img style="width:40%" align=right src="/images/PeRL research focus (1).png">
 </a></p>
 
@@ -41,4 +41,3 @@ are disseminated in the following ways:
 2 \.  RGS PeRL’s workshops: Our findings are shared with participants, providing a localised and practitioner-oriented paradigm to the training.<br>
 3 \.  Publications: Our in-house magazine, ‘Insights’, consists of teachers’ articles on their research-related work. Designed as a coffee-table book, it offers bite-size information on evidence-backed pedagogy. Our findings are also submitted to suitable external publications.<br>
 4 \.  Presentations: RGS PeRL’s research is shared at conferences, both internal and external.
-
