@@ -93,4 +93,4 @@ The following are examples of Practitioner Inquiry projects that have been compl
 
 <u>Benefit to Practice:</u> The research contributes to a deeper understanding of how best to teach digital writing to the students by highlighting students' perceptions of the learning that had taken place in the language classroom.  
 
-The full list of Practitioner Inquiry projects can be found [here](http://language%20classroom/).
+The full list of Practitioner Inquiry projects can be found [here](/research/Overview/prac-inquiry/).
