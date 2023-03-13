@@ -1,4 +1,5 @@
 collections:
   learning-platforms:
     output: true
-    order: []
+    order:
+      - The Design Thinking Approach for the High Ability Learners.md
