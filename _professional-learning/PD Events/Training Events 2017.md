@@ -21,3 +21,7 @@ _**A) Induction Programme  ~ Year 1 \**_
 | Performance Tasks Workshop  | Raffles Room  | 27 June (Tues)  | 8.30am – 5pm  | Thomas Lee  |
 | Formative Assessments (II)  | Dry Lab  | 15 Aug (Tues)  |  8.30am – 5pm |Lucille Yap & STs   |
 |   |   |   |   |   |
+
+\* INCLUDES NEW STAFF THAT JOINED RGS IN JUL 2016 AND JAN 2017
+
+_**B) Induction Programme  ~ Year 2 \***_
