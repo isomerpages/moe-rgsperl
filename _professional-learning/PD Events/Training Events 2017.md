@@ -54,9 +54,9 @@ _**\* only includes new staff that joined RGS in Jan 2016**_
 | Standard First Aid Refresher Course  | Various Venues  | 16-17 Nov (Thurs-Fri)  | 8.00am – 5.00pm  | Safety Comm  | Selected Teachers  |
 | Professional Learning Clinic  | Raffles Room  | 13 Feb (Wed)  | 2.30pm – 5.00pm  | Perl  | Sign-up  |
 | Professional Learning Clinic  | Raffles Room  | 28 Feb (Tues)  |  2.30pm – 5.00pm | Perl  | Sign-up  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| Professional Learning Clinic  | Raffles Room  | 1 Mar (Wed  | 2.30pm – 5.00pm  |  Perl | Sign-up  |
+| Professional Learning Clinic  | Raffles Room  | 28 June (Wed)  | 2.30pm – 5.00pm  |Perl   |  Sign-up |
+| Professional Learning Clinic  | Raffles Room  | 12 Jul (Wed)  | 2.30pm – 5.00pm  | Perl  | Sign-up  |
+| Professional Learning Clinic  | Raffles Room  | 25 Jul (Tues)  | 2.30pm – 5.00pm  |  Perl | Sign-up  |
+| Professional Learning Clinic  | Raffles Room  | 2 Aug (Wed)  | 2.30pm – 5.00pm  |  Perl | Sign-up  |
 |   |   |   |   |   |   |
