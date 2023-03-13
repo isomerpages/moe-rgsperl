@@ -6,3 +6,5 @@ third_nav_title: PD Events
 ---
 ## TRAINING EVENTS 2017
 
+_**A) Induction Programme  ~ Year 1 \**_
+
