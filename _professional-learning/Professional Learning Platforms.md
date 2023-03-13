@@ -22,3 +22,14 @@ Local and Overseas Conferences
 
 Good Practice Day<br>
 This in-house biennial event showcases teacher-led workshops, symposium and research presentations. It develops teacher leaders as they exchange ideas on innovative practices, keeping each other abreast of the latest developments in the field. The following are some examples of educational technologies and innovations shared by teachers:
+
+|Year| Theme  | Presentations  |
+|:-:|---|---|
+| 2011  | Innovative Teaching  | The development of educational games for use in the classroom (Science)  |
+| 2012  | Collaborative Learning & Formative Assessment  | Augmented Reality Games with handheld mobile devices (Humanities)  |
+| 2013  | Differentiation and Critical Thinking  | Using a common text to access a multiple vistas: How to keep your teaching of the same material fresh? (Languages)  |
+| 2015  | Engaging Diversity in 21st Century Education  |   |
+| 2017  | Inspire, Empower & Transform  |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
