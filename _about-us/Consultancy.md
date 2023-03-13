@@ -37,3 +37,7 @@ To ensure that the curriculum intent is achieved, RGS PeRL Consultancy Model ado
 *    the sharing of evidence-backed pedagogical practices with the education fraternity, both local and international, through professional development workshops,
 *    acting as a feedback mechanism for curriculum monitoring and review for the Raffles Programme and
 *    providing an engaging avenue for academic and professional discourse.
+
+#### AN AVENUE FOR ENGAGEMENT
+
+RGS PeRL Consultancy provides platforms for teachers to interact and engage in academic and professional discourse. It also encourages teachers to share their knowledge and skills through facilitation at PeRL Training workshops.
