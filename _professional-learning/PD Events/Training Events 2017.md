@@ -42,10 +42,10 @@ _**\* only includes new staff that joined RGS in Jan 2016**_
 | Learning Resources & Technology  | Raffles Room  | 25 Jan (Wed)  | 2.30pm – 5.00pm  | STs  | New Teachers & Sign-up  |
 | Future Problem Solving Workshops  | CLC  | 16-23 Feb  | 8.00am – 5pm  | FPS Committee  | Sign-up  |
 | Assessment Seminar and Workshops  | EN Hall  | 13-16 Mar (Mon-Thurs)  | 8.00am – 5pm  | Perl & ASCD  | Selected Teachers  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| Research Studies Workshop  | -  | 21-23 March  |   |   |   |
+| Meeting the Social-Emotional & Affective Needs of Gifted Adolescents  | RGS  | 19 April (Wed)  |   |   |   |
+| Open Classroom & Good Practice Day  | Various Venues  | 28 Apr (Fri)  |   |   |   |
+| Reflection Workshop  |  KS Chee Theatre | 29-30 May  (Mon-Tues)  |   |   |   |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
