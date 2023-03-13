@@ -17,3 +17,7 @@ The following table shows the Create-Implement-Review Cycle that guides PLS  d
 <br clear=left>
 
 _Source: Mary George Cheriyan (2014)_
+
+#### PLS DISCOURSE
+
+RGS’ Curriculum Maps are concept-based. To maintain relevance and robustness, we are currently reviewing our Curriculum Maps, improving our Enduring Understandings and Essential Questions while checking for the alignment of these intended outcomes to classroom practice. A key focus for the year, therefore, is the use of high-yielding strategies in the classroom that facilitate content mastery and conceptual understanding. We are reviving the use of enduring pedagogical tools like graphic organizers and concept development model.
