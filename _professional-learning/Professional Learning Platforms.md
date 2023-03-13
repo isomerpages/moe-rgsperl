@@ -28,7 +28,7 @@ This in-house biennial event showcases teacher-led workshops, symposium and rese
 | 2011  | Innovative Teaching  | The development of educational games for use in the classroom (Science)  |
 | 2012  | Collaborative Learning & Formative Assessment  | Augmented Reality Games with handheld mobile devices (Humanities)  |
 | 2013  | Differentiation and Critical Thinking  | Using a common text to access a multiple vistas: How to keep your teaching of the same material fresh? (Languages)  |
-| 2015  | Engaging Diversity in 21st Century Education  |   |
+| 2015  | Engaging Diversity in 21st Century Education  | Click [here](/files/GPD%202015%20Programme_23%20July.pdf) to view the GDP 2015 programme booklet   |
 | 2017  | Inspire, Empower & Transform  |   |
 |   |   |   |
 |   |   |   |
