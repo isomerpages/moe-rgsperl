@@ -2,7 +2,7 @@ collections:
   research:
     output: true
     order:
-      - Overview/PERL School Wide Research.md
       - Overview/.keep
       - Overview/Overview.md
       - Overview/Research Office.md
+      - Overview/PERL School Wide Research.md
