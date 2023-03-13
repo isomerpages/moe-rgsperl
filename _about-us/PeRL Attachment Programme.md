@@ -29,3 +29,15 @@ If you are interested, drop us an [email](mailto:masturah.aziz@rgs.edu.sg) wit
 
 #### THE PERL INTERNSHIP EXPERIENCE
 
+<img src="/images/ap.jpg" style="width:49%" align=right>
+
+_A reflection by Ms Thet Thiri Ko, our intern:_
+
+Interning at PeRL these last 2 months has been a wonderful experience for me. I can say that I got into the job without knowing fully what to expect. When the opportunity to work at my alma mater came up, I took it up without much hesitation as I looked forward to working and contributing in the school environment that I was familiar with. This experience has challenged me in many different ways and provided me with a better understanding of PeRL’s role in the school and how pedagogical research is carried out in the school context.
+
+Through the work at PeRL, I have gained valuable insights and picked up new skills. I had the opportunity to be exposed to various aspects of research during the internship. Some of the tasks that I completed include doing transcripts for data collected, analysing qualitative data and reviewing literature. Apart from that, I was also able to interact with students and teachers through focus group discussions and gained a deeper understanding of their perspectives and viewpoints. Above all, I think the experience has allowed me to better appreciate research in the education field and how the research findings could shape and influence teachers’ teaching practices and the learning experience for students.  
+
+What made the internship experience memorable would be the conversations that I have had with students, teachers and colleagues at PeRL. These conversations and discussions enabled me to broaden my narrow views about certain issues and have allowed me to better connect with others and build lasting relationships with them. They gave me a wider perspective on the work that I was doing and made the internship a more rewarding experience. I believe that the experience has allowed me to grow as a person and has also sparked my interest for education research.
+
+----
+
