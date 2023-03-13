@@ -28,3 +28,12 @@ The strategic intent of RGS PeRL Consultancy domain, an in-house Consultancy, is
 
 #### RGS PERL CONSULTANCY MODEL
 
+School leaders and classroom practitioners, as part of the educational fraternity, must align their  educational objectives to Ministry of Education’s Desired Outcome of Education as well as ensure that the national educational objectives are achieved.  Thus, in RGS, the curriculum will focus on “_Teach for Understanding_” and 21st Century competencies.
+
+In line with this, RGS PeRL was set up to engender a culture of informed practice by nurturing the reflective practitioner who constantly seeks to refine his or her craft. RGS PeRL comprises three domains: research, consultancy and professional development [(Figure 1)](/files/RGSPeRLConsultancy-Writeup(2)_2014-Alignment%20diagram.pdf).
+
+To ensure that the curriculum intent is achieved, RGS PeRL Consultancy Model adopts the following organizational structures to create, deliver and capture values:
+
+*    the sharing of evidence-backed pedagogical practices with the education fraternity, both local and international, through professional development workshops,
+*    acting as a feedback mechanism for curriculum monitoring and review for the Raffles Programme and
+*    providing an engaging avenue for academic and professional discourse.
