@@ -23,3 +23,14 @@ third_nav_title: PD Events
 | Formative Assessments (II)  |15 Aug   |
 |   |   |
 
+#### B) INDUCTION PROGRAMME  ~ YEAR 2
+
+| **PROGRAMME**  | **DATE**  |
+|:-:|---|
+|  Differentiation Strategies (I) | 24 Jan  |
+|  Creative Thinking Strategies (I) | 26 Mar  |
+| Differentiation & Creative Thinking Strategies (II)  | 11 Jul  |
+|   |   |
+
+#### C) PROFESSIONAL LEARNING PROGRAMMES
+
