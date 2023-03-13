@@ -42,3 +42,18 @@ The entire fraternity takes ownership for setting high expectations for student 
 
 #### FEATURES OF RGS' PROFESSIONAL LEARNING
 
+Literature indicates that a well-developed Professional Learning Plan consists of the following principles:
+
+1 \.  Aligned to curriculum standards and national goals: The goals and standards are explicitly stated so that faculty members organize their learning to achieve the larger purpose.
+    
+2 \.  Collaborative: Research shows that when teachers discuss their classroom strategies, assessment and students’ work together, they develop a sense of collective efficacy. As they discuss and learn from each other, they hone their competences and thereby, enhance student learning.
+
+<img src="/images/Prof dev infographic 1.jpg" style="width:49%" align=right>
+
+3 \.  <u>School-based :</u> Professional learning is facilitated by a school-based team of leaders, mentors and Heads. The professional conversations are therefore, contextual and are driven by a sense of collective responsibility towards student learning. Where necessary, external expertise is sought to enrich the knowledge and practice.
+
+4 \.  <u>Job-embedded :</u> Research findings associate positive change in educator practice with professional learning activities that focus not only on curriculum content but the _teaching and learning of that content_ (Blank & de las Alas, 2009).
+    
+Knowledge of teaching is learned in practice (Ball & Cohen, 1999). It is connected to practice and is iterative.
+    
+Teachers take note not only of what they teach but also, how they have done so. They examine students’ learning in terms of the desired outcomes and use the feedback to further hone their practice. As Smylie (2010) noted, “We will fail … to improve schooling for children until we acknowledge the importance of schools not only as places for teachers to work but also as places for teachers to learn” (p. 92).
