@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - PeRL Attachment Programme.md
       - Centre for Pedagogical/.keep
       - Centre for Pedagogical/History.md
       - Centre for Pedagogical/Vision, Mission and Goal.md
@@ -12,3 +11,4 @@ collections:
       - Research.md
       - Consultancy.md
       - Professional Development.md
+      - PeRL Attachment Programme.md
