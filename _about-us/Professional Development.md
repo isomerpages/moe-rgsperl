@@ -77,3 +77,17 @@ The RGS Professional Learning standards are adapted from the following organisat
 3 \.  National Staff Development Council, United States (now known as Learning Forward)<br>
 4 \.  National Comprehensive Centre for Teacher Quality, United States<br>
 5 \.  Ministry of Education, New Zealand:Teacher Professional Learning and Development: Best Evidence Synthesis Iteration
+
+Acknowledging the multi-facetedness of Teaching and Learning, multiple measures are accordingly used to evaluate professional learning. These include the following:
+
+*   Classroom Observation Scale-Revised _(adapted from College of William and Mary, USA_ )
+*   Student performance data
+*   Teacher and student surveys
+*   Qualitative evidence: anecdotes; observations; interviews
+
+The data contributes to training plans, in-house research and strategic directions.
+
+----
+
+[\[1\]](https://www.rgs.edu.sg/about-us/professional-development#_ftnref1) The 1st PDP document was drawn up for the period 2004-2008.  **PAGE NOT FOUND**
+[\[2\]](https://www.rgs.edu.sg/about-us/professional-development#_ftnref2) Quoted in OECD report accessed from http://www.oecd.org/edu/school/48727127.pdf **PAGE NOT FOUND**
