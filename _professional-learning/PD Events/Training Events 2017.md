@@ -25,3 +25,12 @@ _**A) Induction Programme  ~ Year 1 \**_
 \* INCLUDES NEW STAFF THAT JOINED RGS IN JUL 2016 AND JAN 2017
 
 _**B) Induction Programme  ~ Year 2 \***_
+
+|**PROGRAMME**   | **VENUE**  | **DATE**  |**TIME**   | **OWNERS**  |
+|:-:|---|---|---|---|
+| Differentiation Strategies (I)  | CLC  | 24 Jan (Tues)  | 2.30pm  | Foo Ling Ling & Chew Meek Lin  |
+| Creative Thinking Strategies (I)  |  Raffles Room | 28 Mar (Tues)  | 2.30pm  | Leung Hui Leng, Lim Er Yang & Uthaman  |
+| Differentiation & Creative Thinking Strategies (II)  | Raffles Room  | 11 Jul (Tues)  | 2.30pm  | Leung Hui Leng, Lim Er Yang, Uthaman,<br><br>Foo Ling Ling & Chew Meek Lin  |
+|   |   |   |   |   |
+
+_**\* only includes new staff that joined RGS in Jan 2016**_
