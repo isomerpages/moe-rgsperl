@@ -65,7 +65,7 @@ The following projects were conducted by the PeRL Research team:
 
 **Impact:** The research on the professional learning community in RGS, known as the Professional Learning Space (PLS), showed that the PLS has the strongest effect in developing teachers' assessment literacy and curriculum design knowledge and skills. However, the findings also highlighted the untapped potential of the PLS,  isuch as in addressing student learning needs through collective review of practices and facilitating teachers' responsiveness to student learning.Based on the findings, the investigators are actively engaging members of the staff to leverage the PLS for more review practices which center on the evidence of student learning, such as through the sharing of knowledge gained from practitioner inquiry, discussing classroom practices with a student-centered perspective, and utilizing student data to support classroom decision-making.   
   
-**More Information about PeRL-conducted School-Wide Research can be found [here](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/overview/perl-school-wide-research).**
+**More Information about PeRL-conducted School-Wide Research can be found [here](/research/Overview/perl-swr/).**
 
 **III. Practitioner Inquiry Projects**
 
