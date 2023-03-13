@@ -19,3 +19,6 @@ Local and Overseas Conferences
 | 20th – 24th August 2018  | 15th Asia-Pacific Conference on Giftedness (APCG2018)  | Inspiration, Motivation, and Creativity: Leading the Way to Giftedness  | Lee Su Yin Caroline and Tan Jiaxiu  | [Mathematics comprehension tests as a tool in talent identification](/learning-platforms/plat2/)  |
 | 20th – 24th  August 2018  | 15th Asia-Pacific Conference on Giftedness (APCG2018)  | Inspiration, Motivation, and Creativity: Leading the Way to Giftedness  | Foo Yong Wee, Christopher and Rachel Goh Shiao En  | [Differentiation in a Chemistry Classroom](/learning-platforms/plat3/)  |
 |   |   |   |   |   |
+
+Good Practice Day<br>
+This in-house biennial event showcases teacher-led workshops, symposium and research presentations. It develops teacher leaders as they exchange ideas on innovative practices, keeping each other abreast of the latest developments in the field. The following are some examples of educational technologies and innovations shared by teachers:
