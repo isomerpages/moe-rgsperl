@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Centre for Pedagogical/Personnel.md
       - Centre for Pedagogical/.keep
       - Centre for Pedagogical/History.md
       - Centre for Pedagogical/Vision, Mission and Goal.md
