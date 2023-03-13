@@ -11,7 +11,7 @@ We use the Create-Implement-Review cycle to guide the discourse. Central to this
 
 The following table shows the Create-Implement-Review Cycle that guides PLS  discourse at RGS.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.dfkurcec4b4z0.amplifyapp.com/images/PLS%20diagram.png">
 <img style="width:40%" align=left src="/images/PLS diagram.png">
 </a></p>
 <br clear=left>
