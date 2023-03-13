@@ -41,3 +41,12 @@ What made the internship experience memorable would be the conversations that I 
 
 ----
 
+_A reflection by Ms Roshni Yogeshkumar Kantaria, our intern:_
+
+It has been a great month learning and working at my attachment at RGS PeRL as a graphic designer. Though I spent some time working as what a freelance graphic designer would – from home, much of the work done was in a 9 to 5 work schedule at the location of the attachment. Being able to experience and hence be acquainted with both work environments/ lifestyles, prepared me with what to expect with either work style. 
+
+Through the internship, I was fortunate to learn that practicing working with clients and in a group gave me skills that are equally important and valuable as that of knowing how to use Photoshop, if not, more. This skill-set is versatile such that it is invaluable in any field of work. From writing emails to being able to put into words and communicate the subjectiveness that is aesthetic and design, the learning opportunities were countless.
+
+Technique wise, I became more bold in all such aspects. I was more open to working with different/unconventional colours, styles, and layouts. It paid off on most occasions as my mentors still approved of it. There were some instances in which I failed to keep within the fine line between practicality and novelty. I learned from these mistakes and gained in experience.
+
+All in all, I am thankful for my experience at PeRL – an invaluable opportunity and a great start to my future pursuits in this field.
