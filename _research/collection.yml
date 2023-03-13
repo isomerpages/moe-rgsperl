@@ -2,8 +2,8 @@ collections:
   research:
     output: true
     order:
-      - Overview/Practitioner Inquiry.md
       - Overview/.keep
       - Overview/Overview.md
       - Overview/Research Office.md
       - Overview/PERL School Wide Research.md
+      - Overview/Practitioner Inquiry.md
