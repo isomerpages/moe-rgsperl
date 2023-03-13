@@ -83,14 +83,14 @@ The following are examples of Practitioner Inquiry projects that have been compl
 
 **3.**    **The Value of Class Participation as an Assessment Tool in the English Language Classroom  (2013)**
 
-Benefit to Practice: Our investigative team was awarded the ELIS Research Fund. Embarking on a Practitioner Inquiry honed our skills in classroom research. The opportunity to present our findings at the ELIS Conference 2015 was priceless. The discussions with fellow educators on how we could further refine our existing assessment practices were truly enriching.
+<u>Benefit to Practice:</u> Our investigative team was awarded the ELIS Research Fund. Embarking on a Practitioner Inquiry honed our skills in classroom research. The opportunity to present our findings at the ELIS Conference 2015 was priceless. The discussions with fellow educators on how we could further refine our existing assessment practices were truly enriching.
 
 **4.    Are You Ready for the Flipped Classroom?** **(2015)**
 
-Benefit to Practice: The findings from the inquiry have helped me appreciate the necessity of establishing thinking routines as part of the mechanism for developing students’ mathematical comprehension skills and self-assessment skills. These are two important factors in preparing and optimizing students’ learning in a flipped classroom environment.
+<u>Benefit to Practice:</u> The findings from the inquiry have helped me appreciate the necessity of establishing thinking routines as part of the mechanism for developing students’ mathematical comprehension skills and self-assessment skills. These are two important factors in preparing and optimizing students’ learning in a flipped classroom environment.
 
 **5.    Impact of Assessing Digital Writing on the Performance of High-ability Students** **(2014)**
 
-Benefit to Practice: The research contributes to a deeper understanding of how best to teach digital writing to the students by highlighting students' perceptions of the learning that had taken place in the language classroom.  
+<u>Benefit to Practice:</u> The research contributes to a deeper understanding of how best to teach digital writing to the students by highlighting students' perceptions of the learning that had taken place in the language classroom.  
 
 The full list of Practitioner Inquiry projects can be found [here](http://language%20classroom/).
