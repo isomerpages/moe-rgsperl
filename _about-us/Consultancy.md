@@ -25,3 +25,6 @@ The strategic intent of RGS PeRL Consultancy domain, an in-house Consultancy, is
 | **Mission**  | Engage educational practitioners in **_professional discourse_** and **_collaborative sharing and learning._**  |
 | <br><br><br><br>**Goals**  | Develop the **_purposive pedagogical thinking_** that drives the **_teaching pedagogy to bring about intentional learning_**.<br><br>Cultivate a **_professional developmental responsiveness_** to improve the learning-teaching process and have an  **_action-research oriented perspective_** to classroom practices.<br><br>Empower **_educational practitioners_** in **_developing and applying their competencies_**, related to professional knowledge and practice and job performance, through **_research and practice_**.  |
 |   |   |
+
+#### RGS PERL CONSULTANCY MODEL
+
