@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - Overview/Overview.md
       - Overview/.keep
