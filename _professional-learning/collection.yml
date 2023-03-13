@@ -2,6 +2,6 @@ collections:
   professional-learning:
     output: true
     order:
-      - Professional Learning Space.md
       - Overview.md
       - Professional Learning Platforms.md
+      - Professional Learning Space.md
