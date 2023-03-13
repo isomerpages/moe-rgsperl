@@ -34,3 +34,22 @@ _**B) Induction Programme  ~ Year 2 \***_
 |   |   |   |   |   |
 
 _**\* only includes new staff that joined RGS in Jan 2016**_
+
+**_C) Other Professional Learning Programmes_**
+
+|**PROGRAMME**   | **VENUE**  |**DATE**   | **TIME**  | **OWNERS**  | **PARTICIPANTS**  |
+|:-:|---|---|---|---|---|
+| Learning Resources & Technology  | Raffles Room  | 25 Jan (Wed)  | 2.30pm – 5.00pm  | STs  | New Teachers & Sign-up  |
+| Future Problem Solving Workshops  | CLC  | 16-23 Feb  | 8.00am – 5pm  | FPS Committee  | Sign-up  |
+| Assessment Seminar and Workshops  | EN Hall  | 13-16 Mar (Mon-Thurs)  | 8.00am – 5pm  | Perl & ASCD  | Selected Teachers  |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
