@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Professional Development.md
       - Centre for Pedagogical/.keep
       - Centre for Pedagogical/History.md
       - Centre for Pedagogical/Vision, Mission and Goal.md
@@ -11,3 +10,4 @@ collections:
       - Centre for Pedagogical/Personnel.md
       - Research.md
       - Consultancy.md
+      - Professional Development.md
