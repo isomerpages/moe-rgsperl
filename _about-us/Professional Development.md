@@ -72,8 +72,8 @@ Thus, for now, the quality of RGS’ Professional learning is evaluated using ev
 
 The RGS Professional Learning standards are adapted from the following organisations:
 
-1.  Academy of Science Teachers, MOE, Singapore: Teacher Growth Model
-2.  Learning Forward Professional Learning Association, United States
-3.  National Staff Development Council, United States (now known as Learning Forward)
-4.  National Comprehensive Centre for Teacher Quality, United States
-5.  Ministry of Education, New Zealand:Teacher Professional Learning and Development: Best Evidence Synthesis Iteration
+1 \.  Academy of Science Teachers, MOE, Singapore: Teacher Growth Model<br>
+2 \.  Learning Forward Professional Learning Association, United States<br>
+3 \.  National Staff Development Council, United States (now known as Learning Forward)<br>
+4 \.  National Comprehensive Centre for Teacher Quality, United States<br>
+5 \.  Ministry of Education, New Zealand:Teacher Professional Learning and Development: Best Evidence Synthesis Iteration
