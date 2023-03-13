@@ -66,3 +66,31 @@ The following projects were conducted by the PeRL Research team:
 **Impact:** The research on the professional learning community in RGS, known as the Professional Learning Space (PLS), showed that the PLS has the strongest effect in developing teachers' assessment literacy and curriculum design knowledge and skills. However, the findings also highlighted the untapped potential of the PLS,  isuch as in addressing student learning needs through collective review of practices and facilitating teachers' responsiveness to student learning.Based on the findings, the investigators are actively engaging members of the staff to leverage the PLS for more review practices which center on the evidence of student learning, such as through the sharing of knowledge gained from practitioner inquiry, discussing classroom practices with a student-centered perspective, and utilizing student data to support classroom decision-making.   
   
 **More Information about PeRL-conducted School-Wide Research can be found [here](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/overview/perl-school-wide-research).**
+
+**III. Practitioner Inquiry Projects**
+
+Teachers in RGS embark on Practitioner Inquiry projects to inform their practice across diverse areas of disciplines and interests. There are protocols to guide teachers embarking on Practitioner Inquiry projects and a PeRL member is attached to each project to ensure that the teacher-researcher's needs are met throughout the duration of the project.  
+
+The following are examples of Practitioner Inquiry projects that have been completed by RGS teachers:
+
+**1 \.   Impact of Learning Chemistry using Simulation Tools (2015)**
+
+<u>Benefit to Practice:</u> The research allows me to explore different approaches in delivering the same concept and improve students' results.
+
+**2 \.  E-Portfolio in Mathematics  (2014)**
+
+<u>Benefit to Practice:</u> The research allowed for a more rigorous use of data / feedback (students, staff and SD team) in evaluating the RICE Programme. Conclusions provide targeted focus on what went well, the key areas to be improved and recommendations for RICE 2015.  
+
+**3.**    **The Value of Class Participation as an Assessment Tool in the English Language Classroom  (2013)**
+
+Benefit to Practice: Our investigative team was awarded the ELIS Research Fund. Embarking on a Practitioner Inquiry honed our skills in classroom research. The opportunity to present our findings at the ELIS Conference 2015 was priceless. The discussions with fellow educators on how we could further refine our existing assessment practices were truly enriching.
+
+**4.    Are You Ready for the Flipped Classroom?** **(2015)**
+
+Benefit to Practice: The findings from the inquiry have helped me appreciate the necessity of establishing thinking routines as part of the mechanism for developing students’ mathematical comprehension skills and self-assessment skills. These are two important factors in preparing and optimizing students’ learning in a flipped classroom environment.
+
+**5.    Impact of Assessing Digital Writing on the Performance of High-ability Students** **(2014)**
+
+Benefit to Practice: The research contributes to a deeper understanding of how best to teach digital writing to the students by highlighting students' perceptions of the learning that had taken place in the language classroom.  
+
+The full list of Practitioner Inquiry projects can be found [here](http://language%20classroom/).
