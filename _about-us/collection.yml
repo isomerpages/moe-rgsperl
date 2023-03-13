@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Centre for Pedagogical/History.md
       - Centre for Pedagogical/.keep
