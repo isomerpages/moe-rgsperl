@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Research.md
       - Centre for Pedagogical/.keep
       - Centre for Pedagogical/History.md
       - Centre for Pedagogical/Vision, Mission and Goal.md
       - Centre for Pedagogical/Our work.md
       - Centre for Pedagogical/Message By Deputy Principal.md
       - Centre for Pedagogical/Personnel.md
+      - Research.md
