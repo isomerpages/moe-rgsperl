@@ -50,10 +50,10 @@ _**\* only includes new staff that joined RGS in Jan 2016**_
 | Growth Mindset Workshop  | CLC  | 20-21 Jun (Tues-Wed)  | 8.00am – 5.00pm  | SD & Perl  | Selected Teachers  |
 | Programe/Curriculum Design and Evaluation  | TBC  | 29-30 June or<br><br>18 - 19 Jul  | 8.00am – 5.00pm  | GEB  | KPs – Sign Up  |
 | EAS Professional Development Day  | TBC  | 14 Nov (Tues)  | TBC  | HR & Perl  | All EAS  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| School Safety Day  | Various Venues  | 15 Nov (Wed)  | 8.00am – 1.00pm  |   |   |
+| Standard First Aid Refresher Course  | Various Venues  | 16-17 Nov (Thurs-Fri)  | 8.00am – 5.00pm  |   |   |
+| Professional Learning Clinic  | Raffles Room  | 13 Feb (Wed)  | 2.30pm – 5.00pm  |   |   |
+| Professional Learning Clinic  | Raffles Room  | 28 Feb (Tues)  |  2.30pm – 5.00pm |   |   |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
