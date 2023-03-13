@@ -24,3 +24,21 @@ The **RGS Research Academy Handbook** provides information and guidelines for 
 **Research Categories**
 
 Research in RGS consists of 2 categories: **School-Wide Research** and **Practitioner Inquiry**. The info-graphic below describes Practitioner Inquiry in RGS.
+
+<img src="/images/A guide to rpactitioner inquiry in RGS_Poster _final.jpg" style="width:85%">
+
+More information about the RGS Research Ecosystem can be found here.
+
+----
+
+**II. School-Wide Research Projects**
+
+PeRL-conducted School-Wide Research focuses on:
+
+·         Curriculum design
+
+·         Instructional approaches
+
+·         Assessment
+
+·         Professional Practice
