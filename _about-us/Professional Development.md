@@ -57,3 +57,5 @@ Literature indicates that a well-developed Professional Learning Plan consists o
 Knowledge of teaching is learned in practice (Ball & Cohen, 1999). It is connected to practice and is iterative.
     
 Teachers take note not only of what they teach but also, how they have done so. They examine students’ learning in terms of the desired outcomes and use the feedback to further hone their practice. As Smylie (2010) noted, “We will fail … to improve schooling for children until we acknowledge the importance of schools not only as places for teachers to work but also as places for teachers to learn” (p. 92).
+
+5 \.  <u>Data-driven :</u> Pedagogical decisions are based on triangulated data on student performance. Professional learning is therefore, outcomes-focused.Assessment is valued for its data on the teaching–learning relationship.
