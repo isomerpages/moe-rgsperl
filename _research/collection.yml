@@ -2,6 +2,6 @@ collections:
   research:
     output: true
     order:
-      - Overview/Research Office.md
-      - Overview/Overview.md
       - Overview/.keep
+      - Overview/Overview.md
+      - Overview/Research Office.md
