@@ -46,10 +46,10 @@ _**\* only includes new staff that joined RGS in Jan 2016**_
 | Meeting the Social-Emotional & Affective Needs of Gifted Adolescents  | RGS  | 19 April (Wed)  | 8.00am – 5.00pm  | GEB  | Selected Teachers & Sign-up  |
 | Open Classroom & Good Practice Day  | Various Venues  | 28 Apr (Fri)  | 7.30am – 5.00pm  | Perl  | ALL Teachers  |
 | Reflection Workshop  |  KS Chee Theatre | 29-30 May  (Mon-Tues)  | 8.00am – 5.00pm  | SD & Perl  | Selected Teachers  |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| EAS Learning Journey  | -  |  19 June (Mon) | TBC  | HR & Perl  | All EAS  |
+| Growth Mindset Workshop  | CLC  | 20-21 Jun (Tues-Wed)  | 8.00am – 5.00pm  | SD & Perl  | Selected Teachers  |
+| Programe/Curriculum Design and Evaluation  | TBC  | 29-30 June or<br><br>18 - 19 Jul  | 8.00am – 5.00pm  | GEB  | KPs – Sign Up  |
+| EAS Professional Development Day  | TBC  | 14 Nov (Tues)  | TBC  | HR & Perl  | All EAS  |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
 |   |   |   |   |   |   |
