@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - "Completed Projects/Error analysis: Where Learning is the Cost of
-        Erros.md"
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -16,3 +14,5 @@ collections:
         Exam: A Research on Methodology and Application.md"
       - Completed Projects/Facilitating Scientific Argumentation in a Chemistry
         Classroom.md
+      - "Completed Projects/Error analysis: Where Learning is the Cost of
+        Erros.md"
