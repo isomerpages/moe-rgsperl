@@ -12,6 +12,13 @@ A copy of our in-house publications can be accessed by clicking on the images. 
 
 #### INSIGHTS MAGAZINE - ISSUE 4, 2018
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://www.rgs.edu.sg/qql/slot/u554/Resources/Inhouse%20Publications/Insights%202018_final.pdf">
 <img style="width:25%" align=left src="/images/Image_frontcover_Insights_vol4.png">
 </a></p>
+
+**PDF EXCEEDS 5MB**
+<br clear=left>
+
+#### INSIGHTS MAGAZINE - ISSUE 3, 2016
+
+
