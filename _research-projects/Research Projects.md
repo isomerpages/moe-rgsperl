@@ -45,3 +45,9 @@ description: ""
 <img style="width:25%" align=left src="/images/re9.jpg">
 </a></p>
 <br clear=left>
+
+#### ACADEMIC RESEARCH
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/re10.jpg">
+</a></p>
