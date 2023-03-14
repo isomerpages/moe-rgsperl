@@ -12,11 +12,11 @@ description: ""
 | 3  | Practitioner Inquiry  | [Review of RGS 1:1 Programme](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/review-of-rgs-1-1-programme)  | Mrs Tan Yin Lai  | Others  | 2018  | Not Available  |
 | 4  | Practitioner Inquiry  | [Using Interactive Approach to Teach Chinese Language as a Foreign Language](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/using-interactive-approach-to-teach-chinese-language-as-a-foreign-language)  | Ms Ngiew Tian Hui, Ms Wang Yichun  |Languages  | 2018  | Not Available  |
 | 5  |  Practitioner Inquiry | [Differentiated Instruction in Chinese Language Class](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/differentiated-instruction-in-chinese-language-class)  | Mrs Tan Bee Lain, Ms Tan Lee Khim  | Languages  | 2018  | Not Available  |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| 6  | Practitioner Inquiry  | [A Cross-Disciplinary Study OF Engagement In Teachers' Research Articles](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/a-cross-disciplinary-study-of-engagement-in-teachers-research-articles-1)  | Ms Choo Li Lin, Ms Masturah Aziz  | English Language & Literature  | 2018  | [Available](https://drive.google.com/drive/folders/1BsCylk1MXNnPU8nopKModmhq78m6ImUd)  |
+| 7  | Practitioner Inquiry  | [Using Quick Answer Game “Kahoot” in Teaching 限时抢答游戏Kahoot教学实践之考量](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/using-quick-answer-game-kahoot-in-teaching-kahoot)  | Mr Wong Chee Yeh, Ms Shen Mei Ling  | Languages  | 2017  |Not Available   |
+| 8  |Practitioner Inquiry   | [Differentiating An Instructional Unit Using Layered Approach](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/differentiating-an-instructional-unit-using-layered-approach)  | Mr Azahar Noor  | Humanities  | 2017  | Not Available  |
+| 9  | Practitioner Inquiry  |  [Problems Posing in Mathematics Teaching and Learning](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/problems-posing-in-mathematics-teaching-and-learning) | Ms Lim Huey Miin, Ms Goh Li Meng  | Mathematics  |2017   | Not Available  |
+| 10  |Practitioner Inquiry   | [Inquiry-Based Learning for Lower Secondary Humanities](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/inquiry-based-learning-for-lower-secondary-humanities)  |  Mrs Mak Wai Ling, Mrs Roslinda Chan, Mrs Lucille Yap | Humanities  | 2016  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2014%5FMakWaiLing%5FRoslinda%5FInquiryBasedL&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A)  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
