@@ -40,12 +40,10 @@ description: ""
 | 3  | Academic Research  | [Differentiated Instructions for High Ability Diverse Learners in a Regular Classroom: A Case Study in an Independent School](http://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/differentiated-instructions-for-high-ability-diverse-learners-in-a-regular-classroom-a-case-study-in-an-independent-school)  | Ms Tan Yen Chuan, Mr Azahar Md Noor  | Others  | 2014  | Not Available  |
 | 4  |Academic Research   |[The Information Management Practices of RGS PeRL: A Case Study](http://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/the-information-management-practices-of-rgs-perl-a-case-study)   | Ms Masturah Abdul Aziz  | Others  | 2013  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2013_MasturahAbdAziz_The%20Information%20Management%20Practices%20of%20RGS%20PeRL&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View={47BC0F48-6ED4-454D-932E-260891C384CC}&InitialTabId=Ribbon.Document&VisibilityContext=WSSTabPersistence)  |
 | 5  | Academic Research  | [Gifted Females’ Attitudes and Perceptions of Learning Environment in Technology-Based Science Classrooms in Singapore](http://www.rgs.edu.sg/rgsperl/research-1/current-projects/gifted-females-attitudes-and-perceptions-of-learning-environment-in-technology-based-science-classrooms-in-singapore)  | Mrs Sundari Prama, Professor Barry Fraser (Curtin University, Perth)  | Science  | 2013  | Not Available  |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| 6  |Academic Research   |   |   |   |   |   |
+| 7  | Academic Research  |   |   |   |   |   |
+|  8 | Academic Research  |   |   |   |   |   |
+| 9  | Academic Research  |   |   |   |   |   |
+| 10  |Academic Research   |   |   |   |   |   |
+|  11 | Academic Research  |   |   |   |   |   |
 |   |   |   |   |   |   |   |
