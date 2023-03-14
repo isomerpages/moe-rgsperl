@@ -28,6 +28,3 @@ description: ""
 | 19  | Practitioner Inquiry  | [Affective Learning in Science Using Reversed Analogy](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/affective-learning-in-science-using-reversed-analogy)  | Ms Angela Tan Poh Poh  | Science  |  2016 | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2016%5FAngelaTeo%5FReversed%20Analogy&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A%2D888E)  |
 | 20  | Practitioner Inquiry  | [Mapping Ancient Southeast Asia for 21st Century Learners](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/mapping-ancient-southeast-asia-for-21st-century-learners)  | Mdm Aliah bte Mohamed Shariff  | Humanities  | 2016  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2016%5FAliah%5FAreaStudies&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A%2D888E%2DF29DEB33)  |
 |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
