@@ -2,4 +2,5 @@ collections:
   research-projects:
     output: true
     order:
+      - All Projects.md
       - Research Projects.md
