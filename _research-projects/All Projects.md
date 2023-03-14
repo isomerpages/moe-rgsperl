@@ -17,11 +17,11 @@ description: ""
 | 8  |Practitioner Inquiry   | [Differentiating An Instructional Unit Using Layered Approach](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/differentiating-an-instructional-unit-using-layered-approach)  | Mr Azahar Noor  | Humanities  | 2017  | Not Available  |
 | 9  | Practitioner Inquiry  |  [Problems Posing in Mathematics Teaching and Learning](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/problems-posing-in-mathematics-teaching-and-learning) | Ms Lim Huey Miin, Ms Goh Li Meng  | Mathematics  |2017   | Not Available  |
 | 10  |Practitioner Inquiry   | [Inquiry-Based Learning for Lower Secondary Humanities](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/inquiry-based-learning-for-lower-secondary-humanities)  |  Mrs Mak Wai Ling, Mrs Roslinda Chan, Mrs Lucille Yap | Humanities  | 2016  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2014%5FMakWaiLing%5FRoslinda%5FInquiryBasedL&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A)  |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| 11  | Practitioner Inquiry  | [Facilitating Scientific Argumentation in a Chemistry Classroom](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/facilitating-scientific-argumentation-in-a-chemistry-classroom)  | Ms Doreen Loh  | Science  |   |   |
+| 12  | Practitioner Inquiry  | [How has TokTol, an Online Adaptive Learning Tool, Improved Students’ Perception and Performance?](http://www.rgs.edu.sg/rgsperl/research-1/current-projects/how-has-toktol-an-online-adaptive-learning-tool-improved-students-perception-and-performance)  | Mr Foo Yong Wee Christopher  |Science  |   |   |
+| 13  | Practitioner Inquiry  | [Affective Learning in Science Using Reversed Analogy](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/affective-learning-in-science-using-reversed-analogy)  | Ms Angela Tan Poh Poh  |  Science |   |   |
+| 14  | Practitioner Inquiry  | [What if some know more? The Place of the Biography Unit in RGS Year 2 English Language Instructional Programme](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/what-if-some-know-more-the-place-of-the-biography-unit-in-rgs-year-2-english-language-instructional-programme)  | Ms Tan Kum Chee  | English Language & Literature  |   |   |
+| 15  | Practitioner Inquiry  | [Tackling the New Oral Component in the GCE O Level Exam: A Research on Methodology and Application](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/tackling-the-new-oral-component-in-the-gce-o-level-exam-a-research-on-methodology-and-application)  | Ms Lee Szer Yuen, Ms Mu Jun  | Languages  |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
