@@ -5,6 +5,8 @@ description: ""
 ---
 ## ALL PROJECTS
 
+#### Practitioner Inquiry
+
 |NO   | RESEARCH <br>CATEGORY  | PROJECT TITLE  | INVESTIGATOR(S)  | DISCIPLINE  | YEAR  | ARTIFACTS  |
 |:-:|---|---|---|---|---|---|
 | 1  | Practitioner Inquiry  | [Maximising Impact on Student Learning](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/research/research-projects/completed-projects/maximizing-impact-on-student-learning)  | Mr Azahar Noor  | Humanities  | 2018  | [Available](https://drive.google.com/drive/folders/1bmRaEWkA1VQC6mntykc5luQ91eJFdk5U)  |
@@ -27,4 +29,23 @@ description: ""
 | 18  | Practitioner Inquiry  | [Differentiated Instruction (DI) through Self Directed Learning (SDL) for High Ability Learners (HALs)](https://www.rgs.edu.sg/rgsperl/research-1/current-projects/differentiated-instruction-di-through-self-directed-learning-sdl-for-high-ability-learners-hals)  | Mrs Siti Raihana Abbas  | Aesthetics  | 2016  | Not Available  |
 | 19  | Practitioner Inquiry  | [Affective Learning in Science Using Reversed Analogy](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/affective-learning-in-science-using-reversed-analogy)  | Ms Angela Tan Poh Poh  | Science  |  2016 | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2016%5FAngelaTeo%5FReversed%20Analogy&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A%2D888E)  |
 | 20  | Practitioner Inquiry  | [Mapping Ancient Southeast Asia for 21st Century Learners](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/mapping-ancient-southeast-asia-for-21st-century-learners)  | Mdm Aliah bte Mohamed Shariff  | Humanities  | 2016  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2016%5FAliah%5FAreaStudies&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A%2D888E%2DF29DEB33)  |
+|   |   |   |   |   |   |   |
+
+#### Academic Research
+
+|NO   | RESEARCH <br>CATEGORY  | PROJECT TITLE  | INVESTIGATOR(S)  | DISCIPLINE  | YEAR  | ARTIFACTS  |
+|:-:|---|---|---|---|---|---|
+| 1  |Academic Research   | [The Role of a Professional Learning Community in Informing Teacher Practice: A Case Study in Raffles Girls' School](https://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/the-role-of-a-professional-learning-community-in-informing-teacher-practice-a-case-study-in-raffles-girls-school)  | Ms Masturah Abdul Aziz, Mrs Lucille Yap, Ms Tan Yen Chuan  | Others  | 2015  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/_layouts/15/start.aspx#/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2015_MasturahAziz_RoleofPLC&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00-3D6F-408A-888E-F29DEB3303EF%7D&InitialTabId=Ribbon%2ERead&VisibilityContext=WSSTabPersistence)  |
+| 2  | Academic Research  | [Meta-Analysis of Thinking](http://www.rgs.edu.sg/rgsperl/research-1/current-projects/meta-analysis-of-thinking)  | Mrs Lucille Yap, Mr Azahar Md Noor, Mr Lim Er Yang, Mr Thomas Lee  | Others  | 2015  | Not Available  |
+| 3  | Academic Research  | [Differentiated Instructions for High Ability Diverse Learners in a Regular Classroom: A Case Study in an Independent School](http://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/differentiated-instructions-for-high-ability-diverse-learners-in-a-regular-classroom-a-case-study-in-an-independent-school)  | Ms Tan Yen Chuan, Mr Azahar Md Noor  | Others  | 2014  | Not Available  |
+| 4  |Academic Research   |[The Information Management Practices of RGS PeRL: A Case Study](http://www.rgs.edu.sg/rgsperl/research/research-projects/completed-projects/the-information-management-practices-of-rgs-perl-a-case-study)   | Ms Masturah Abdul Aziz  | Others  | 2013  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2013_MasturahAbdAziz_The%20Information%20Management%20Practices%20of%20RGS%20PeRL&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View={47BC0F48-6ED4-454D-932E-260891C384CC}&InitialTabId=Ribbon.Document&VisibilityContext=WSSTabPersistence)  |
+| 5  | Academic Research  | [Gifted Females’ Attitudes and Perceptions of Learning Environment in Technology-Based Science Classrooms in Singapore](http://www.rgs.edu.sg/rgsperl/research-1/current-projects/gifted-females-attitudes-and-perceptions-of-learning-environment-in-technology-based-science-classrooms-in-singapore)  | Mrs Sundari Prama, Professor Barry Fraser (Curtin University, Perth)  | Science  | 2013  | Not Available  |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
