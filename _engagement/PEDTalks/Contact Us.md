@@ -16,3 +16,11 @@ Singapore 318871
 Tel: 67371845<br>
        69706442<br>
 Fax: 62353731
+
+For any enquiries, please contact:
+
+Mr Azahar Noor<br>
+[azahar.noor@rafflesgirlssch.edu.sg](mailto:azahar.noor@rafflesgirlssch.edu.sg)
+
+Mrs Lucille Yap<br>
+[lucille.yap@rafflesgirlssch.edu.sg](mailto:lucille.yap@rafflesgirlssch.edu.sg)
