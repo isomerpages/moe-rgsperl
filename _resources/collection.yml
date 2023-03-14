@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - SPSS Loan Service.md
       - PeRL Publications/.keep
       - PeRL Publications/INSIGHTS MAGAZINE.md
+      - SPSS Loan Service.md
