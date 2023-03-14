@@ -12,3 +12,9 @@ third_nav_title: PEDTalks
 
 **PED**TALKS present Session 1 on DIfferentiated Instructions on Wednesday 2 September 2020
 
+|   |   |
+|:-:|---|
+| 3.05 pm  | Sharing on DI by RGS PeRL  |
+| 3.30 pm  | Conversation<br>\-    What is your personal belief about DI?<br>\-    What is your personal experience with DI?<br>\-    What are some of the success stories / challenges you faced in using DI?  |
+| 4.20 pm  | Rounding-up of Conversation<br>End  |
+|   |   |
