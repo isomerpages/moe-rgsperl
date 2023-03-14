@@ -2,5 +2,6 @@ collections:
   research-projects:
     output: true
     order:
+      - Completed Projects/.keep
       - Research Projects.md
       - All Projects.md
