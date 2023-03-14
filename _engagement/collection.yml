@@ -2,4 +2,5 @@ collections:
   engagement:
     output: true
     order:
+      - PEDTalks/.keep
       - Engagement.md
