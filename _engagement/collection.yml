@@ -2,6 +2,7 @@ collections:
   engagement:
     output: true
     order:
+      - PEDTalks/Contact Us.md
       - PEDTalks/.keep
       - PEDTalks/Home.md
       - PEDTalks/About the Session.md
