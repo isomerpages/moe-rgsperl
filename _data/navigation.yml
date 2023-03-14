@@ -11,4 +11,11 @@ links:
   - title: Symposium 2021
     url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium2021
   - title: Resources
-    collection: resources
+    url: /permalink
+    sublinks:
+      - title: SPSS Loan Service
+        url: /permalink
+      - title: Conference Presentations
+        url: /permalink
+      - title: EDUBlog (ARCHIVED)
+        url: /permalink
