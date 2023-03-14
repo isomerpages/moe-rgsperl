@@ -35,3 +35,5 @@ A copy of our in-house publications can be accessed by clicking on the images. 
 </a></p>
 
 [pdf](/files/INSIGHTS2_Publication_2014(Final)_vs3.pdf)
+<br clear=left>
+
