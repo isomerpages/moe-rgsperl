@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - Completed Projects/Facilitating Scientific Argumentation in a Chemistry
-        Classroom.md
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -14,3 +12,5 @@ collections:
         Kahoot 教学实践之考量.md
       - "Completed Projects/Tackling the New Oral Component in the GCE O Level
         Exam: A Research on Methodology and Application.md"
+      - Completed Projects/Facilitating Scientific Argumentation in a Chemistry
+        Classroom.md
