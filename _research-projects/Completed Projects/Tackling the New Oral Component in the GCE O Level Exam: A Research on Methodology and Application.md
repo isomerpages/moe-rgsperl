@@ -9,7 +9,7 @@ third_nav_title: Completed Projects
 
 |   |   |
 |:-:|---|
-| **Project Type:** Practitioner Inquiry  | **Discipline**: Mathematics  |
+| **Project Type:** Practitioner Inquiry  | **Discipline:** Mathematics  |
 | **Duration:** 01/2016 - 07/2016  |**Domain:** Pedagogical Approaches   |
 |   |   |
 
