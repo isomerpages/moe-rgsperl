@@ -2,7 +2,7 @@ collections:
   research-projects:
     output: true
     order:
-      - Completed Projects/Maximizing Impact on Student Learning.md
-      - Completed Projects/.keep
       - Research Projects.md
       - All Projects.md
+      - Completed Projects/.keep
+      - Completed Projects/Maximizing Impact on Student Learning.md
