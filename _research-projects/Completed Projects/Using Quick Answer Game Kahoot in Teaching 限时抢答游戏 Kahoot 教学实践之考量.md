@@ -8,7 +8,7 @@ third_nav_title: Completed Projects
 
 |   |   |
 |:-:|---|
-| **Project Type:** Practitioner Inquiry  | Discipline: Languages  |
+| **Project Type:** Practitioner Inquiry  | **Discipline:** Languages  |
 | **Duration:** 01/2017 - 07/2017  | **Domain:** Pedagogical Approaches  |
 |   |   |
 
