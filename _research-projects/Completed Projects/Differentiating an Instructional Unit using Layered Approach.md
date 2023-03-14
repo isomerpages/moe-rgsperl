@@ -8,7 +8,7 @@ third_nav_title: Completed Projects
 
 |   |   |
 |:-:|---|
-| **Project Type:** Practitioner Inquiry  | Discipline: Humanities  |
+| **Project Type:** Practitioner Inquiry  | **Discipline:** Humanities  |
 | **Duration:** 01/2017 - 05/2017  | **Domain:** Pedagogical Approaches  |
 |   |   |
 
