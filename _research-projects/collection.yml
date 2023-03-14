@@ -1,4 +1,5 @@
 collections:
   research-projects:
     output: true
-    order: []
+    order:
+      - Research Projects.md
