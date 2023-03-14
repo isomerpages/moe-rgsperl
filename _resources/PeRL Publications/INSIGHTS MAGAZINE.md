@@ -24,3 +24,6 @@ A copy of our in-house publications can be accessed by clicking on the images. 
 <p><a href="https://www.rgs.edu.sg/qql/slot/u554/Resources/Inhouse%20Publications/Insights%202018_final.pdf">
 <img style="width:25%" align=left src="/images/Mag Cover_low res_website.png">
 </a></p>
+
+#### INSIGHTS MAGAZINE - ISSUE 2, 2014
+
