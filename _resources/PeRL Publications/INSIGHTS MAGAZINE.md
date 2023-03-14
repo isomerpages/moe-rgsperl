@@ -33,3 +33,5 @@ A copy of our in-house publications can be accessed by clicking on the images. 
 <p><a href="https://www.rgs.edu.sg/qql/slot/u554/Resources/Inhouse%20Publications/Full%20Draft%206%20-%20Insights_original_updated.pdf">
 <img style="width:25%" align=left src="/images/image insights 2014.png">
 </a></p>
+
+[pdf](/files/INSIGHTS2_Publication_2014(Final)_vs3.pdf)
