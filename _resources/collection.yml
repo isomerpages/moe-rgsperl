@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Conference Presentations/2010.md
-      - Conference Presentations/Conference Presentations.md
       - Conference Presentations/.keep
+      - Conference Presentations/Conference Presentations.md
+      - Conference Presentations/2010.md
       - PeRL Publications/.keep
       - PeRL Publications/INSIGHTS MAGAZINE.md
       - SPSS Loan Service.md
