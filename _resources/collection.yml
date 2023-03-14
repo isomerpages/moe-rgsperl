@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Conference Presentations/2011.md
       - Conference Presentations/.keep
       - Conference Presentations/Conference Presentations.md
       - Conference Presentations/2010.md
