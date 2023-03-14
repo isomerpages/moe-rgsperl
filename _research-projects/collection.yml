@@ -1,0 +1,4 @@
+collections:
+  research-projects:
+    output: true
+    order: []
