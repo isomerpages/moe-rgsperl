@@ -3,6 +3,13 @@ links:
   - title: About Us
     collection: about-us
   - title: Research
+    url: /permalink
+    sublinks:
+      - title: Overview
+        url: /permalink
+      - title: Research Projects
+        url: /permalink
+  - title: Research
     collection: research
   - title: Professional Learning
     collection: professional-learning
