@@ -39,3 +39,5 @@ This project was in collaboration with the National Institute of Education (NIE)
 | Collaborator  |  Dr Tan Liang See | National Institute of Education  |
 | Collaborator  | Dr Lee Yim Ping  | National Institute of Education  |
 |   |   |   |
+
+Click here to see [**Artifacts**](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2010%5FPeRL%5FPerformance%20Tasks&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)
