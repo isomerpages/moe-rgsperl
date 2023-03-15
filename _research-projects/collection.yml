@@ -2,8 +2,6 @@ collections:
   research-projects:
     output: true
     order:
-      - Current Projects/Gifted Females' Attitudes and Perceptions of learning
-        Environment in Technology Based Science.md
       - Current Projects/.keep
       - Current Projects/How has TokTol, an online Adaptive learning tool
         improved students' perception and performance?.md
@@ -14,6 +12,8 @@ collections:
         Depositions in Philosophy.md
       - Current Projects/A Study on the use of Drama Techniques to improve
         Chinese Oral Communication.md
+      - Current Projects/Gifted Females' Attitudes and Perceptions of learning
+        Environment in Technology Based Science.md
       - Research Projects.md
       - All Projects.md
       - Completed Projects/.keep
