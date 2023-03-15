@@ -2,6 +2,8 @@ collections:
   research-projects:
     output: true
     order:
+      - Current Projects/How has TokTol, an online Adaptive learning tool
+        improved students' perception and performance?.md
       - Current Projects/.keep
       - Research Projects.md
       - All Projects.md
