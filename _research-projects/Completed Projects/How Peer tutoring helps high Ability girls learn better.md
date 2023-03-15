@@ -20,3 +20,11 @@ All students have different entry level in terms of practical skills in sewing. 
 
 ##### RESEARCH PERSONNEL:
 
+| Role  | Name  | Department  |
+|:-:|---|---|
+| Investigator  | Mrs Lee Hwee Ling  |Aesthetics   |
+|Investigator   | Mrs Vivien Willamme  |Aesthetics   |
+| Advisor  | Mrs Leung Hui Leng  | PeRL  |
+|   |   |   |
+
+Click [here](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/SitePages/Home.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2015%5FLeeHweeLing%5FVivienW%5FPeerTutoring&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7BD2178A00%2D3D6F%2D408A%2D888E%2DF29DEB3303EF%7D) to view artefacts.
