@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - Completed Projects/The Teaching and Learning of Mathematical Modelling
-        in a Secondary School.md
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -91,3 +89,5 @@ collections:
       - Completed Projects/Efficacy of self and peer evaluation via voice thread
         (ICT) and Hardcopy as Assessment tools.md
       - Completed Projects/RAM 2011 Programme Evaluation.md
+      - Completed Projects/The Teaching and Learning of Mathematical Modelling
+        in a Secondary School.md
