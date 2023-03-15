@@ -26,3 +26,14 @@ Secondary Questions:<br>
 2 \.  Given that Y1 and Y2 Philosophy in one of the schools have smaller class sizes than the other, do smaller class sizes have an effect on the attainment of COI learner outcomes?
 
 This project was in collaboration with Raffles Institution.
+
+##### RESEARCH PERSONNEL:
+
+| Role  | Name  |  Department |
+|:-:|---|---|
+| Investigator  | Mr Lim Er Yang  | Philosophy  |
+| Investigator  | Ms Ong Shu Juin  | Philosophy  |
+| Investigator  | Ms Kristie Tay  | Philosophy (RI)  |
+| Investigator  | Mr Ng Chong Jin  | Philosophy (RI)  |
+| Advisor  | Ms Masturah Abdul Aziz  |  PeRL |
+|   |   |   |
