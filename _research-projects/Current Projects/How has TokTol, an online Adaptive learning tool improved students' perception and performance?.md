@@ -22,3 +22,8 @@ This project is in collaboration with the Ministry of Education (MOE).
 
 ##### RESEARCH PERSONNEL:
 
+| Role  | Name  |  Department |
+|:-:|---|---|
+| Investigator  | Mr Foo Yong Wee Christopher  | Science  |
+| Advisor  | Ms Masturah Binte Abdul Aziz  | PeRL  |
+|   |   |   |
