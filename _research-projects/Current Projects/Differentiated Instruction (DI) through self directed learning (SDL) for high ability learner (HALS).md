@@ -27,3 +27,11 @@ Steps for investigation:<br>
 1 \. Identify HALs using simple rubrics eg. time management, creativity, manipulative skills<br>
 2 \. Provide additional resources to allow room for creativity<br>
 3 \. Facilitate their inquisitive minds through extra consultation
+
+##### RESEARCH PERSONNEL:
+
+|  Role | Name  |  Department |
+|:-:|---|---|
+| Investigator  | Mrs Siti Raihana Abbas  |  Aesthetics |
+| Advisor  | Ms Masturah Abdul Aziz  |  PeRL |
+|   |   |   |
