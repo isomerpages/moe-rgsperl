@@ -31,3 +31,5 @@ The logic model will be used to show what the programme aims to accomplish by ex
 | Investigator  | Ms May Tan  | Senior Management  |
 | Investigator  | Mrs Mary George Cheriyan  | PeRL  |
 |   |   |   |
+
+Click here to view [**Artifacts**](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2012%5FMOEPeRL%5FIntegrated%20Programme%20Study&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)
