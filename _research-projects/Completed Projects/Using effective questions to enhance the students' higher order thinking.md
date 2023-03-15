@@ -26,9 +26,9 @@ This project was in collaboration with the Ministry of Education (MOE).
 | Role  | Name  | Department  |
 |:-:|---|---|
 | Investigator  | Ms Shen Mei Ling  | Languages  |
-| Investigator  | Ms Lim Lan Theen  |   |
-| Investigator  | Ms Ong Fui Ping  |   |
-| Supervisor  |  Ms Li Dong Mei |   |
-| Supervisor  | Mr Lim Chin Nam  |   |
-| Advisor  | Ms Tan Yen Chuan  |   |
+| Investigator  | Ms Lim Lan Theen  | Languages, Jurong West Secondary School  |
+| Investigator  | Ms Ong Fui Ping  | Languages, Yuan Ching Secondary School  |
+| Supervisor  |  Ms Li Dong Mei | Curriculum Planning and Development Division, MOE, Singapore  |
+| Supervisor  | Mr Lim Chin Nam  | Curriculum Planning and Development Division, MOE, Singapore  |
+| Advisor  | Ms Tan Yen Chuan  | PeRL  |
 |   |   |   |
