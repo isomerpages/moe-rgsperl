@@ -2,6 +2,8 @@ collections:
   research-projects:
     output: true
     order:
+      - Current Projects/The Development of Community of Inquiry Skills and
+        Depositions in Philosophy.md
       - Current Projects/.keep
       - Current Projects/How has TokTol, an online Adaptive learning tool
         improved students' perception and performance?.md
