@@ -2,8 +2,6 @@ collections:
   research-projects:
     output: true
     order:
-      - Current Projects/Effects of Portfolio use as a Learning Tool on HML
-        Students' Achievements and Reflective Practice.md
       - Current Projects/.keep
       - Current Projects/How has TokTol, an online Adaptive learning tool
         improved students' perception and performance?.md
@@ -18,6 +16,8 @@ collections:
         Environment in Technology Based Science.md
       - Current Projects/What if some know more? The place of the Biography unit
         in RGS Year 2 EL Instructional Programme.md
+      - Current Projects/Effects of Portfolio use as a Learning Tool on HML
+        Students' Achievements and Reflective Practice.md
       - Research Projects.md
       - All Projects.md
       - Completed Projects/.keep
