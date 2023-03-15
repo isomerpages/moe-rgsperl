@@ -23,6 +23,12 @@ This project was in collaboration with the Ministry of Education (MOE).
 
 ##### RESEARCH PERSONNEL:
 
-
-
-
+| Role  | Name  | Department  |
+|:-:|---|---|
+| Investigator  | Ms Shen Mei Ling  | Languages  |
+| Investigator  | Ms Lim Lan Theen  |   |
+| Investigator  | Ms Ong Fui Ping  |   |
+| Supervisor  |  Ms Li Dong Mei |   |
+| Supervisor  | Mr Lim Chin Nam  |   |
+| Advisor  | Ms Tan Yen Chuan  |   |
+|   |   |   |
