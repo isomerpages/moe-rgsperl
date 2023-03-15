@@ -20,3 +20,11 @@ The 5 Year 2 classes currently equipped with iPads and MacBooks are another pilo
 
 ##### RESEARCH PERSONNEL:
 
+| Role  | Name  | Department  |
+|:-:|---|---|
+| Investigator  | Mr Michael Jalleh  | Senior Management  |
+| Investigator  | Mr Alvin Tan Peng Hong  | Learning Technologies  |
+| Investigator  | Mr Christopher Ow  | PeRL  |
+|   |   |   |
+
+Click here to view [**Artifacts**](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2011%5FMJallehEtAl%5FRaffles%20Apple%20Mobile&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)
