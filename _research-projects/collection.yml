@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - Completed Projects/Differentiated Instruction in Chinese Language
-        Class.md
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -104,3 +102,5 @@ collections:
       - "Completed Projects/Self Regulated Learning: What it can look like.md"
       - Completed Projects/Problems Posing in Mathematics Teaching and
         Learning.md
+      - Completed Projects/Differentiated Instruction in Chinese Language
+        Class.md
