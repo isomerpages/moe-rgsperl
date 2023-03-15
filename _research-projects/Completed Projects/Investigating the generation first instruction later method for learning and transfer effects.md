@@ -22,3 +22,10 @@ This project was in collaboration with the National Institute of Education (NIE)
 
 ##### RESEARCH PERSONNEL:
 
+| Role  | Name  | Department  |
+|:-:|---|---|
+| Investigator  |Mrs Chew Meek Lin   |  PeRL |
+| Investigator  | Miss Lim Huey Miin  | Mathematics  |
+| Investigator  | Mdm Ng Peck Wee  | Mathematics  |
+| Investigator  | Ms Zhao Xuying  | Mathematics  |
+|   |   |   |
