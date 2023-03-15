@@ -4,7 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - "Completed Projects/Active Learning in chemistry: The Flipped Way.md"
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -67,3 +66,4 @@ collections:
         Summative Assessments of concepts.md
       - Completed Projects/Impact of Assessing Digital writing on the
         Performance of High Ability Students.md
+      - "Completed Projects/Active Learning in chemistry: The Flipped Way.md"
