@@ -48,5 +48,5 @@ description: ""
 |  11 | Academic Research  | [RaM 2011 Programme Evaluation](/research-projects/Completed-Projects/com49/)  | Mr Michael Jalleh, Mr Alvin Tan Peng Hong, Mr Christopher Ow  | Others  | 2011  | [Available](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2011%5FMJallehEtAl%5FRaffles%20Apple%20Mobile&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)  |
 |   |   |   |   |   |   |   |
 
-12,17,18 (current Project)
+
 2,5
