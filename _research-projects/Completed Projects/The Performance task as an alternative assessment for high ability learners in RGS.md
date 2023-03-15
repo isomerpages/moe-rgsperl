@@ -29,3 +29,13 @@ This project was in collaboration with the National Institute of Education (NIE)
 
 ##### RESEARCH PERSONNEL:
 
+| Role  | Name  | Department  |
+|:-:|---|---|
+| Investigator  | Mrs Mary George Cheriyan  | PeRL  |
+|  Investigator | Ms Tan Yen Chuan  | PeRL  |
+|  Investigator | Ms Masturah Abdul Aziz  |  PeRL |
+|  Investigator |  Mrs Lucille Yap |  PeRL |
+| Investigator | Mrs Chew Meek Lin  | PeRL  |
+| Collaborator  |  Dr Tan Liang See | National Institute of Education  |
+| Collaborator  | Dr Lee Yim Ping  | National Institute of Education  |
+|   |   |   |
