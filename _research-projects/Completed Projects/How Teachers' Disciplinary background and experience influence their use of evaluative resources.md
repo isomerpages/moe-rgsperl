@@ -7,3 +7,8 @@ third_nav_title: Completed Projects
 ---
 ## HOW TEACHERS’ DISCIPLINARY BACKGROUND AND EXPERIENCE INFLUENCE THEIR USE OF EVALUATIVE RESOURCES
 
+|   |   |
+|:-:|---|
+| **Project Type:** Practitioner Inquiry - Autonomous  |  **Discipline:** English Language |
+|**Duration:** 01/2012 - 12/2012   | **Domain:** Assessments  |
+|   |   |
