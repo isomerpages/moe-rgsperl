@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - Completed Projects/Investigating the generation first instruction later
-        method for learning and transfer effects.md
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -37,3 +35,5 @@ collections:
       - Completed Projects/Tracker and Differentiation.md
       - "Completed Projects/Differentiated Instructions for high ability diverse
         learners in regular classroom: Independent Sch.md"
+      - Completed Projects/Investigating the generation first instruction later
+        method for learning and transfer effects.md
