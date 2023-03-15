@@ -2,6 +2,7 @@ collections:
   research-projects:
     output: true
     order:
+      - Current Projects/Meta Analysis of Thinking.md
       - Current Projects/.keep
       - Current Projects/How has TokTol, an online Adaptive learning tool
         improved students' perception and performance?.md
