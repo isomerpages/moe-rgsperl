@@ -25,3 +25,8 @@ The objectives of the proposed study are:<br>
 
 ##### RESEARCH PERSONNEL:
 
+| Role  | Name  | Department  |
+|:-:|---|---|
+| Investigator  | Mrs Sundari Prama  | PeRL  |
+| Supervisor  | Professor Barry Fraser  | Curtin University, Perth  |
+|   |   |   |
