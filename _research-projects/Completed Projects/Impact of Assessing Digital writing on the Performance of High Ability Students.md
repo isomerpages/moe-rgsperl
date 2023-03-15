@@ -25,3 +25,5 @@ The introduction of digital technology in the English Language classroom has red
 | Investigator  | Mrs Hasanah Alfie  | English Language & Literature  |
 | Advisor  | Ms Tan Yen Chuan  | PeRL  |
 |   |   |   |
+
+Click here to view **[Artifacts.](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2013%5FJassieHasanah%5FAssessing%20Digital%20Writing&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)**
