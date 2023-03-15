@@ -2,8 +2,6 @@ collections:
   research-projects:
     output: true
     order:
-      - Current Projects/What if some know more? The place of the Biography unit
-        in RGS Year 2 EL Instructional Programme.md
       - Current Projects/.keep
       - Current Projects/How has TokTol, an online Adaptive learning tool
         improved students' perception and performance?.md
@@ -16,6 +14,8 @@ collections:
         Chinese Oral Communication.md
       - Current Projects/Gifted Females' Attitudes and Perceptions of learning
         Environment in Technology Based Science.md
+      - Current Projects/What if some know more? The place of the Biography unit
+        in RGS Year 2 EL Instructional Programme.md
       - Research Projects.md
       - All Projects.md
       - Completed Projects/.keep
