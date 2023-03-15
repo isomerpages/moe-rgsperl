@@ -2,8 +2,6 @@ collections:
   research-projects:
     output: true
     order:
-      - Current Projects/A Study on the use of Drama Techniques to improve
-        Chinese Oral Communication.md
       - Current Projects/.keep
       - Current Projects/How has TokTol, an online Adaptive learning tool
         improved students' perception and performance?.md
@@ -12,6 +10,8 @@ collections:
       - Current Projects/Meta Analysis of Thinking.md
       - Current Projects/The Development of Community of Inquiry Skills and
         Depositions in Philosophy.md
+      - Current Projects/A Study on the use of Drama Techniques to improve
+        Chinese Oral Communication.md
       - Research Projects.md
       - All Projects.md
       - Completed Projects/.keep
