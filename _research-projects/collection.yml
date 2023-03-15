@@ -4,7 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - Completed Projects/Education Beyond 2015.md
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -73,3 +72,4 @@ collections:
         tool in the English Language classroom.md
       - "Completed Projects/Evaluation of Rice: Impact and Areas for
         Improvement.md"
+      - Completed Projects/Education Beyond 2015.md
