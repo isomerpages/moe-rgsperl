@@ -18,3 +18,11 @@ Not available.
 
 ##### RESEARCH PERSONNEL:
 
+| Role  |  Name | Department  |
+|:-:|---|---|
+|Investigator   | Ms Angela Teo  | Science  |
+| Investigator  | Ms Sharon Siow Seau Yan  | Science  |
+| Advisor  | Ms Masturah Binte Abdul Aziz  | PeRL  |
+|   |   |   |
+
+Click here to view [**Artifacts**](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/2015_SharonSiowAngelaTeo_TrackerDifferentiatn/Use%20of%20Video%20Tracker%20in%20a%20Differentiated%20Classroom%20ppt.pdf?Web=1).
