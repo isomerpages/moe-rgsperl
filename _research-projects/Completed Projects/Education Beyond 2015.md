@@ -29,3 +29,5 @@ This project was in collaboration with UNESCO.
 |  Investigator | Mrs Lucille Yap  | PeRL  |
 | Investigator  | Dr Jarina Peer  | PeRL  |
 |   |   |   |
+
+Click here to view [**Artifacts**](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2FAcademic%20Research%2F2013%5FPeRLUNESCO%5FCountry%20Rpt%20Pedagogical%20Approaches&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)
