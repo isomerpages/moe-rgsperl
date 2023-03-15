@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - "Completed Projects/EPortfolio in Mathematics: Students' perceptions of
-        learning Mathematics.md"
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -43,3 +41,5 @@ collections:
         higher order thinking.md
       - Completed Projects/Impact of learning chemistry using simulation tools.md
       - Completed Projects/Effectiveness of video as a medium of Instruction.md
+      - "Completed Projects/EPortfolio in Mathematics: Students' perceptions of
+        learning Mathematics.md"
