@@ -4,8 +4,6 @@ collections:
     order:
       - Research Projects.md
       - All Projects.md
-      - "Completed Projects/Understanding Learning needs in RGS: Through the
-        lens of the tuition Phenomenon.md"
       - Completed Projects/.keep
       - Completed Projects/Maximizing Impact on Student Learning.md
       - Completed Projects/Differentiating an Instructional Unit using Layered
@@ -53,3 +51,5 @@ collections:
       - Completed Projects/Inquiry Based Learning for Lower Secondary
         Humanities.md
       - Completed Projects/Bring Your Own Device (BYOD) for Year 4S.md
+      - "Completed Projects/Understanding Learning needs in RGS: Through the
+        lens of the tuition Phenomenon.md"
