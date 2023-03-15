@@ -28,12 +28,14 @@ For students<br>
 
 ##### RESEARCH PERSONNEL:
 
-|   |   |   |
+| Role  | Name  | Department  |
 |:-:|---|---|
-| Investigator  |   |   |
-| Investigator  |   |   |
-| Investigator  |   |   |
-| Investigator  |   |   |
-|  Advisor |   |   |
-|  Advisor |   |   |
+| Investigator  | Mrs Tan Kum Chee  | English Language & Literature  |
+| Investigator  |  Ms Choo Li Lin | English Language & Literature  |
+| Investigator  |Ms Christie Chan   |  English Language & Literature |
+| Investigator  | Mr Tan Yong Yeong  |  English Language & Literature |
+|  Advisor | Mrs Mary George Cheriyan  |  PeRL |
+|  Advisor | Ms Masturah Abdul Aziz  |  PeRL |
 |   |   |   |
+
+Click here to view [**Artifacts**](https://inet.rgs.edu.sg/staff/PeRL/RC/Web/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fstaff%2FPeRL%2FRC%2FWeb%2FShared%20Documents%2F2012%5FThamKumCheeEtAl%5FRuminatingRubric&FolderCTID=0x01200031712F504D8D504CA3B282CB29566D72&View=%7B47BC0F48%2D6ED4%2D454D%2D932E%2D260891C384CC%7D)
