@@ -2,7 +2,6 @@ collections:
   homepage:
     output: true
     order:
-      - Announcements/Awards.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
@@ -17,3 +16,4 @@ collections:
         Teaching and Learning.md
       - Announcements/How do the Highest Achieving School Systems in the world
         develop their teachers?.md
+      - Announcements/Awards.md
