@@ -21,3 +21,6 @@ third_nav_title: Flagship Initiatives
 <img src="/images/flag3.jpg" style="width:20%" align=left>
 
 **EDUBLOG**<br>
+[Read More...](https://rgsperl.wordpress.com/)
+<br clear=left>
+
