@@ -21,3 +21,8 @@ description: ""
 
 **THANK YOU! - OPEN CLASSROOM 2019**<br>
 [Read More...](/rgs-perl-happenings/ty-openclassroom/)
+<br clear=left>
+
+<img src="/images/hap4.jpg" style="width:20%" align=left>
+
+**DIFFERENTIATION WORKSHOP BY PROFESSOR CAROL ANN TOMLINSON**<br>
