@@ -15,3 +15,9 @@ third_nav_title: Flagship Initiatives
 <img src="/images/flag2.jpg" style="width:20%" align=left>
 
 **RGS PERL ATTACHMENT PROGRAMME**<br>
+[Read More...](/about-us/perl-attachment-prog/)
+<br clear=left>
+
+<img src="/images/flag3.jpg" style="width:20%" align=left>
+
+**EDUBLOG**<br>
