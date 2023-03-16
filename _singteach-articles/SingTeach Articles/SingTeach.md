@@ -32,3 +32,9 @@ Contributed by Masturah Binte Abdul Aziz and Tan Yen Chuan, Centre for Pedagogic
 
 **[High-ability Learners are not Homogeneous](https://singteach.nie.edu.sg/issue58-contributions01/)**<br>
 Contributed by Azahar Noor and Tan Yen Chuan, Centre for Pedagogical Research and Learning, Raffles Girls’ School, for SingTeach Issue 58 (September 2016).
+<br clear=left>
+
+<img src="/images/Issue52.png" style="width:49%" align=left>
+
+**[Preparing Teachers for Practitioner Inquiry](https://singteach.nie.edu.sg/issue52-contributions/)**<br>
+Contributed by Tan Yen Chuan, Centre for Pedagogical Research and Learning, Raffles Girls’ School for SingTeach Issue 52 (March 2015).
