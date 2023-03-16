@@ -7,6 +7,13 @@ description: ""
 
 <img src="/images/hap1.jpg" style="width:20%" align=left>
 
-**RGS-NIE SIGNING OF LOI**
+**RGS-NIE SIGNING OF LOI**<br>
+[Read More...](/rgs-perl-happenings/rgsnie-loi/)
+<br clear=left>
 
-[Read More](/rgs-perl-happenings/rgsnie-loi/)
+<img src="/images/hap2.jpg" style="width:20%" align=left>
+
+**THE PERL E-SYMPOSIUM: 2ND JULY 2021**<br>
+[Read More...](https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium2021)
+<br clear=left>
+
