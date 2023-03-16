@@ -26,3 +26,12 @@ description: ""
 <img src="/images/hap4.jpg" style="width:20%" align=left>
 
 **DIFFERENTIATION WORKSHOP BY PROFESSOR CAROL ANN TOMLINSON**<br>
+[Read More...](/rgs-perl-happenings/differentiation-workshop/)
+<br clear=left>
+
+<img src="/images/hap5.jpg" style="width:20%" align=left>
+
+**PROFESSIONAL DEVELOPMENT WORKSHOP**<br>
+[Read More...](https://www-rgs-edu-sg-admin.cwp.sg/rgsperl/consultancy/workshops) **PAGE NOT FOUND**
+<br clear=left>
+
