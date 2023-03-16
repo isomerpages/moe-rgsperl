@@ -2,4 +2,5 @@ collections:
   rgs-perl-happenings:
     output: true
     order:
+      - Thank You! Open Classroom 2019.md
       - Differentiation Workshop by Professor Carol Ann Tomlinson.md
