@@ -2,8 +2,8 @@ collections:
   homepage:
     output: true
     order:
-      - Announcements/Conclusion of Practitioner Inquiry Projects.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
         Challenges of Practitioner inquiry.md"
+      - Announcements/Conclusion of Practitioner Inquiry Projects.md
