@@ -2,4 +2,5 @@ collections:
   singteach-articles:
     output: true
     order:
+      - SingTeach Articles/SingTeach Articles.md
       - SingTeach Articles/.keep
