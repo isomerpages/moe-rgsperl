@@ -20,3 +20,4 @@ description: ""
 <img src="/images/hap3.jpg" style="width:20%" align=left>
 
 **THANK YOU! - OPEN CLASSROOM 2019**<br>
+[Read More...](/rgs-perl-happenings/ty-openclassroom/)
