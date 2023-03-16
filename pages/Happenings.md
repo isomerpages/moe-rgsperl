@@ -7,7 +7,7 @@ description: ""
 
 **[VIEW ALL](/homepage/happengings/)**
 
-<p><a href="/virtual-exhib-2020/">
+<p><a href="/rgs-perl-happenings/rgsnie-loi/">
 <img style="width:40%" align=left src="/images/happ1.jpg">
 </a></p>
 <br clear=left>
