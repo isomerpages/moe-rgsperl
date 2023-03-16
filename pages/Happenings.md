@@ -5,7 +5,7 @@ description: ""
 ---
 ## HAPPENINGS
 
-**[VIEW ALL](/homepage/announcements/announ/)**
+**[VIEW ALL](/homepage/happengings/)**
 
 <p><a href="/virtual-exhib-2020/">
 <img style="width:40%" align=left src="/images/happ1.jpg">
