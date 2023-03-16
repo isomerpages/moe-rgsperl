@@ -2,6 +2,8 @@ collections:
   homepage:
     output: true
     order:
+      - Announcements/The role of a professional learning Community in enhancing
+        Teaching and Learning.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
