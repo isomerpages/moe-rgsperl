@@ -20,3 +20,4 @@ Find out more about our RGS teachers' participation in 2018 conferences!<br>
 
 **STUDENT VOICES: WHAT STUDENTS WANT**<br>
 PeRL's article on "Student Voices: Feedback that Students Want” is now published on SingTeach Issue 66, Sept 2018.<br>
+[Read More...](/rgs-perl/student-voices/)
