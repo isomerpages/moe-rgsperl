@@ -12,12 +12,12 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="/rgs-perl/insight/">
+<p><a href="/about-us/perl-attachment-prog/">
 <img style="width:40%" align=left src="/images/fs2.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="/professional-learning/prof-learning-plat/">
+<p><a href="https://rgsperl.wordpress.com/">
 <img style="width:40%" align=left src="/images/fs3.jpg">
 </a></p>
 <br clear=left>
