@@ -18,3 +18,15 @@ This virtual exhibition invites you to our journey of bold interactions, collabo
 
 Click on any of the thumbnails to interact with our content.
 
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/vir1.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/vir2.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/vir3.jpg">
+</a></p>
+<br clear=left>
