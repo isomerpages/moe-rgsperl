@@ -16,3 +16,8 @@ Contributed by Lucille Yap and Azahar Noor, Centre for Pedagogical Research and 
 
 **[Developing a School’s Professional Capital through the Lens of Knowledge Management](https://singteach.nie.edu.sg/issue72-contribution/)**<br>
 Contributed by Masturah binte Abdul Aziz and Tan Yen Chuan, Centre of Pedogagical Research and Learning, Raffles Girls's School (Secondary) for SingTeach Issue 72 (March 2020).
+
+<img src="/images/Issue66.png" style="width:49%" align=left>
+
+**[Student Voices: Feedback that Students Want](https://singteach.nie.edu.sg/issue66-contributions02/)**<br>
+Contrubuted by Tan Yen Chuan, Raffles Girls's School (Centre of Pedogagical Research and Learning), for SingTeach Issue 66 (September 2018).
