@@ -17,3 +17,6 @@ description: ""
 [Read More...](https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium2021)
 <br clear=left>
 
+<img src="/images/hap3.jpg" style="width:20%" align=left>
+
+**THANK YOU! - OPEN CLASSROOM 2019**<br>
