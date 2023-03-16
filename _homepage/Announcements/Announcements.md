@@ -33,3 +33,6 @@ Our Lead Teacher, Tan Kum Chee, received a Curriculum Studies Award by National 
 **HOW DO THE HIGHEST-ACHIEVING SCHOOL SYSTEMS IN THE WORLD DEVELOP THEIR TEACHERS?**<br>
 Empowered Educators: How High-Performing Systems Shape Teaching Quality Around the World is part of a landmark, international comparative study of ...<br>
 [Read More...](/homepage/announcements/annon7/)
+
+**THE ROLE OF A PROFESSIONAL LEARNING COMMUNITY IN ENHANCING TEACHING AND LEARNING: A CASE STUDY**<br>
+PeRL's research is now published in the June 2017 issue (no 61) of SingTeach, a quarterly e-magazine for teachers by the National Institute of Education, Singapore.
