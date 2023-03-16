@@ -39,7 +39,7 @@ Click on any of the thumbnails to interact with our content.
 <img style="width:25%" align=left src="/images/vir5.jpg">
 </a></p>
 
-<p><a href="https://rgsperl.wordpress.com/">
+<p><a href="https://staging.dfkurcec4b4z0.amplifyapp.com/files/PeRL.pdf">
 <img style="width:25%" align=left src="/images/vir6.jpg">
 </a></p>
 <br clear=left>
