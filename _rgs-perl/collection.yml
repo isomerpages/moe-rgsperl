@@ -1,4 +1,5 @@
 collections:
   rgs-perl:
     output: true
-    order: []
+    order:
+      - Insights Vol 4.md
