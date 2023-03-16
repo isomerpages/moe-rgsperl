@@ -15,4 +15,6 @@ sections:
             url: /homepage-announcements/
           - title: Happenings
             url: /homepage-happenings/
+          - title: Flagship Initiatives
+            url: /homepage-flagship/
 ---
