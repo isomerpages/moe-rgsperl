@@ -43,3 +43,5 @@ Click on any of the thumbnails to interact with our content.
 <img style="width:25%" align=left src="/images/vir6.jpg">
 </a></p>
 <br clear=left>
+
+[vir6](/files/PeRL.pdf)
