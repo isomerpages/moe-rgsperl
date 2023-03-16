@@ -2,6 +2,7 @@ collections:
   homepage:
     output: true
     order:
+      - Flagship Initiatives/Flagship Initiatives.md
       - Flagship Initiatives/.keep
       - Announcements/.keep
       - Announcements/Announcements.md
