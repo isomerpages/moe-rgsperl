@@ -15,3 +15,6 @@ Ten years on, we continue to be guided by our motto:
 **Uncovering Wisdom through Pedagogy**
 
 This virtual exhibition invites you to our journey of bold interactions, collaborative inquiry and thoughtful practice. We are grateful to every individual who walked with us. Ultimately, education is a human enterprise. Our joy comes from delighting our students and collaborating with our fellow-educators.
+
+Click on any of the thumbnails to interact with our content.
+
