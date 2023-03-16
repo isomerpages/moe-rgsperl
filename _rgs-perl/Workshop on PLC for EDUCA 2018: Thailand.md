@@ -11,3 +11,7 @@ On 18th October 2018, a two member team of PeRL, comprising Mrs Mary George Cher
 The workshop shared practical ideas on how to facilitate PLC, using the case study of a school with a culture of collaboration and professional sharing. At the end of the workshop, participants were encouraged to come up with a start-up plan for their own PLC that satisfy their respective individual needs.
 
 <img src="/images/20181018_104021.jpg" style="width:49%" align=right>
+
+Positive and encouraging feedback were received; 100% of the respondents found the skills practice session useful as they were able to apply the ideas or skills learnt, 95% felt that the course content met their learning needs and 100% felt that the facilitators gave clear explanations and practical examples.
+
+<img src="/images/Quotes_EDUCA.jpeg" style="width:85%">
