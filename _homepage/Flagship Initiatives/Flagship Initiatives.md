@@ -24,3 +24,7 @@ third_nav_title: Flagship Initiatives
 [Read More...](https://rgsperl.wordpress.com/)
 <br clear=left>
 
+<img src="/images/flag4.jpg" style="width:20%" align=left>
+
+**INSIGHTS MAGAZINE**<br>
+[Read More...](https://www.rgs.edu.sg/rgsperl/resources/in-house-resources/rgs-perl-in-house-publications) **PAGE NOT FOUND**
