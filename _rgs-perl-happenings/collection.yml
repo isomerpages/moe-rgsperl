@@ -1,4 +1,5 @@
 collections:
   rgs-perl-happenings:
     output: true
-    order: []
+    order:
+      - Differentiation Workshop by Professor Carol Ann Tomlinson.md
