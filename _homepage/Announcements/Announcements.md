@@ -16,3 +16,4 @@ RGS Centre for Pedagogical Research and Learning has just released the latest is
 
 **CONFERENCE PARTICIPATION 2018**<br>
 Find out more about our RGS teachers' participation in 2018 conferences!<br>
+[Read More...](/professional-learning/prof-learning-plat/)
