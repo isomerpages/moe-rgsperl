@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage.jpg
       dropdown:
-        title: Click here for more details
+        title: Click here for Details
         options:
           - title: Announcements
             url: /homepage-announcements/
