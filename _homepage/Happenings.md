@@ -44,3 +44,4 @@ description: ""
 <img src="/images/hap7.jpg" style="width:20%" align=left>
 
 **3RD RGS PERL SYMPOSIUM: THE REFLECTIVE PRACTITIONER 2018**<br>
+[Read More...](https://www.rgs.edu.sg/rgsperl/symposium-2018)
