@@ -35,7 +35,7 @@ Click on any of the thumbnails to interact with our content.
 <img style="width:25%" align=left src="/images/vir4.jpg">
 </a></p>
 
-<p><a href="https://www-rgs-edu-sg-admin.cwp.sg/qql/slot/u554/Perl/FootprintsOfPeRL.png">
+<p><a href=" ">
 <img style="width:25%" align=left src="/images/vir5.jpg">
 </a></p>
 
