@@ -15,3 +15,7 @@ Through their research, the teachers found that the e-portfolio has proven to be
 
 Their findings were presented in the Redesigning Pedagogy Conference.
 
+<img src="/images/value of class paerticipation.jpg" style="width:49%" align=right>
+Ms. Choo Li Lin and Ms. Stella Picca from the EL department embarked on a project “The Value of Class Participation as an Assessment Tool in the English Language Classroom” which was supported by the English Language Institute of Singapore (ELIS). The study was designed to investigate the dis/alignment between student and teacher interpretation of the scoring rubric through a comparison of 2 sets of data: the peer-assigned scores and teacher-assigned scores. From quantitative analyses, the teachers found that there were  differences arising in scores which were not due to students’ academic level (i.e., whether they are in Year 3 or 4), but could be due to other factors such as a differing teacher and student expectations in assessing class participation. From this study, the teachers plan to make adjustments to streamline expectations of the rubric so that class participation can be assessed more effectively in the classroom. This includes having more teacher-student dialogues prior to implementing the assessment, as well as introduce more scaffolding to interpret the rubric and structure the class discussions.
+
+Their findings were presented in the ELIS Conference. The report can be accessed via the ELIS website [here](http://www.elis.moe.edu.sg/research/elis-research-fund/erf-reports) . **SITE NOT FOUND**
