@@ -5,7 +5,7 @@ description: ""
 ---
 ## ANNOUNCEMENTS
 
-[VIEW ALL]
+**[VIEW ALL](/homepage/announcements/announ/)**
 
 <p><a href="/virtual-exhib-2020/">
 <img style="width:40%" align=left src="/images/ann1.jpg">
