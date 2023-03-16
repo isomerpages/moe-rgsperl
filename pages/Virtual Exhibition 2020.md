@@ -18,15 +18,15 @@ This virtual exhibition invites you to our journey of bold interactions, collabo
 
 Click on any of the thumbnails to interact with our content.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://www.youtube.com/embed/3mxLyn55Tl0">
 <img style="width:25%" align=left src="/images/vir1.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://www-rgs-edu-sg-admin.cwp.sg/qql/slot/u554/Perl/FootprintsOfPeRL.png">
 <img style="width:25%" align=left src="/images/vir2.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://rgsperl.wordpress.com/">
 <img style="width:25%" align=left src="/images/vir3.jpg">
 </a></p>
 <br clear=left>
