@@ -18,3 +18,7 @@ A partnership committee has been  formed to oversee the implementation of vario
 |Advisors   | Mrs Mary George Cheriyan<br>Deputy Principal, Ctr for PeRL &<br> Community Engagement  | Dr. Kwek Beng Kiat Dennis<br>Centre Director, Centre for Research in Pedagogy and Practice  |
 | Members  | Mrs Lucille Yap, Lead Specialist<br><br>Ms Tan Yen Chuan, Specialist<br><br>Mr Azahar Noor, Specialist  | Dr. Caleon Imelda Santos, Assistant Dean, Partnerships<br>Dr. Ho Pau Yuen Jeanne Marie, Senior Teaching Fellow<br>Ms Ong Woei Ling Monica, Teaching Fellow<br>Dr Uma Natarajan, Research Manager  |
 |   |   |   |
+
+RGS looks forward to greater collaboration with CRPP over the next three years, to advance educational research that informs practice and policy, enhances professional learning and promotes the improvement of teaching and learning in RGS and the wider educational community.
+
+<img src="/images/IMG_687122.jpg" style="width:85%">
