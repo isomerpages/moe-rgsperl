@@ -2,6 +2,7 @@ collections:
   homepage:
     output: true
     order:
+      - Announcements/Centre for Pedagogical Research and Learning (PeRL).md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
