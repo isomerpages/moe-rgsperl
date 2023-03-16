@@ -39,3 +39,8 @@ description: ""
 
 **SCHOOL-WIDE RESEARCH IN PERL**<br>
 [Read More...](/research/Overview/perl-swr/)
+<br clear=left>
+
+<img src="/images/hap7.jpg" style="width:20%" align=left>
+
+**3RD RGS PERL SYMPOSIUM: THE REFLECTIVE PRACTITIONER 2018**<br>
