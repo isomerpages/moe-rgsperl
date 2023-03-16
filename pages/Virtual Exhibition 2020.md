@@ -31,7 +31,7 @@ Click on any of the thumbnails to interact with our content.
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.youtube.com/embed/3mxLyn55Tl0">
+<p><a href="https://www-rgs-edu-sg-admin.cwp.sg/qql/slot/u554/Perl/PDF-Flip/index.html">
 <img style="width:25%" align=left src="/images/vir4.jpg">
 </a></p>
 
