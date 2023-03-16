@@ -2,4 +2,5 @@ collections:
   homepage:
     output: true
     order:
+      - Announcements/Announcements.md
       - Announcements/.keep
