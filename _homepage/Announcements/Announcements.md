@@ -31,4 +31,5 @@ Our Lead Teacher, Tan Kum Chee, received a Curriculum Studies Award by National 
 [Read More...](/homepage/announcements/annon8/)
 
 **HOW DO THE HIGHEST-ACHIEVING SCHOOL SYSTEMS IN THE WORLD DEVELOP THEIR TEACHERS?**<br>
-Empowered Educators: How High-Performing Systems Shape Teaching Quality Around the World is part of a landmark, international comparative study of ...
+Empowered Educators: How High-Performing Systems Shape Teaching Quality Around the World is part of a landmark, international comparative study of ...<br>
+[Read More...](/homepage/announcements/annon7/)
