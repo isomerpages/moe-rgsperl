@@ -10,5 +10,7 @@ sections:
       background: /images/homepage.jpg
       dropdown:
         title: Click here for more details
-        options: []
+        options:
+          - title: Announcements
+            url: /homepage-announcements/
 ---
