@@ -15,3 +15,10 @@ The researchers investigated seven jurisdictions across four continents.  Their
 
 **Raffles Girls’ School** is honored to contribute to this exciting research as one of the schools representing Singapore. PeRL team members, Mr. Azahar M Noor, Teacher-Specialist, and Mrs. Mary George Cheriyan, Deputy Principal, together with the Principal, Mrs Poh Mun See and another then-Deputy Principal, Mrs Shirley Tan, were involved as participants in this study. Click [here](http://ncee.org/tag/Singapore/page/6/) **PAGE NOT FOUND** to find out more details on the study and its findings.  Access these links below for video interviews with Mr. Azahar and Mrs. Cheriyan on their experiences with the RGS Curriculum and Professional Development:
 
+[Interview with Mr. Azahar M Noor on Student Feedback](http://ncee.org/2017/01/video-azahar-bin-mohd-noor-on-student-feedback/)
+
+[Interview with Mrs. Mary George Cheriyan on Professional Learning](http://ncee.org/2017/01/video-mary-george-cheriyan-on-professional-learning/)
+
+[Interview with Mr. Azahar M Noor on Student Research](http://ncee.org/2017/01/video-azahar-bin-mohd-noor-on-student-research/)
+
+[Interview with Mr. Azahar M Noor on his Professional Learning Opportunities](http://ncee.org/2016/12/video-azahar-bin-mohd-noor-part-1/)
