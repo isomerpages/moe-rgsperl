@@ -20,4 +20,4 @@ Ms. Choo Li Lin and Ms. Stella Picca from the EL department embarked on a projec
 
 Their findings were presented in the ELIS Conference. The report can be accessed via the ELIS website [here](http://www.elis.moe.edu.sg/research/elis-research-fund/erf-reports) . **SITE NOT FOUND**
 
-To learn more about the other research projects, click [here](https://www.rgs.edu.sg/rgsperl/research/research-projects/all-projects) .
+To learn more about the other research projects, click [here](/research-projects/all-prog/) .
