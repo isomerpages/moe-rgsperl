@@ -5,7 +5,7 @@ description: ""
 ---
 ## ANNOUNCEMENTS
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/virtual-exhib-2020/">
 <img style="width:40%" align=left src="/images/ann1.jpg">
 </a></p>
 <br clear=left>
