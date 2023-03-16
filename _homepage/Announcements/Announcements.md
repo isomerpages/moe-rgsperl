@@ -29,3 +29,6 @@ PeRL successfully conducted an international special workshop for Thai educators
 **AWARDS**<br>
 Our Lead Teacher, Tan Kum Chee, received a Curriculum Studies Award by National Association for Gifted Children for exemplary Unit Design, based on Gifted Education standards...<br>
 [Read More...](/homepage/announcements/annon8/)
+
+**HOW DO THE HIGHEST-ACHIEVING SCHOOL SYSTEMS IN THE WORLD DEVELOP THEIR TEACHERS?**<br>
+Empowered Educators: How High-Performing Systems Shape Teaching Quality Around the World is part of a landmark, international comparative study of ...
