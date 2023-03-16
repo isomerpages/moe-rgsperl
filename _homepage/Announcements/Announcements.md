@@ -27,4 +27,5 @@ PeRL successfully conducted an international special workshop for Thai educators
 [Read More...](/rgs-perl/workshop/)
 
 **AWARDS**<br>
-Our Lead Teacher, Tan Kum Chee, received a Curriculum Studies Award by National Association for Gifted Children for exemplary Unit Design, based on Gifted Education standards...
+Our Lead Teacher, Tan Kum Chee, received a Curriculum Studies Award by National Association for Gifted Children for exemplary Unit Design, based on Gifted Education standards...<br>
+[Read More...](/homepage/announcements/annon8/)
