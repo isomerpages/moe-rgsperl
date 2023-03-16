@@ -17,7 +17,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="/professional-learning/prof-learning-plat/">
+<p><a href="">
 <img style="width:40%" align=left src="/images/happ3.jpg">
 </a></p>
 <br clear=left>
