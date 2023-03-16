@@ -1,0 +1,4 @@
+collections:
+  rgs-perl:
+    output: true
+    order: []
