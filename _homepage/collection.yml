@@ -2,7 +2,6 @@ collections:
   homepage:
     output: true
     order:
-      - Announcements/Centre for Pedagogical Research and Learning (PeRL).md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
@@ -10,3 +9,4 @@ collections:
       - Announcements/Conclusion of Practitioner Inquiry Projects.md
       - Announcements/Differentiated Instructions for High Ability Diverse
         Learners in a Regular classroom.md
+      - Announcements/Centre for Pedagogical Research and Learning (PeRL).md
