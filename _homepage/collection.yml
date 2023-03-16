@@ -2,6 +2,8 @@ collections:
   homepage:
     output: true
     order:
+      - "Flagship Initiatives/The Reflective Practitioner: Engaging in
+        Pedagogical Discourse.md"
       - Flagship Initiatives/Flagship Initiatives.md
       - Flagship Initiatives/.keep
       - Announcements/.keep
