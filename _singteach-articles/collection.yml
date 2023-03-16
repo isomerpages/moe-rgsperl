@@ -1,4 +1,5 @@
 collections:
   singteach-articles:
     output: true
-    order: []
+    order:
+      - SingTeach Articles/.keep
