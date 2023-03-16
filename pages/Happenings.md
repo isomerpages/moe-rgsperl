@@ -17,7 +17,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="">
+<p><a href="/rgs-perl-happenings/ty-openclassroom/">
 <img style="width:40%" align=left src="/images/happ3.jpg">
 </a></p>
 <br clear=left>
