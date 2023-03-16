@@ -12,4 +12,4 @@ We invite you to engage with the PeRL Virtual Exhibition 2020, available from 20
 
 **INSIGHTS MAGAZINE VOL 4**<br>
 RGS Centre for Pedagogical Research and Learning has just released the latest issue of Insights (Vol 4) - a research and best practice magazine for practitioners.<br>Click to find out more.<br>
-[Read More...]
+[Read More...](/rgs-perl/insight/)
