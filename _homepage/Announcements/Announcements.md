@@ -24,3 +24,4 @@ PeRL's article on "Student Voices: Feedback that Students Want” is now publish
 
 **WORKSHOP ON PLC FOR EDUCA 2018 - THAILAND**<br>
 PeRL successfully conducted an international special workshop for Thai educators on “Developing a Professional Learning Community (PLC)”, at Educa 2018, Bangkok.<br>
+[Read More...](/rgs-perl/workshop/)
