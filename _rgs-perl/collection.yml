@@ -2,5 +2,5 @@ collections:
   rgs-perl:
     output: true
     order:
-      - Collaborate with RGS PERL.md
       - Insights Vol 4.md
+      - Collaborate with RGS PERL.md
