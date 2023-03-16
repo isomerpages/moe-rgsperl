@@ -2,6 +2,7 @@ collections:
   rgs-perl:
     output: true
     order:
+      - PeRL Symposium 2020.md
       - Insights Vol 4.md
       - Collaborate with RGS PERL.md
       - "Workshop on PLC for EDUCA 2018: Thailand.md"
