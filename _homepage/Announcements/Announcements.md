@@ -17,3 +17,6 @@ RGS Centre for Pedagogical Research and Learning has just released the latest is
 **CONFERENCE PARTICIPATION 2018**<br>
 Find out more about our RGS teachers' participation in 2018 conferences!<br>
 [Read More...](/professional-learning/prof-learning-plat/)
+
+**STUDENT VOICES: WHAT STUDENTS WANT**<br>
+PeRL's article on "Student Voices: Feedback that Students Want” is now published on SingTeach Issue 66, Sept 2018.<br>
