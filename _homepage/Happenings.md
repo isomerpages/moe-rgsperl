@@ -38,3 +38,4 @@ description: ""
 <img src="/images/hap6.jpg" style="width:20%" align=left>
 
 **SCHOOL-WIDE RESEARCH IN PERL**<br>
+[Read More...](/research/Overview/perl-swr/)
