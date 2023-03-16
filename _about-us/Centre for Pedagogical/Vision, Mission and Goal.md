@@ -12,4 +12,6 @@ PeRL provides platforms for professional discourse that contributes to the educa
 
 Our overarching purpose is articulated in our philosophy, "Uncovering Wisdom through Pedagogy". This belief reflects our desire to harness knowledge for the common good.
 
-<img src="/images/PERL vmg.jpg" style="width:85%">
+<p><a href="https://staging.dfkurcec4b4z0.amplifyapp.com/images/Final%20poster_chiho.jpg">
+<img style="width:85%" src="/images/PERL vmg.jpg">
+</a></p>
