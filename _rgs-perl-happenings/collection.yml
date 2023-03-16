@@ -2,6 +2,6 @@ collections:
   rgs-perl-happenings:
     output: true
     order:
-      - We Have Moved!.md
       - Differentiation Workshop by Professor Carol Ann Tomlinson.md
       - Thank You! Open Classroom 2019.md
+      - We Have Moved!.md
