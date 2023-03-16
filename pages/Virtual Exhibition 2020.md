@@ -44,4 +44,3 @@ Click on any of the thumbnails to interact with our content.
 </a></p>
 <br clear=left>
 
-[vir6](/files/PeRL.pdf)
