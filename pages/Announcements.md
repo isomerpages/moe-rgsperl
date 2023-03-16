@@ -15,7 +15,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/professional-learning/prof-learning-plat/">
 <img style="width:40%" align=left src="/images/ann3.jpg">
 </a></p>
 <br clear=left>
