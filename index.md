@@ -13,4 +13,6 @@ sections:
         options:
           - title: Announcements
             url: /homepage-announcements/
+          - title: Happenings
+            url: /homepage-happenings/
 ---
