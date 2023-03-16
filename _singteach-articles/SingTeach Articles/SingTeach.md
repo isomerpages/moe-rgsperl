@@ -21,3 +21,14 @@ Contributed by Masturah binte Abdul Aziz and Tan Yen Chuan, Centre of Pedogagica
 
 **[Student Voices: Feedback that Students Want](https://singteach.nie.edu.sg/issue66-contributions02/)**<br>
 Contrubuted by Tan Yen Chuan, Raffles Girls's School (Centre of Pedogagical Research and Learning), for SingTeach Issue 66 (September 2018).
+<br clear=left>
+
+<img src="/images/Issue61.png" style="width:49%" align=left>
+
+**[The Professional Learning Community: Facilitating "Teacher Thinking" to Solve Classroom Problems](https://singteach.nie.edu.sg/issue61-contributions01/)**<br>
+Contributed by Masturah Binte Abdul Aziz and Tan Yen Chuan, Centre for Pedagogical Research and Learning, Raffles Girls’ School, for SingTeach Issue 61 (June 2017).
+
+<img src="/images/Issue58.png" style="width:49%" align=left>
+
+**[High-ability Learners are not Homogeneous](https://singteach.nie.edu.sg/issue58-contributions01/)**<br>
+Contributed by Azahar Noor and Tan Yen Chuan, Centre for Pedagogical Research and Learning, Raffles Girls’ School, for SingTeach Issue 58 (September 2016).
