@@ -38,3 +38,10 @@ Contributed by Azahar Noor and Tan Yen Chuan, Centre for Pedagogical Research an
 
 **[Preparing Teachers for Practitioner Inquiry](https://singteach.nie.edu.sg/issue52-contributions/)**<br>
 Contributed by Tan Yen Chuan, Centre for Pedagogical Research and Learning, Raffles Girls’ School for SingTeach Issue 52 (March 2015).
+
+##### SINGTEACH INTERVIEWS PERL ON USE OF PERFORMANCE TASK
+
+<img src="/images/singteach PT snip.png" style="width:49%" align=left>
+
+**[Using Performance Task to Assess Learning](/files/SingTeach_Issue40.pdf)**<br>
+SingTeach Issue 40 (Feb 2013), page 4
