@@ -2,6 +2,8 @@ collections:
   homepage:
     output: true
     order:
+      - Announcements/Differentiated Instructions for High Ability Diverse
+        Learners in a Regular classroom.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
