@@ -9,4 +9,4 @@ description: ""
 
 **RGS-NIE SIGNING OF LOI**
 
-[Read More](d)
+[Read More](/rgs-perl-happenings/rgsnie-loi/)
