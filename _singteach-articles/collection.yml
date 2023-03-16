@@ -2,6 +2,7 @@ collections:
   singteach-articles:
     output: true
     order:
+      - Symposium Slider.md
       - SingTeach Articles/.keep
       - SingTeach Articles/SingTeach Articles.md
       - SingTeach Articles/SingTeach.md
