@@ -7,7 +7,7 @@ description: ""
 
 **[VIEW ALL](/homepage/announcements/announ/)**
 
-<p><a href="/virtual-exhib-2020/">
+<p><a href="https://sites.google.com/rafflesgirlssch.edu.sg/pedtalks/about-pedtalks">
 <img style="width:40%" align=left src="/images/fs1.jpg">
 </a></p>
 <br clear=left>
