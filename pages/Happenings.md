@@ -12,7 +12,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="/rgs-perl/insight/">
+<p><a href="https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium2021">
 <img style="width:40%" align=left src="/images/happ2.jpg">
 </a></p>
 <br clear=left>
