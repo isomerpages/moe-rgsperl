@@ -2,7 +2,6 @@ collections:
   homepage:
     output: true
     order:
-      - Search.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - "Announcements/Nurturing the Reflective Practitioner: Benefits and
@@ -23,3 +22,4 @@ collections:
       - Flagship Initiatives/Flagship Initiatives.md
       - "Flagship Initiatives/The Reflective Practitioner: Engaging in
         Pedagogical Discourse.md"
+      - Search.md
