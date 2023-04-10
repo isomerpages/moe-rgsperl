@@ -1,0 +1,7 @@
+collections:
+  learning-platforms:
+    output: true
+    order:
+      - The Design Thinking Approach for the High Ability Learners.md
+      - Mathematics comprehension tests as a tool in talent identification.md
+      - Differentiation in a Chemistry Classroom.md

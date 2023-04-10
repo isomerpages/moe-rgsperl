@@ -1,15 +1,30 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.jpg
 links:
+  - title: About Us
+    collection: about-us
+  - title: Research
+    url: /research/Overview/overview/
+    sublinks:
+      - title: Overview
+        url: /research/Overview/overview/
+      - title: Research Projects
+        url: /research-projects/research-prog/
+  - title: Professional Learning
+    collection: professional-learning
+  - title: Engagement
+    collection: engagement
+  - title: Symposium 2021
+    url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium2021
+  - title: Resources
+    url: /resources/PeRL-Publications/insight-magazine/
+    sublinks:
+      - title: PeRL Publications
+        url: /resources/PeRL-Publications/insight-magazine/
+      - title: SPSS Loan Service
+        url: /resources/PeRL-Publications/spss/
+      - title: Conference Presentations
+        url: /resources/Conference-Presentations/con-present/
+      - title: EDUBlog (ARCHIVED)
+        url: https://rgsperl.wordpress.com/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /navi-contact-us
