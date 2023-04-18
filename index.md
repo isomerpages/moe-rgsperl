@@ -8,13 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.jpg
-      dropdown:
-        title: Click here for Details
-        options:
-          - title: Announcements
-            url: /homepage-announcements/
-          - title: Happenings
-            url: /homepage-happenings/
-          - title: Flagship Initiatives
-            url: /homepage-flagship/
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
+        - title: Happenings
+          description: ""
+          url: ""
+        - title: Flagship Initiatives
+          description: ""
+          url: ""
 ---
