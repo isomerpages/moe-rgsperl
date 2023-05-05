@@ -6,22 +6,18 @@ third_nav_title: Centre for Pedagogical
 ---
 ## HISTORY
 
-<img src="/images/This Is It.jpg" style="width:49%" align=left>
+<img src="/images/This Is It.jpg" style="width:%" align="">
 
-The Pedagogical Research Lab (RGS PeRL) was set up in Raffles Girls’ School (Secondary) in January 2010. It was officially launched on 28 August 2010 by Mrs Tan Ching Yee, Permanent Secretary for Education, Ministry of Education. 
+The Pedagogical Research Lab (PeRL) was launched in RGS on 28 August 2010 by Mrs Tan Ching Yee, the-then Permanent Secretary of Education. The aim was to engender school-based inquiry into pedagogy and practice as well as to offer consultancy.
 
-PeRL aims to bring educators together to research, develop and implement pedagogical innovations, especially in the education of high ability girls. PeRL has developed a research ecosystem that not only sustains Academic Research to inform decision-making in the school, but importantly, engenders Practitioner Inquiry amongst teachers, honing the habit of Reflective Practice. With the setting up of PeRL, a Specialist track was created, complementing the school’s Teaching and Leadership tracks. The Specialists conduct Academic Research as well as mentor teacher research. They also conduct Consultancy for other institutions, organize symposiums as well as present and publish works on curriculum and pedagogy.
+PeRL’s unique feature is the creation of the Specialist track. The Teacher-Specialists conduct Academic Research that informs curricular practices as well as steer Practitioner Inquiry amongst teachers. We have conducted Inquiry into multiple domains ranging from Instructional strategies, Assessment modes and technology-enhanced learning. Our data is ploughed back to practice, strengthening theory-practice nexus. Importantly, this posture of Inquiry and consensus-building on teaching standards nurtures teacher professionalism.
 
-#### BUILDING ON INNOVATION AND REVIEW
+In 2014, the Teaching track was also incorporated into PeRL. With this expanded professional learning ecosystem, PeRL was renamed as the Centre for Pedagogical Research and Learning. Our Teacher Leaders coach, mentor and train colleagues in learning strategies and mindsets that empower and engage the learner. Led by the Head of Professional Development, they uphold our strong professional learning culture.
 
-<img src="/images/Pic-About RGS writeup.jpg" style="width:49%" align=left>
+We have worked with other educators through platforms like customized workshops, Open Classroom, Teacher Exchange, the biennial Reflective Practitioner Symposium and since, 2020, the PEDTALKS. These interactions have enabled knowledge sharing, collective problem-solving and co-teaching. We ceased Consultancy in 2020.
 
-In 1987, the Ministry of Education introduced the Independent Schools scheme by which selected schools were given autonomy in areas like the curriculum, student admission and staff recruitment. RGS obtained this status in 1991, a development that heightened our sense of ownership and accountability for robust curriculum and professional practices. The implementation of the Raffles Programme (RP) in 2004 enhanced this momentum in curriculum innovation and review.  
+In 2022, we renewed our collaboration with the National Institute of Education, enabling powerful conversations and knowledge sharing on topics like Blended Learning, Collaborative Learning and Differentiated Instruction.
 
-The setting up of the RGS PeRL evolves from these key developments in the school – the independent school status and the Raffles Programme.
+We are aware that the Information Revolution requires adaptive expertise and sinewy responses to new ways of thinking and functioning. What remains unchanged, we assert, is Learner Responsiveness. Powerful pedagogies and reflective practice, therefore, continue to be essential.
 
-#### BROADENING THE PERL FOCUS
-
-PeRL’s initial focus on Research and Consultancy has broadened to include Professional Learning. Through job-embedded professional learning structures, PeRL guides the staff in standards-based unit design, innovative strategies and practitioner inquiry. Recognizing that quality teaching contributes to quality learning, the entire faculty takes collective responsibility for student achievement. PeRL steers systematic inquiry into these pedagogical innovations, teacher beliefs and student outcomes.
-
-To better reflect the growth in this organization, PeRL is henceforth called the **Centre for Pedagogical Research and Learning.**
+In the end, our goal is not only support good pedagogy but also to nurture fulfilled, satisfied professionals who take delight in quality learning.
