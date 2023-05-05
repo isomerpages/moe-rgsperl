@@ -10,4 +10,4 @@ RGS PeRL is helmed by a Deputy Principal who drives its strategic agenda and ope
 
 ![](/images/centre%20for%20pedagogical%20research%20_%20learning%20-%20edited.png)
 
-![](/images/org%20chart.png)
+![](/images/perlorgchart2.png)
