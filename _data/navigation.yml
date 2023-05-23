@@ -11,10 +11,12 @@ links:
         url: /research-projects/research-prog/
   - title: Professional Learning
     collection: professional-learning
-  - title: Engagement
-    collection: engagement
   - title: Symposium
     url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium/programme
+  - title: PED Talks
+    url: https://sites.google.com/rafflesgirlssch.edu.sg/pedtalks/about-pedtalks
+  - title: Engagement
+    collection: engagement
   - title: Resources
     url: /resources/PeRL-Publications/insight-magazine/
     sublinks:
