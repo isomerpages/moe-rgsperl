@@ -6,7 +6,7 @@ third_nav_title: Centre for Pedagogical
 ---
 ## MESSAGE BY DEPUTY PRINCIPAL
 
-<img src="/images/MGC_corp.jpg" style="width:49%" align=right>
+<img src="/images/MGC_corp.jpg" style="width:49%" align="right">
 
 An educator creates experiences of wonderment and achievement, aspires to nurture empowered learners, administers routines for learning and assessments and responds to the emotional needs of the learners, harnessing multiple skills.
 
@@ -14,12 +14,11 @@ Amidst this complexity is the reality of dynamic classrooms, so aptly described 
 
 At the Centre for Pedagogical Research and Learning, we take delight in stewarding a professional learning ecosystem where we systematically design shared experiences for professional learning, steer school-based research and importantly, enable powerful pedagogies.
 
-Believing in the value of professional discourse, we are delighted when fellow-educators participate with us in our PED Talks and The Reflective Practitioner Symposium and contribute to ‘Insights’, our in-house publication.  We learn so much from each other as we articulate our tacit  
-knowledge and share how we adapt learning theories and instructional strategies  
-to our context.We term this as the indigenizing of learning theories, building an Asian discourse in education.
+Believing in the value of professional discourse, we are delighted when fellow-educators participate with us in our PED Talks and The Reflective Practitioner Symposium&nbsp;and contribute to ‘Insights’, our in-house publication.&nbsp; We learn so much from each other as we articulate our tacit  
+knowledge and&nbsp;share how&nbsp;we adapt learning theories and instructional strategies  
+to our context.We term this as the indigenizing of&nbsp;learning theories, building an Asian discourse in education.
 
 Wishing you a good year of learning and inquiring.
 
 **Mary George Cheriyan**  
-
 Deputy Principal, PeRL and Community Engagement

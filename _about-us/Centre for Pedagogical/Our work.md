@@ -6,7 +6,7 @@ third_nav_title: Centre for Pedagogical
 ---
 ## OUR WORK
 
-#### PERL'S WORK AT A GLANCE
+#### PeRL's WORK AT A GLANCE
 
 _(Click on image to enlarge)_
 
