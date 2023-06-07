@@ -16,3 +16,7 @@ PEDTALKS is grounded on **Lev** **Vygotsky's Sociocultural Theory of Cognitive D
 Each year, a pedagogical strand is identified and two **PEDTalk sessions** are organised based on the strand - one session features a sharing by an expert and another session features sharings by classroom practitioners. At the end of the two sessions, participants may choose to apply what they have learnt by participating in a small group **Practice Circle** where learning takes the form of application, collaboration and sharing of practical solutions. (See diagram below)
 
 ![](/images/pedtalks2.png)
+
+In this way, learning is sustained and enriched through the contextual and authentic nature of what is being applied in the classrooms.
+
+![](/images/ped%20talks%20august%20.jpg)
