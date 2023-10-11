@@ -15,7 +15,4 @@ sections:
         - title: Happenings
           description: ""
           url: ""
-        - title: Flagship Initiatives
-          description: ""
-          url: ""
 ---
