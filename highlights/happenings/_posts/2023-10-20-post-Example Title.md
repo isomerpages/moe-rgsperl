@@ -1,8 +1,0 @@
----
-title: Example Title
-permalink: /highlights/happenings/pedtalks2023/
-date: 2023-10-20
-layout: post
-description: ""
-image: ""
----
