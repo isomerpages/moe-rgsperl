@@ -15,3 +15,5 @@ This year’s symposium revolved around the theme of “Advancing Pedagogies to 
 The highlight of the symposium was the invigorating plenary session on “Technology and Education’s Next Frontier” led by Associate Professor Victor Lim Fei and Ms. Fiona Lee. They shed light on the exciting prospects and emerging trends at the intersection of technology and education. Attendees were also offered the opportunity to engage in concurrent sessions and a stimulating forum, covering a wide array of topics presented by esteemed speakers.
 
 We extend our heartfelt appreciation to the dedicated presenters and all the enthusiastic participants for their valuable contributions. Together, we continue to pave the way for a brighter future in education.
+
+![](/images/symposium%202023.jpg)
