@@ -15,4 +15,6 @@ sections:
         - title: Happenings
           description: ""
           url: ""
+  - resources:
+      id: resources
 ---
