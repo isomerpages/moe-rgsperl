@@ -3,12 +3,13 @@ title: INSIGHTS MAGAZINE
 permalink: /resources/PeRL-Publications/insight-magazine/
 description: ""
 third_nav_title: PeRL Publications
+variant: markdown
 ---
 ## INSIGHTS MAGAZINE
 
 Insights magazine is a biennial magazine publication which aims to share practitioner research findings and best practices with RGS staff and the wider educational fraternity.
 
-A copy of our in-house publications can be accessed by clicking on the images.&nbsp;To request for a free hard-copy, click [here](https://goo.gl/forms/nY5iHzd0bqrIxGlH2).
+A copy of our in-house publications can be accessed by clicking on the images. To request for a complimentary hardcopy of the latest Insights magazine, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfDl4vV7llMZwQXm0aOMw9flvkLZJOhtk3rGtmEIKUAgGVOFQ/viewform?usp=sf_link).
 
 #### [INSIGHTS MAGAZINE - ISSUE 5, 2021](https://drive.google.com/file/d/16D7MInanrqI5HHUe17zikHNAM7FlIwCW/view?usp=share_link)
 ![](/images/2021%20insight.png)
@@ -24,5 +25,3 @@ A copy of our in-house publications can be accessed by clicking on the images.&n
 
 #### [INSIGHTS MAGAZINE - ISSUE 1, 2012](https://drive.google.com/file/d/1FTz9ZA_n0FTf6v3GmI_kweq8O3os0-EF/view?usp=share_link)
 ![](/images/2012%20insights.png)
-
-
