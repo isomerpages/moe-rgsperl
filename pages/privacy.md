@@ -11,6 +11,3 @@ variant: markdown
 4.  To safeguard your personal data, all electronic storage and transmission of personal data are secure with appropriate security technologies.
 5.  This site may link to non-RGS sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 6.  If you have any queries in relation to our collection, use, disclose and/or process of your data or on the matters set out in this document, please email us at rgs.perl@rafflesgirlssch.edu.sg.
-
-
-
