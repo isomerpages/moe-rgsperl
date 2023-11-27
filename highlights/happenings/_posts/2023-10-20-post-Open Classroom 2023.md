@@ -14,3 +14,4 @@ The Open Classroom series offers a unique opportunity for teachers to gain valua
 Additionally, this program encourages teachers to visit each other's classrooms, fostering a collaborative environment where alternative strategies, fresh ideas, and new insights into teaching practices can be explored.
 
 We're incredibly proud of our teachers' dedication to continuous improvement and their willingness to share their expertise!
+![Open classroom collage](/images/Open_classroom_4.jpg)
