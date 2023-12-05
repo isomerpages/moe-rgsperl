@@ -19,3 +19,9 @@ Each year, a pedagogical strand is identified and two **PEDTalk sessions** are o
 
 ![PEDTAlk process flow](/images/PEDTalk_process.png)
 
+<img src="/images/rsz_pedtalks1.png" style="width:49%" align="middle">
+
+
+In this way, learning is sustained and enriched through the contextual and authentic nature of what is being applied in the classrooms.
+
+![](/images/ped%20talks%20august%20.jpg)
