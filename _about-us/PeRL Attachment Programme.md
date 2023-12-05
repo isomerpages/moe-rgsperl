@@ -2,34 +2,35 @@
 title: PeRL Attachment Programme
 permalink: /about-us/perl-attachment-prog/
 description: ""
+variant: markdown
 ---
 ## PERL ATTACHMENT PROGRAMME
 
 #### MEANINGFUL LEARNING OPPORTUNITIES AT THE CENTRE OF PEDAGOGICAL RESEARCH AND LEARNING
 
-RGS PeRL welcomes individuals with a keen interest in a pedagogical research and learning career to participate in our Attachment Programme.  You will be attached to a cross-function team comprising Research, Consultancy and Professional Learning domains where you will get a chance to work with experienced educational officers and professionals on specific projects integral to PeRL's core responsibilities and outputs. 
+RGS PeRL welcomes individuals with a keen interest in a pedagogical research and learning career to participate in our Attachment Programme. You will be attached to a cross-function team comprising Research, Consultancy and Professional Learning domains where you will get a chance to work with experienced educational officers and professionals on specific projects integral to PeRL's core responsibilities and outputs.
 
-The attachment program,  hosted for a period of between 5 to 12 weeks in a calendar year, will not only provide you with an insight into the work related to research and professional learning in education, but also allow you to feel the pulse of a knowledge-creating organisation.
+The attachment program, hosted for a period of between 5 to 12 weeks in a calendar year, will not only provide you with an insight into the work related to research and professional learning in education, but also allow you to feel the pulse of a knowledge-creating organisation.
 
 #### CURRENTLY WE OFFER INTERNSHIPS IN THE FOLLOWING AREAS
 
-There are different areas and choices for different interests and skills:  
+There are different areas and choices to cater to various interests and skills:  
   
-\- Research<br>
-\- Professional Development<br>
-\- Consultancy<br>
-\- Events Management<br>
-\- Marketing and Publicity
+* Research
+* Professional Development
+* Consultancy
+* Events Management
+* Marketing and Publicity
 
 #### APPLICATION PROCESS
 
 We welcome individuals with a minimum of A-level qualification, as well as education officers on PDL or working professionals from all disciplines with an interest in this field to apply for our Attachment Programme. The job scopes and tasks that we offer will be designed to match your qualifications and experience.
 
-If you are interested, drop us an [email](mailto:masturah.aziz@rgs.edu.sg) with your CV and cover letter. Do indicate your area of interest(s), the type of learning you wish  to engage in, and the time period and duration that you will be able to join us  (minimum of 5 weeks and maximum of 12 weeks in a calendar year), and we will work with you to create a suitable and personalized program. We look forward to welcome you as a partner and co-learner.
+If you are interested, drop us an [email](mailto:rgs.perl@rgs.edu.sg) with your CV and cover letter. Do indicate your area of interest(s), the type of learning you wish to engage in, and the time period and duration that you will be able to join us&amp; (minimum of 5 weeks and maximum of 12 weeks in a calendar year), and we will work with you to create a suitable and personalised program. We look forward to welcome you as a partner and co-learner.
 
 #### THE PERL INTERNSHIP EXPERIENCE
 
-<img src="/images/ap.jpg" style="width:49%" align=right>
+<img src="/images/ap.jpg" style="width:49%" align="right">
 
 _A reflection by Ms Thet Thiri Ko, our intern:_
 
@@ -43,9 +44,9 @@ What made the internship experience memorable would be the conversations that I 
 
 _A reflection by Ms Roshni Yogeshkumar Kantaria, our intern:_
 
-It has been a great month learning and working at my attachment at RGS PeRL as a graphic designer. Though I spent some time working as what a freelance graphic designer would – from home, much of the work done was in a 9 to 5 work schedule at the location of the attachment. Being able to experience and hence be acquainted with both work environments/ lifestyles, prepared me with what to expect with either work style. 
+It has been a great month learning and working at my attachment at RGS PeRL as a graphic designer.Though I spent some time working as what a freelance graphic designer would – from home, much of the work done was in a 9 to 5 work schedule at the location of the attachment. Being able to experience and hence be acquainted with both work environments/ lifestyles, prepared me with what to expect with either work style.
 
-Through the internship, I was fortunate to learn that practicing working with clients and in a group gave me skills that are equally important and valuable as that of knowing how to use Photoshop, if not, more. This skill-set is versatile such that it is invaluable in any field of work. From writing emails to being able to put into words and communicate the subjectiveness that is aesthetic and design, the learning opportunities were countless.
+Through the internship, I was fortunate to learn that practicing working with clients and in a group gave me skills that are equally important and valuable as that of knowing how to use Photoshop, if not, more. This skill set is versatile such that it is invaluable in any field of work. From writing emails to being able to put into words and communicate the subjectiveness that is aesthetic and design, the learning opportunities were countless.
 
 Technique wise, I became more bold in all such aspects. I was more open to working with different/unconventional colours, styles, and layouts. It paid off on most occasions as my mentors still approved of it. There were some instances in which I failed to keep within the fine line between practicality and novelty. I learned from these mistakes and gained in experience.
 
