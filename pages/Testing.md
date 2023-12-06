@@ -20,7 +20,7 @@ A copy of our in-house publications can be accessed by clicking on the images. T
 
 
 
-<img style="border: 1px solid #000; padding: 10px;" height="500" width="400" alt="Insights issue 5 cover" src="/images/Insights/2021%20insight.png">
+<img style="border: 1px solid #000; padding: 100px;" height="500" width="400" alt="Insights issue 5 cover" src="/images/Insights/2021%20insight.png">
 	
 Issue 5 (2021)  (insert link)
 * Article 1
