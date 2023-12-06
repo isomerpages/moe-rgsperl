@@ -37,6 +37,7 @@ figure {
 article img {
   max-width: 70%;
 	margin: 10px auto;
+	display:block;
   transform-origin: center;
   transform: scale(var(--img-scale));
   transition: transform 0.4s ease-in-out;
