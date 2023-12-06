@@ -10,9 +10,9 @@ description: testing various elements to put on website
 }
 
     .article-wrapper {
-      padding: 5px; /* Add padding to the article wrapper to create space around the image */
+      padding: 1px; /* Add padding to the article wrapper to create space around the image */
       position: relative;
-      border-radius: 8px;
+      border-radius: 1px;
       box-shadow: none;
       background: #919d8d;
       overflow: hidden;
@@ -20,9 +20,9 @@ description: testing various elements to put on website
 }
 
 article h2 {
-  margin: 5 5 5px 5;
+  margin: 2 2 2px 2;
   font-family: "Bebas Neue", cursive;
-  font-size: 10rem;
+  font-size: 3rem;
   letter-spacing: 0.06em;
   color: #000000 !important;
   transition: color 0.3s ease-out;
@@ -36,9 +36,9 @@ figure {
 }
 
     article img {
-      max-width: 75%;
+      max-width: 55%;
       display: block;
-      margin: 10px auto; /* Add margin to the top and bottom, and center the image horizontally */
+      margin: 1px auto; /* Add margin to the top and bottom, and center the image horizontally */
       transform-origin: center;
       transform: scale(0.75);
       transition: transform 0.4s ease-in-out;
@@ -46,7 +46,7 @@ figure {
     }
 
 .article-body {
-  padding: 10px;
+  padding: 1px;
 }
 
 article a {
