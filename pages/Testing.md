@@ -15,7 +15,8 @@ Issue 5 (2021)  (insert link)
 * Article 1
 * Article 2
 
-![](/images/Insights/2018%20insights.png)
+<img style="border: 1px solid #000; padding: 5px;" height="auto" width="75%" alt="Insights issue 4 cover" src="/images/Insights/2018%20insights.png">
+
 Issue 4 (2018)
 * Article 1
 * Article 2
