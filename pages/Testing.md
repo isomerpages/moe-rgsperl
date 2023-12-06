@@ -22,7 +22,7 @@ description: testing various elements to put on website
 article h2 {
   margin: 5 5 5px 5;
   font-family: "Bebas Neue", cursive;
-  font-size: 0.5rem;
+  font-size: 10rem;
   letter-spacing: 0.06em;
   color: #000000 !important;
   transition: color 0.3s ease-out;
@@ -88,4 +88,3 @@ article a {
       </div>
     </div>
   </article>
-	
