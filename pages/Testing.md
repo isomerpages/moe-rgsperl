@@ -15,7 +15,7 @@ Issue 5 (2021)  (insert link)
 * Article 1
 * Article 2
 
-<img src="/images/Insights/2018%20insights.png" style="width:30%" align="">
+<img src="/images/Insights/2018%20insights.png" style="width:25%" align="middle">
 
 Issue 4 (2018)
 * Article 1
