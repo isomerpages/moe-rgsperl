@@ -4,217 +4,267 @@ permalink: /testing/
 variant: markdown
 description: testing various elements to put on website
 ---
+<div class="wrapper">
+  <div class="cards_wrap">
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card_item">
+      <div class="card_inner">
+        <div class="card_top">
+          <img alt="car" src="https://i.imgur.com/qhE9KtV.jpg">
+        </div>
+        <div class="card_bottom">
+          <div class="card_category">
+            Travel
+          </div>
+          <div class="card_info">
+            <p class="title">10 Best Things about Travel</p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ab.
+            </p>
+          </div>
+          <div class="card_creator">
+            By Alex Kato
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+@import url("https://fonts.googleapis.com/css?family=Nunito&amp;display=swap");
 
-	
-	--------------------
-article {
-  --img-scale: 1.001;
-  --title-color: black;
-  --link-icon-translate: -20px;
-  --link-icon-opacity: 0;
-  position: relative;
-  border-radius: 16px;
-  box-shadow: none;
-  background: #fff;
-  transform-origin: center;
-  transition: all 0.4s ease-in-out;
-  overflow: hidden;
-}
-
-article a::after {
-  position: absolute;
-  inset-block: 0;
-  inset-inline: 0;
-  cursor: pointer;
-  content: "";
-}
-
-/* basic article elements styling */
-article h2 {
-  margin: 0 0 18px 0;
-  font-family: "Bebas Neue", cursive;
-  font-size: 1.9rem;
-  letter-spacing: 0.06em;
-  color: var(--title-color);
-  transition: color 0.3s ease-out;
-}
-
-figure {
+* {
   margin: 0;
   padding: 0;
-  aspect-ratio: 16 / 9;
-  overflow: hidden;
-}
-
-article img {
-  max-width: 100%;
-  transform-origin: center;
-  transform: scale(var(--img-scale));
-  transition: transform 0.4s ease-in-out;
-}
-
-.article-body {
-  padding: 24px;
-}
-
-article a {
-  display: inline-flex;
-  align-items: center;
-  text-decoration: none;
-  color: #28666e;
-}
-
-article a:focus {
-  outline: 1px dotted #28666e;
-}
-
-article a .icon {
-  min-width: 24px;
-  width: 24px;
-  height: 24px;
-  margin-left: 5px;
-  transform: translateX(var(--link-icon-translate));
-  opacity: var(--link-icon-opacity);
-  transition: all 0.3s;
-}
-
-/* using the has() relational pseudo selector to update our custom properties */
-article:has(:hover, :focus) {
-  --img-scale: 1.1;
-  --title-color: #28666e;
-  --link-icon-translate: 0;
-  --link-icon-opacity: 1;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-}
-
-
-/************************ 
-Generic layout (demo looks)
-**************************/
-
-*,
-*::before,
-*::after {
   box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
 }
 
 body {
-  margin: 0;
-  padding: 48px 0;
-  font-family: "Figtree", sans-serif;
-  font-size: 1.2rem;
-  line-height: 1.6rem;
-  background-image: linear-gradient(45deg, #7c9885, #b5b682);
-  min-height: 100vh;
+  background: #eedfcc;
+  color: #555555;
+  font-size: 14px;
 }
 
-.articles {
-  display: grid;
-  max-width: 1200px;
-  margin-inline: auto;
-  padding-inline: 24px;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 24px;
+img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
-@media screen and (max-width: 960px) {
-  article {
-    container: card/inline-size;
-  }
-  .article-body p {
-    display: none;
+.wrapper {
+  width: 100%;
+  margin: 20px auto;
+}
+
+.cards_wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cards_wrap .card_item {
+  width: 25%;
+  padding: 10px;
+}
+
+.cards_wrap .card_inner {
+  background: #fff;
+}
+
+.cards_wrap .card_top {
+  width: 100%;
+  min-height: 225px;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.cards_wrap .card_bottom {
+  padding: 15px;
+}
+
+.cards_wrap .card_bottom .card_category {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.cards_wrap .card_bottom .card_info {
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px dashed #0071bc;
+}
+
+.cards_wrap .card_bottom .card_info .title {
+  color: #0071bc;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.cards_wrap .card_bottom .card_creator {
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .cards_wrap .card_item {
+    width: 33.3%;
   }
 }
 
-@container card (min-width: 380px) {
-  .article-wrapper {
-    display: grid;
-    grid-template-columns: 100px 1fr;
-    gap: 16px;
+@media (max-width: 768px) {
+  .cards_wrap .card_item {
+    width: 50%;
   }
-  .article-body {
-    padding-left: 0;
+}
+
+@media (max-width: 528px) {
+  .cards_wrap .card_top {
+    height: auto;
   }
-  figure {
+  .cards_wrap .card_item {
     width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
-  figure img {
-    height: 100%;
-    aspect-ratio: 1;
-    object-fit: cover;
   }
 }
-
-.sr-only:not(:focus):not(:active) {
-  clip: rect(0 0 0 0); 
-  clip-path: inset(50%);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap; 
-  width: 1px;
-}
-
-<section class="articles">
-  <article>
-    <div class="article-wrapper">
-      <figure>
-        <img alt="" src="https://picsum.photos/id/1011/800/450">
-      </figure>
-      <div class="article-body">
-        <h2>This is some title</h2>
-        <p>
-          Curabitur convallis ac quam vitae laoreet. Nulla mauris ante, euismod sed lacus sit amet, congue bibendum eros. Etiam mattis lobortis porta. Vestibulum ultrices iaculis enim imperdiet egestas.
-        </p>
-        <a class="read-more" href="#">
-          Read more <span class="sr-only">about this is some title</span>
-          <svg fill="currentColor" viewBox="0 0 20 20" class="icon" xmlns="http://www.w3.org/2000/svg">
-            <path clip-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" fill-rule="evenodd"></path>
-          </svg>
-        </a>
-      </div>
-    </div>
-  </article>
-  <article>
-
-    <div class="article-wrapper">
-      <figure>
-        <img alt="" src="https://picsum.photos/id/1005/800/450">
-      </figure>
-      <div class="article-body">
-        <h2>This is some title</h2>
-        <p>
-          Curabitur convallis ac quam vitae laoreet. Nulla mauris ante, euismod sed lacus sit amet, congue bibendum eros. Etiam mattis lobortis porta. Vestibulum ultrices iaculis enim imperdiet egestas.
-        </p>
-        <a class="read-more" href="#">
-          Read more <span class="sr-only">about this is some title</span>
-          <svg fill="currentColor" viewBox="0 0 20 20" class="icon" xmlns="http://www.w3.org/2000/svg">
-            <path clip-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" fill-rule="evenodd"></path>
-          </svg>
-        </a>
-      </div>
-    </div>
-  </article>
-  <article>
-
-    <div class="article-wrapper">
-      <figure>
-        <img alt="" src="https://picsum.photos/id/103/800/450">
-      </figure>
-      <div class="article-body">
-        <h2>This is some title</h2>
-        <p>
-          Curabitur convallis ac quam vitae laoreet. Nulla mauris ante, euismod sed lacus sit amet, congue bibendum eros. Etiam mattis lobortis porta. Vestibulum ultrices iaculis enim imperdiet egestas.
-        </p>
-        <a class="read-more" href="#">
-          Read more <span class="sr-only">about this is some title</span>
-          <svg fill="currentColor" viewBox="0 0 20 20" class="icon" xmlns="http://www.w3.org/2000/svg">
-            <path clip-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" fill-rule="evenodd"></path>
-          </svg>
-        </a>
-      </div>
-    </div>
-  </article>
-</section>
