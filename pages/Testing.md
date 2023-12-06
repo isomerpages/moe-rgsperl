@@ -22,7 +22,7 @@ description: testing various elements to put on website
 article h2 {
   margin: 2 2 2px 2;
   font-family: "Bebas Neue", cursive;
-  font-size: 3rem;
+  font-size: 0.5rem;
   letter-spacing: 0.06em;
   color: #000000 !important;
   transition: color 0.3s ease-out;
