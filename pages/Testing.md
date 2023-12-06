@@ -22,16 +22,8 @@ A copy of our in-house publications can be accessed by clicking on the images. T
 Issue 5 (2021)  (insert link)
 * Article 1
 * Article 2
-<br> <br>
 
 <img src="/images/Insights/2018%20insights.png" style="width:25%" align="left">
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
-
 
 Issue 4 (2018)
 * Article 1
