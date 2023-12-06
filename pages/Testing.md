@@ -24,7 +24,7 @@ article h2 {
   font-family: "Bebas Neue", cursive;
   font-size: 0.5rem;
   letter-spacing: 0.06em;
-  color: #000000;
+  color: #000000 !important;
   transition: color 0.3s ease-out;
 }
 
@@ -46,7 +46,7 @@ figure {
     }
 
 .article-body {
-  padding: 24px;
+  padding: 10px;
 }
 
 article a {
