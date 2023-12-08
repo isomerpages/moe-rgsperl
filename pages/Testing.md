@@ -56,8 +56,8 @@ Issue 4 (2018)
   </div>
   <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 350px; float: left;" class="text-card">
     <h3 style="color: #333; font-size: 24px; margin-bottom: 5px;">Insights vol 3</h3>
-<img style="width: %; margin-bottom: 5px; float: middle; border: 2px solid #000;" alt="Image Description" src="/images/Insights/2021%20insight.png"><br>
-<p style="color: #666; font-size: 18px;"><br><br><br><br>Download Insights vol 3</p>
+<img style="width: 50%; margin-bottom: 5px; float: middle; border: 2px solid #000;" alt="Image Description" src="/images/Insights/2021%20insight.png"> <p style="color: #666; font-size: 18px;"> <a href="https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link"> Download Insights vol 3</a></p>
+
   </div>
 
 
