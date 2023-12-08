@@ -16,12 +16,13 @@ Issue 5 (2021) (insert link)
 * Article 1
 * Article 2
 
-
-
-  <img align="left" style="width: 30%" alt="" src="/images/Insights/2018%20insights.png">
-
-
-<p></p>
+ <img align="left" style="width: 30%" alt="" src="/images/Insights/2018%20insights.png">
+	
 Issue 4 (2018)
 * Article 1
 * Article 2 
+
+<img src="/images/ap.jpg" style="width:49%" align="right">
+test
+* 1
+* 2
