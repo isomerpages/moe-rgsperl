@@ -47,16 +47,17 @@ Issue 4 (2018)
 
 
   <div class="text-card">
-    <h3>Card Title 1</h3>
-    <p>This is the content for the first text card.</p>
+    <h3>Insights issue 5 (2021)</h3>
+		<p><img src="/images/Insights/2021%20insight.png" style="width:30%" align="left"></p>
+<p> [Dowload here.](https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link)</p>
   </div>
   <div class="text-card">
-    <h3>Card Title 2</h3>
-    <p>This is the content for the second text card.</p>
+    <h3>Insights Issue 4 (2018)</h3>
+    <p>![](/images/Insights/2018%20insights.png)This is the content for the second text card.</p>
   </div>
   <div class="text-card">
-    <h3>Card Title 3</h3>
-    <p>This is the content for the third text card.</p>
+    <h3>Insights Issue 3 (2016)</h3>
+    <p>[Dowload here.](https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link)This is the content for the third text card.</p>
   </div>
 
 
