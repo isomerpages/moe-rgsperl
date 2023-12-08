@@ -13,16 +13,16 @@ Insights magazine is a biennial magazine publication which aims to share practit
 
 
 
-Issue 5 (2021) (insert link)
+<br>Issue 5 (2021) (insert link)
 * Article 1
 * Article 2
 
-
+<br>
 
   <img align="left" style="width: 30%" alt="" src="/images/Insights/2018%20insights.png">
 
 
 
-Issue 4 (2018)
+<br>Issue 4 (2018)
 * Article 1
 * Article 2
