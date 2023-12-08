@@ -22,42 +22,24 @@ Issue 4 (2018)
 
 
 
-  <style>
-    .text-card {
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      padding: 20px;
-      margin: 10px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      width: 200px; /* Set a specific width for the cards */
-      float: left; /* Float the cards to align them horizontally */
-    }
-
-    .text-card h3 {
-      color: #333;
-      font-size: 20px;
-      margin-bottom: 10px;
-    }
-
-    .text-card p {
-      color: #666;
-      font-size: 16px;
-    }
-  </style>
 
 
-  <div class="text-card">
-    <h3>Insights issue 5 (2021)</h3>
-		<p><img src="/images/Insights/2021%20insight.png" style="width:30%" align="left"></p>
-<p> [Dowload here.](https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link)</p>
+
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px; float: left;" class="text-card">
+    <h3 style="color: #333; font-size: 20px; margin-bottom: 10px;">Insights vol 1</h3>
+    <p style="color: #666; font-size: 16px;">Download Insights vol 1</p>
   </div>
-  <div class="text-card">
-    <h3>Insights Issue 4 (2018)</h3>
-    <p>![](/images/Insights/2018%20insights.png)This is the content for the second text card.</p>
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px; float: left;" class="text-card">
+    <h3 style="color: #333; font-size: 20px; margin-bottom: 10px;">Insights vol 2</h3>
+    <p style="color: #666; font-size: 16px;">Download Insights vol 2</p>
   </div>
-  <div class="text-card">
-    <h3>Insights Issue 3 (2016)</h3>
-    <p>[Dowload here.](https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link)This is the content for the third text card.</p>
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px; float: left;" class="text-card">
+    <h3 style="color: #333; font-size: 20px; margin-bottom: 10px;">Insights vol 3</h3>
+    <img style="width: 30%; margin-bottom: 10px; float: left;" alt="Image Description" src="/images/Insights/2021%20insight.png">
+    <p style="color: #666; font-size: 16px;">Download Insights vol 3</p>
   </div>
+
+
+
 
 
