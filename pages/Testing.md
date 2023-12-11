@@ -35,7 +35,7 @@ Issue 4 (2018)
   </div>
   <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; margin: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px; float: left;" class="text-card">
     <h3 style="color: #333; font-size: 20px; margin-bottom: 10px;">Insights vol 3</h3>
-    <img style="width: 30%; margin-bottom: 10px; float: left;" alt="Image Description" src="/images/Insights/2021%20insight.png">
+    <img style="width: 70%; margin-bottom: 10px; float: left;" alt="Image Description" src="/images/Insights/2021%20insight.png"><br><br><br><br>
     <p style="color: #666; font-size: 16px;">Download Insights vol 3</p>
   </div>
 
@@ -54,4 +54,4 @@ Issue 4 (2018)
 
   </div>
 	
-#testing
+<p>testing </p>
