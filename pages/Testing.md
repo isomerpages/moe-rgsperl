@@ -40,12 +40,6 @@ Issue 4 (2018)
   </div>
 
 
-
-
-
-
-
-
   <div style="border: 1px solid #ccc; border-radius: 5px; padding: 30px; margin: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 250px; float: left;" class="text-card">
     <h3 style="color: #333; font-size: 24px; margin-bottom: 15px;">Insights vol 1</h3>
     <p style="color: #666; font-size: 18px;">Download Insights vol 1</p>
@@ -56,8 +50,6 @@ Issue 4 (2018)
   </div>
   <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1px; margin: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 350px; float: left;" class="text-card">
     <h3 style="color: #333; font-size: 24px; margin-bottom: 5px; text-align: center;">Insights Vol. 3</h3>
-<img style="width: 50%; margin-bottom: 5px; float: middle; border: 1px solid #000;" alt="Image Description" src="/images/Insights/2021%20insight.png"> <p style="color: #666; ;font-size: 18px;text-align: center;"> <a href="https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link"> Download Insights Vol. 3</a></p>
+    <img style="width: 50%; margin-bottom: 5px; float: middle; border: 1px solid #000;" alt="Image Description" src="/images/Insights/2021%20insight.png"> <p style="color: #666; ;font-size: 18px;text-align: center;"> <a href="https://drive.google.com/file/d/1ivlKWVmazCvtgZCwACk0EyPLniwmLNgB/view?usp=drive_link"> Download Insights Vol. 3</a></p>
 
   </div>
-
-
