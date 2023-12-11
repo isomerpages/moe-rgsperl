@@ -9,9 +9,7 @@ variant: markdown
 
 Insights magazine is a biennial magazine publication which aims to share practitioner research findings and best practices with RGS staff and the wider educational fraternity.
 
-A copy of our in-house publications can be accessed by clicking on the images. To request for a complimentary hardcopy of the latest issue of Insights, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfDl4vV7llMZwQXm0aOMw9flvkLZJOhtk3rGtmEIKUAgGVOFQ/viewform?usp=sf_link).
-
-
+A copy of our in-house publications can be accessed below. To request for a complimentary hardcopy of the latest issue of Insights, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSfDl4vV7llMZwQXm0aOMw9flvkLZJOhtk3rGtmEIKUAgGVOFQ/viewform?usp=sf_link).
 
 
 |  [ISSUE 5, 2021](https://drive.google.com/file/d/16D7MInanrqI5HHUe17zikHNAM7FlIwCW/view?usp=share_link) | [ISSUE 4, 2018](https://drive.google.com/file/d/1sN0-UlR5IC0nRUuWWmbQDzfbnwiqD5Ai/view?usp=share_link) |  [ISSUE 3, 2016](https://drive.google.com/file/d/1waj-ws3Az4GcUIc_28MA7N2pzKLgBPqy/view?usp=share_link) |
