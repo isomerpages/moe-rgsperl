@@ -2,8 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - PeRL Publications/.keep
-      - PeRL Publications/INSIGHTS MAGAZINE.md
       - Conference Presentations/.keep
       - Conference Presentations/Conference Presentations.md
       - Conference Presentations/2010.md
