@@ -1,6 +1,6 @@
 title: Raffles Girls PeRL
 url: https://rgs.perl.edu.sg
-favicon: /images/logo.jpg
+favicon: /images/perl_logo__1_.png
 colors:
   primary-color: "#006747"
   secondary-color: "#006747"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dfkurcec4b4z0.amplifyapp.com
 prod: https://master.dfkurcec4b4z0.amplifyapp.com
-shareicon: /images/logo.jpg
+shareicon: /images/perl_logo__1_.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
