@@ -15,13 +15,11 @@ links:
     url: /resources/PeRL-Publications/insight-magazine/
     sublinks:
       - title: PeRL Publications
-        url: /resources/PeRL-Publications/insight-magazine/
+        url: https://perl.rgs.edu.sg/highlights/insights/read/
       - title: Conference Presentations
         url: /resources/Conference-Presentations/con-present/
       - title: EDUBlog (ARCHIVED)
         url: https://rgsperl.wordpress.com/
-      - title: PeRL Publications 2
-        url: https://perl.rgs.edu.sg/highlights/insights/read/
   - title: Symposium
     url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium/programme
   - title: PED Talks
