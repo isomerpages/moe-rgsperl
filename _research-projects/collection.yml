@@ -2,6 +2,7 @@ collections:
   research-projects:
     output: true
     order:
+      - Research Projects List/2018 to 2022 Research Projects.md
       - Research Projects List/.keep
       - Research Projects.md
       - All Projects.md
