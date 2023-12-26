@@ -3,8 +3,9 @@ title: History
 permalink: /about-us/Centre-for-Pedagogical/history/
 description: ""
 third_nav_title: Centre for Pedagogical
+variant: markdown
 ---
-## HISTORY
+## History
 
 <img src="/images/This Is It.jpg" style="width:%" align="">
 
