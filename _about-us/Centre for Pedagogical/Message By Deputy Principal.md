@@ -3,8 +3,9 @@ title: Message By Deputy Principal
 permalink: /about-us/Centre-for-Pedagogical/message/
 description: ""
 third_nav_title: Centre for Pedagogical
+variant: markdown
 ---
-## MESSAGE BY DEPUTY PRINCIPAL
+## Message by Deputy Principal
 
 <img src="/images/MGC_corp.jpg" style="width:49%" align="right">
 
