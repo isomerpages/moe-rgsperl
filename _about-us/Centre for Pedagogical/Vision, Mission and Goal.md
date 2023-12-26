@@ -3,8 +3,9 @@ title: Vision, Mission and Goal
 permalink: /about-us/Centre-for-Pedagogical/vmg/
 description: ""
 third_nav_title: Centre for Pedagogical
+variant: markdown
 ---
-## VISION, MISSION AND GOAL
+## Vision, Mission and Goal
 
 RGS PeRL aspires to nurture practitioners who intuitively inquire about their classroom practices and who reflect and develop respect for learner diversity, open-mindedness and responsibility, traits which John Dewey (1933) describes as the ‘moral dimension’ to reflective practice.
 
