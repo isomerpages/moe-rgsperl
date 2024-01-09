@@ -12,7 +12,7 @@ links:
   - title: Professional Learning
     collection: professional-learning
   - title: Resources
-    url: /resources/PeRL-Publications/insight-magazine/
+    url: https://perl.rgs.edu.sg/highlights/insights/read/
     sublinks:
       - title: PeRL Publications
         url: https://perl.rgs.edu.sg/highlights/insights/read/
@@ -22,5 +22,5 @@ links:
         url: https://rgsperl.wordpress.com/
   - title: Symposium
     url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium/programme
-  - title: PED Talks
+  - title: PEDTalks
     url: https://sites.google.com/rafflesgirlssch.edu.sg/pedtalks/about-pedtalks

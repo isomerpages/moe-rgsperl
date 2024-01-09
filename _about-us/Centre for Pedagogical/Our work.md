@@ -3,10 +3,11 @@ title: Our work
 permalink: /about-us/Centre-for-Pedagogical/our-work/
 description: ""
 third_nav_title: Centre for Pedagogical
+variant: markdown
 ---
-## OUR WORK
+## Our Work
 
-#### PeRL's WORK AT A GLANCE
+#### PeRL's Work at A Glance
 
 _(Click on image to enlarge)_
 
