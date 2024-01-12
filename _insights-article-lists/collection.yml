@@ -1,5 +1,0 @@
-collections:
-  insights-article-lists:
-    output: true
-    order:
-      - Insights Volume 5.md
