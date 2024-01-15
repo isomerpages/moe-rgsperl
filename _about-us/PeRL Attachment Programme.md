@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## PeRL Attachment Programme
 
-#### Meaningful Learning Opportunities at The Centre of Pedagogical Research And Learning
+#### Meaningful Learning Opportunities at The Centre of Pedagogical Research and Learning
 
 
 RGS PeRL welcomes individuals with a keen interest in a pedagogical research and learning career to participate in our Attachment Programme. You will be attached to a cross-function team comprising Research, Consultancy and Professional Learning domains where you will get a chance to work with experienced educational officers and professionals on specific projects integral to PeRL's core responsibilities and outputs.
