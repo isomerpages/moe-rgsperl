@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Research
 
-#### Culture Of Informed Practice
+#### Culture of Informed Practice
 
 RGS PeRL Research Academy promotes and facilitates investigative inquiry into school-based practices. This research helps us better understand pedagogical strategies that work in the classroom, and the conditions under which such success can occur. As a result, teachers can make more informed instructional and pedagogical decisions about their lessons. A culture of research and inquiry into teaching practices enhances teacher professionalism.
 
