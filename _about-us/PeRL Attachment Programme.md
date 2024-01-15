@@ -27,7 +27,7 @@ There are different areas and choices to cater to various interests and skills:
 
 We welcome individuals with a minimum of A-level qualification, as well as education officers on PDL or working professionals from all disciplines with an interest in this field to apply for our Attachment Programme. The job scopes and tasks that we offer will be designed to match your qualifications and experience.
 
-If you are interested, drop us an [email](mailto:rgs.perl@rgs.edu.sg) with your CV and cover letter. Do indicate your area of interest(s), the type of learning you wish to engage in, and the time period and duration that you will be able to join us&amp; (minimum of 5 weeks and maximum of 12 weeks in a calendar year), and we will work with you to create a suitable and personalised program. We look forward to welcome you as a partner and co-learner.
+If you are interested, drop us an [email](mailto:rgs.perl@rafflesgirlssch.edu.sg) with your CV and cover letter. Do indicate your area of interest(s), the type of learning you wish to engage in, and the time period and duration that you will be able to join us&amp; (minimum of 5 weeks and maximum of 12 weeks in a calendar year), and we will work with you to create a suitable and personalised program. We look forward to welcome you as a partner and co-learner.
 
 #### PeRL Internship Experience
 
