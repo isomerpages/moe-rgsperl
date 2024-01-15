@@ -2,7 +2,6 @@ collections:
   rgs-perl:
     output: true
     order:
-      - Insights Vol 4.md
       - Collaborate with RGS PERL.md
       - "Workshop on PLC for EDUCA 2018: Thailand.md"
       - "Student Voices: What Students Want.md"
