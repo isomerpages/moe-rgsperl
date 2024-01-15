@@ -2,5 +2,4 @@ collections:
   rgs-perl-happenings:
     output: true
     order:
-      - Differentiation Workshop by Professor Carol Ann Tomlinson.md
       - RGS NIE signing of LOI.md
