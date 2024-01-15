@@ -14,8 +14,10 @@ links:
   - title: Resources
     url: https://perl.rgs.edu.sg/highlights/insights/read/
     sublinks:
-      - title: PeRL Publications
+      - title: Insights magazine
         url: https://perl.rgs.edu.sg/highlights/insights/read/
+      - title: Staff Publication
+        url: /resources/staff-publications/
       - title: Conference Presentations
         url: /resources/Conference-Presentations/con-present/
       - title: EDUBlog (ARCHIVED)
