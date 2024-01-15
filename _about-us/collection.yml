@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Centre for Pedagogical/.keep
-      - Centre for Pedagogical/History.md
-      - Centre for Pedagogical/Vision, Mission and Goal.md
-      - Centre for Pedagogical/Our work.md
-      - Centre for Pedagogical/Message By Deputy Principal.md
-      - Centre for Pedagogical/Personnel.md
+      - PeRL/.keep
+      - PeRL/History.md
+      - PeRL/Vision, Mission and Goal.md
+      - PeRL/Our work.md
+      - PeRL/Message By Deputy Principal.md
+      - PeRL/Personnel.md
       - Research.md
       - Engagement.md
       - Professional Development.md
