@@ -12,10 +12,10 @@ links:
   - title: Professional Learning
     collection: professional-learning
   - title: Resources
-    url: https://perl.rgs.edu.sg/highlights/insights/read/
+    url: /resources/insights/
     sublinks:
       - title: Insights Magazines
-        url: https://perl.rgs.edu.sg/highlights/insights/read/
+        url: /resources/insights/
       - title: Staff Publications
         url: /resources/staff-publications/
       - title: Conference Presentations
