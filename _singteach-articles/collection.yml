@@ -1,6 +1,0 @@
-collections:
-  singteach-articles:
-    output: true
-    order:
-      - SingTeach Articles/.keep
-      - SingTeach Articles/SingTeach.md
