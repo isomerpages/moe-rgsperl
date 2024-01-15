@@ -1,8 +1,8 @@
 ---
 title: Message By Deputy Principal
-permalink: /about-us/Centre-for-Pedagogical/message/
+permalink: /about-us/perl/message/
 description: ""
-third_nav_title: Centre for Pedagogical
+third_nav_title: PeRL
 variant: markdown
 ---
 ## Message by Deputy Principal

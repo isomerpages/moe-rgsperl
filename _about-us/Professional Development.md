@@ -4,15 +4,16 @@ permalink: /about-us/prof-development/
 description: ""
 variant: markdown
 ---
-## PROFESSIONAL DEVELOPMENT
+## Professional Development
 
-#### PROFESSIONAL DEVELOPMENT IN RGS: NURTURING THE ADEPT TEACHER OF THE HIGHLY ABLE GIRL
+#### Professional Development in RGS: Nurturing The Adept Teacher of The Highly Able Girl
 
-One of the stretch goals of the school is to be a world-class institution for the education of gifted and talented girls, recognized locally and internationally.
 
-In line with this, the RGS Professional Development Plan-2 (PDP-2) aims to develop and retain staff with the necessary competencies and dispositions to cultivate professional discourse and viewpoints that engage, create and challenge learning. An on-going review process ensures constant feedback, analysis and refinement of the quality of teaching.
+One of the strategic goals of the school is to be a world-class institution for the education of gifted and talented girls, recognised locally and internationally.
 
-#### PROFESSIONAL LEARNING OF RGS EDUCATION OFFICERS
+In line with this, the RGS Professional Development Plan-2 (PDP-2) aims to develop and retain staff with the necessary competencies and dispositions to cultivate professional discourse and viewpoints that engage, create and challenge learning. An ongoing review process ensures constant feedback, analysis and refinement of the quality of teaching.
+
+#### Professional Learning of RGS Education Officers
 
 Definition: Professional Development Plan and Professional Learning
 
@@ -41,7 +42,8 @@ The value of a top-down approach to PD is also questionable. Rather than teacher
 
 The entire fraternity takes ownership for setting high expectations for student learning.
 
-#### FEATURES OF RGS' PROFESSIONAL LEARNING
+#### Features of RGS' Professional Learning
+
 
 Literature indicates that a well-developed Professional Learning Plan consists of the following principles:
 
@@ -61,9 +63,9 @@ Teachers take note not only of what they teach but also, how they have done so. 
 
 5 \.  <u>Data-driven&nbsp;:</u> Pedagogical decisions are based on triangulated data on student performance. Professional learning is therefore, outcomes-focused.Assessment is valued for its data on the teaching–learning relationship.
 
-#### EVALUATION OF PROFESSIONAL LEARNING
+#### Evaluation of Professional Learning
 
-Evidence that directly co-relates professional learning with student achievement is thin. Given the complexities of human motivations and classroom dynamics, this is understandable. Current research only suggests that a well-developed PD Plan influences teacher practice and student performance but a causal relationship is not established.
+Evidence that directly correlates professional learning with student achievement is thin. Given the complexities of human motivations and classroom dynamics, this is understandable. Current research only suggests that a well-developed PD Plan influences teacher practice and student performance but a causal relationship is not established.
 
 Moreover, professional learning includes outcomes that go beyond student learning. These include professional interaction amongst staff, mentoring of new teachers and practitioner inquiry. These activities contribute to staff morale, capacity- building and collegiality which should be valued for their intrinsic worth.
 
@@ -79,9 +81,9 @@ The RGS Professional Learning standards are adapted from the following organisat
 4 \.  National Comprehensive Centre for Teacher Quality, United States<br>
 5 \.  Ministry of Education, New Zealand:Teacher Professional Learning and Development: Best Evidence Synthesis Iteration
 
-Acknowledging the multi-facetedness of Teaching and Learning, multiple measures are accordingly used to evaluate professional learning. These include the following:
+Acknowledging the multifacetedness of Teaching and Learning, multiple measures are accordingly used to evaluate professional learning. These include the following:
 
-*   Classroom Observation Scale-Revised&nbsp;_(adapted from College of William and Mary, USA_&nbsp;)
+*   Classroom Observation Scale-Revised (adapted from College of William and Mary, USA)
 *   Student performance data
 *   Teacher and student surveys
 *   Qualitative evidence: anecdotes; observations; interviews

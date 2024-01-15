@@ -1,8 +1,8 @@
 ---
-title: Our work
-permalink: /about-us/Centre-for-Pedagogical/our-work/
+title: Our Work
+permalink: /about-us/perl/our-work/
 description: ""
-third_nav_title: Centre for Pedagogical
+third_nav_title: PeRL
 variant: markdown
 ---
 ## Our Work

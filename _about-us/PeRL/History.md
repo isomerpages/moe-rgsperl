@@ -1,8 +1,8 @@
 ---
 title: History
-permalink: /about-us/Centre-for-Pedagogical/history/
+permalink: /about-us/perl/history/
 description: ""
-third_nav_title: Centre for Pedagogical
+third_nav_title: PeRL
 variant: markdown
 ---
 ## History
