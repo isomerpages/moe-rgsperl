@@ -2,5 +2,4 @@ collections:
   rgs-perl:
     output: true
     order:
-      - Collaborate with RGS PERL.md
       - "Workshop on PLC for EDUCA 2018: Thailand.md"
