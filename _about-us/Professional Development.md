@@ -29,10 +29,10 @@ Research shows that quality teaching enables quality learning. In line with this
 Beliefs<br>
 The PD plan is based on a set of beliefs and values about teaching and learning as articulated in the following ways:
 
-1 \.  RGS educators view student learning as a**collective** responsibility<br>
-2 \.  **Sustained**professional learning contributes to quality teaching<br>
-3 \.  Teams engage in a**continuous cycle**of improvement because they want to improve their practice<br>
-4 \.  **Student learning needs**define educators’ learning needs
+1 \.  RGS educators view student learning as a **collective** responsibility<br>
+2 \.  **Sustained** professional learning contributes to quality teaching<br>
+3 \.  Teams engage in a **continuous cycle** of improvement because they want to improve their practice<br>
+4 \.  **Student learning needs** define educators’ learning needs
 
 These beliefs have largely endured in RGS over time.
 
