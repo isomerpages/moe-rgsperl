@@ -2,5 +2,6 @@ collections:
   insights-articles-list:
     output: true
     order:
+      - Insights Vol 3 (2016).md
       - Insights Vol 2 (2014).md
       - Insights Vol 1 (2012).md
