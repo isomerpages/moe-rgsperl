@@ -2,6 +2,7 @@ collections:
   insights-articles-list:
     output: true
     order:
+      - Example Title.md
       - insights Vol 4 (2018).md
       - Insighst Vol 5 (2021).md
       - Insights Vol 3 (2016).md
