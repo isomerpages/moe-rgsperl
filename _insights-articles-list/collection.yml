@@ -2,4 +2,4 @@ collections:
   insights-articles-list:
     output: true
     order:
-      - Insights 2012.md
+      - Insights Vol 1 (2012).md
