@@ -1,0 +1,4 @@
+collections:
+  insights-articles-list:
+    output: true
+    order: []
