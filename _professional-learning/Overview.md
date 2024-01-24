@@ -2,8 +2,9 @@
 title: Overview
 permalink: /professional-learning/overview/
 description: ""
+variant: markdown
 ---
-## OVERVIEW
+## Overview
 
 The Professional Learning Academy coordinates and implements the school-wide professional development plan to support teaching excellence and enhance student learning in RGS.
 
