@@ -1,0 +1,5 @@
+collections:
+  rgs-perl-happenings:
+    output: true
+    order:
+      - RGS NIE signing of LOI.md

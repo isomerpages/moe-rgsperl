@@ -1,0 +1,14 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - PeRL/.keep
+      - PeRL/History.md
+      - PeRL/Vision, Mission and Goal.md
+      - PeRL/Our Work.md
+      - PeRL/Message By Deputy Principal.md
+      - PeRL/Our people.md
+      - Research.md
+      - Engagement.md
+      - Professional Development.md
+      - PeRL Attachment Programme.md

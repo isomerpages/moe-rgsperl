@@ -1,0 +1,11 @@
+collections:
+  research-projects:
+    output: true
+    order:
+      - Research Projects List/.keep
+      - Research Projects List/2023 Research Projects.md
+      - Research Projects List/2022 Research Projects.md
+      - Research Projects List/2021 Research Projects.md
+      - Research Projects List/2020 Research Projects.md
+      - Research Projects List/2019 Research Projects.md
+      - Research Projects List/2018 Research Projects.md

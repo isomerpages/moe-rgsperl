@@ -1,0 +1,5 @@
+collections:
+  rgs-perl:
+    output: true
+    order:
+      - "Workshop on PLC for EDUCA 2018: Thailand.md"

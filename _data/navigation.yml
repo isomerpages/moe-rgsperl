@@ -1,0 +1,30 @@
+logo: /images/perl_logo__1_.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Research
+    url: /research/Overview/overview/
+    sublinks:
+      - title: Overview
+        url: /research/Overview/overview/
+      - title: Research Projects
+        url: /research-projects/research-projects-list/2023-research/
+  - title: Professional Learning
+    collection: professional-learning
+  - title: Resources
+    url: /resources/insights/
+    sublinks:
+      - title: Insights Magazines
+        url: /resources/insights/
+      - title: Staff Publications
+        url: /resources/staff-publications/
+      - title: Staff Research Projects
+        url: /resources/staff-research-projects/
+      - title: Conference Presentations
+        url: /resources/Conference-Presentations/con-present/
+      - title: EDUBlog (ARCHIVED)
+        url: https://rgsperl.wordpress.com/
+  - title: Symposium
+    url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium/programme
+  - title: PEDTalks
+    url: https://sites.google.com/rafflesgirlssch.edu.sg/pedtalks/about-pedtalks

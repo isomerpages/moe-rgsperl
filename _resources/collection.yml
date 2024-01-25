@@ -1,0 +1,9 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Insights Magazines.md
+      - Staff Publications.md
+      - Staff Research Projects.md
+      - Conference Presentations/.keep
+      - Conference Presentations/Conference Presentations.md
