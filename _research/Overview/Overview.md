@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Overview
 variant: tiptap
 ---
-<h2>Overview</h2>
-<h3><strong>Research in RGS</strong></h3>
+<h2><strong>Research in RGS</strong></h2>
 <p>The PeRL Research Academy steers educational research in RGS. As a research
 office, it monitors research standards and ethics, providing the infrastructure
 for reflective practice for staff.</p>
