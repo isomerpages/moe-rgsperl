@@ -6,8 +6,7 @@ third_nav_title: Overview
 variant: tiptap
 ---
 <h2>Overview</h2>
-<p><strong>I. Research in RGS</strong>
-</p>
+<h3><strong>Research in RGS</strong></h3>
 <p>The PeRL Research Academy steers educational research in RGS. As a research
 office, it monitors research standards and ethics, providing the infrastructure
 for reflective practice for staff.</p>
@@ -42,16 +41,14 @@ includes the following:&nbsp;&nbsp;</p>
 </p>
 </li>
 </ul>
-<p><strong>Research Categories</strong>
-</p>
+<h3><strong>Research Categories</strong></h3>
 <p>Research in RGS consists of 2 categories:&nbsp;<strong>School-Wide Research</strong>&nbsp;and&nbsp;<strong>Practitioner Inquiry</strong>.
 The info-graphic below describes Practitioner Inquiry in RGS.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/A guide to rpactitioner inquiry in RGS_Poster _final.jpg">
 </div>
 <hr>
-<p><strong>II. School-Wide Research Projects</strong>
-</p>
+<h3><strong>School-Wide Research Projects</strong></h3>
 <p>PeRL-conducted School-Wide Research focuses on:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,8 +89,7 @@ inquiry, discussing classroom practices with a student-centered perspective,
 and utilizing student data to support classroom decision-making.&nbsp;</p>
 <p><strong>More information about PeRL-conducted School-Wide Research can be found&nbsp;<a href="/research/Overview/perl-swr/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<p><strong>III. Practitioner Inquiry Projects</strong>
-</p>
+<h3><strong>Practitioner Inquiry Projects</strong></h3>
 <p>Teachers in RGS embark on Practitioner Inquiry projects to inform their
 practice across diverse areas of disciplines and interests. There are protocols
 to guide teachers embarking on Practitioner Inquiry projects and a PeRL
