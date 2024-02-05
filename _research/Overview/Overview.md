@@ -87,8 +87,8 @@ more review practices which center on the evidence of student learning,
 such as through the sharing of knowledge&nbsp;gained from practitioner
 inquiry, discussing classroom practices with a student-centered perspective,
 and utilizing student data to support classroom decision-making.&nbsp;</p>
-<p><strong>More information about PeRL-conducted School-Wide Research can be found&nbsp;<a href="/research/Overview/perl-swr/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
+<p>More information about PeRL-conducted School-Wide Research can be found&nbsp;
+<a href="/research/Overview/perl-swr/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3><strong>Practitioner Inquiry Projects</strong></h3>
 <p>Teachers in RGS embark on Practitioner Inquiry projects to inform their
 practice across diverse areas of disciplines and interests. There are protocols
