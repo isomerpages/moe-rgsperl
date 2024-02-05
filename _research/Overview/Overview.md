@@ -124,5 +124,5 @@ Conference 2015 was priceless. The discussions with fellow educators on
 how we could further refine our existing assessment practices were truly
 enriching.</p>
 <p></p>
-<p>The full list of Practitioner Inquiry projects conducted over the past
-five years can be found&nbsp;<a href="/research-projects/research-projects-list/2023-research/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The list of Practitioner Inquiry projects conducted over the past five
+years can be found&nbsp;<a href="/research-projects/research-projects-list/2023-research/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
