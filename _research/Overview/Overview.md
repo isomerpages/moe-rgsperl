@@ -18,27 +18,27 @@ information and guidelines for all research-related information, which
 includes the following:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Research Integrity Policy and Procedures,&nbsp;<strong><em>pg 8</em></strong>
+<p>&nbsp;Research Integrity Policy and Procedures,&nbsp;<em>pg 8</em>
 </p>
 </li>
 <li>
-<p>&nbsp;Information regarding Data Collection in RGS,&nbsp;<strong><em>pg 27</em></strong>
+<p>&nbsp;Information regarding Data Collection in RGS,&nbsp;<em>pg 27</em>
 </p>
 </li>
 <li>
-<p>&nbsp;RGS PeRL Authorship Guidelines,&nbsp;<strong><em>pg 28</em></strong>
+<p>&nbsp;RGS PeRL Authorship Guidelines,&nbsp;<em>pg 28</em>
 </p>
 </li>
 <li>
-<p>&nbsp;Role of Teachers &amp; Specialists,&nbsp;<strong><em>pg 35</em></strong>
+<p>&nbsp;Role of Teachers &amp; Specialists,&nbsp;<em>pg 35</em>
 </p>
 </li>
 <li>
-<p>&nbsp;Singapore Statement of Research Integrity,&nbsp;<strong><em>pg 38</em></strong>
+<p>&nbsp;Singapore Statement of Research Integrity,&nbsp;<em>pg 38</em>
 </p>
 </li>
 <li>
-<p>&nbsp;Informed consent to participate in a research study,&nbsp;<strong><em>pg 41</em></strong>
+<p>&nbsp;Informed consent to participate in a research study,&nbsp;<em>pg 41</em>
 </p>
 </li>
 </ul>
