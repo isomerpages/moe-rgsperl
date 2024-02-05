@@ -97,7 +97,7 @@ learning. These include professional interaction amongst staff, mentoring
 of new teachers and practitioner inquiry. These activities contribute to
 staff morale, capacity- building and collegiality which should be valued
 for their intrinsic worth.</p>
-<p>In fact, OECD quotes the Heisenberg’s Uncertainty Principle <a href="https://www.rgs.edu.sg/about-us/professional-development#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>&nbsp;to
+<p>In fact, OECD quotes the Heisenberg’s Uncertainty Principle <a href="https://www.rgs.edu.sg/about-us/professional-development#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;to
 warn PD planners on the ‘corrupting and distorting’ effects of quantitative
 indicators for what is largely, a social process.</p>
 <p>Thus, for now, the quality of RGS’ Professional learning is evaluated
@@ -135,5 +135,5 @@ Mary, USA)</p>
 <p>The data contributes to training plans, in-house research and strategic
 directions.</p>
 <hr>
-<p><a href="http://www.oecd.org/edu/school/48727127.pdf" rel="noopener noreferrer nofollow" target="_blank">[2]</a>&nbsp;Quoted
+<p><a href="http://www.oecd.org/edu/school/48727127.pdf" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;Quoted
 in OECD report accessed from http://www.oecd.org/edu/school/48727127.pdf</p>
