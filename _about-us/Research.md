@@ -4,13 +4,11 @@ permalink: /about-us/research/
 description: ""
 variant: markdown
 ---
-## Research
-
-#### Culture of Informed Practice
+### Culture of Informed Practice
 
 RGS PeRL Research Academy promotes and facilitates investigative inquiry into school-based practices. This research helps us better understand pedagogical strategies that work in the classroom, and the conditions under which such success can occur. As a result, teachers can make more informed instructional and pedagogical decisions about their lessons. A culture of research and inquiry into teaching practices enhances teacher professionalism.
 
-Objective<br>
+**Objective**<br>
 In order to foster a culture of informed practice in which teachers critically reflect, question and evaluate the effectiveness of pedagogical practices in teaching and learning, RGS PeRL Research Academy provides support for teachers embarking on practitioner inquiry and ensures ethical standards and quality in teachers’ research.
 
 Practitioner inquiry or teacher research has been defined by Cochran-Smith and Lytle (1993) as “systematic intentional inquiry by teachers about their own school and classroom work”.
@@ -21,7 +19,7 @@ Teachers are encouraged to embark on Practitioner Inquiry so as to:
 *   Provide a sense of ownership
 *   Develop high levels of professional expertise to improve students’ learning outcomes
 
-#### Value Proposition: Indigenized Research
+### Value Proposition: Indigenized Research
 
 
 <img src="/images/pic-green diagram.jpg" style="width:49%" align="right">
@@ -30,7 +28,7 @@ Underlying the endeavour of reflective practice is our conviction in the value o
 
 Our overarching aim is to enhance and enrich an Asian discourse in education. The diagram above illustrates RGS PeRL's value proposition.
 
-#### Research Findings: Dissemination
+### Research Findings: Dissemination
 
 Deliberate effort is taken to ensure that research findings are used to inform practice. The findings
 are disseminated in the following ways:
