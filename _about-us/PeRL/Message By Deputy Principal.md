@@ -5,8 +5,6 @@ description: ""
 third_nav_title: PeRL
 variant: markdown
 ---
-## Message by Deputy Principal
-
 <img src="/images/MGC_corp.jpg" style="width:49%" align="right">
 
 An educator creates experiences of wonderment and achievement, aspires to nurture empowered learners, administers routines for learning and assessments and responds to the emotional needs of the learners, harnessing multiple skills.
