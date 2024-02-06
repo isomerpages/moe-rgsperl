@@ -5,9 +5,7 @@ description: ""
 third_nav_title: PeRL
 variant: markdown
 ---
-## Our Work
-
-#### PeRL's Work at A Glance
+## PeRL's Work at A Glance
 
 _(Click on image to enlarge)_
 
