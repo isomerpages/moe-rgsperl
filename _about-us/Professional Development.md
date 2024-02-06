@@ -4,8 +4,7 @@ permalink: /about-us/prof-development/
 description: ""
 variant: tiptap
 ---
-<h2>Professional Development</h2>
-<h4>Professional Development in RGS: Nurturing The Adept Teacher of The Highly Able Girl</h4>
+<h2>Professional Development in RGS: Nurturing The Adept Teacher of The Highly Able Girl</h2>
 <p>One of the strategic goals of the school is to be a world-class institution
 for the education of gifted and talented girls, recognised locally and
 internationally.</p>
@@ -14,7 +13,7 @@ to develop and retain staff with the necessary competencies and dispositions
 to cultivate professional discourse and viewpoints that engage, create
 and challenge learning. An ongoing review process ensures constant feedback,
 analysis and refinement of the quality of teaching.</p>
-<h4>Professional Learning of RGS Education Officers</h4>
+<h3>Professional Learning of RGS Education Officers</h3>
 <p>Definition: Professional Development Plan and Professional Learning</p>
 <p><u>Professional Development Plan</u> refers to the overall, whole-school
 system of staff development.</p>
@@ -24,16 +23,16 @@ to plan and reflect on their practices. Work is interlaced with learning
 within a collaborative culture.</p>
 <p>Both Professional Development (PD) and Professional Learning are systematic
 and intentional.</p>
-<p>Rationale for Professional Learning
-<br>Research shows that quality teaching enables quality learning. In line
+<h4>Rationale for Professional Learning </h4>
+<p>Research shows that quality teaching enables quality learning. In line
 with this, Professional Learning focuses on providing the conditions for
 all to learn, including school management and teachers. The school gives
 time and space for collaboration on lesson design and data-driven instruction
 as well as mentoring and coaching. With the student at the center of this
 process, Professional Learning creates a culture of collective learning
 and hence, deepens the social capital.</p>
-<p>Beliefs
-<br>The PD plan is based on a set of beliefs and values about teaching and
+<h4>Beliefs</h4>
+<p>The PD plan is based on a set of beliefs and values about teaching and
 learning as articulated in the following ways:</p>
 <p>1 . RGS educators view student learning as a <strong>collective</strong> responsibility
 <br>2 . <strong>Sustained</strong> professional learning contributes to quality
@@ -86,7 +85,7 @@ as places for teachers to learn” (p. 92).</p>
 <p>5 . <u>Data-driven&nbsp;:</u> Pedagogical decisions are based on triangulated
 data on student performance. Professional learning is therefore, outcomes-focused.
 Assessment is valued for its data on the teaching–learning relationship.</p>
-<h4>Evaluation of Professional Learning</h4>
+<h3>Evaluation of Professional Learning</h3>
 <p>Evidence that directly correlates professional learning with student achievement
 is thin. Given the complexities of human motivations and classroom dynamics,
 this is understandable. Current research only suggests that a well-developed
