@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Raffles Girls PeRL
+title: Raffles Girls' School PeRL
 description: An Isomer site of the Singapore Government
 image: /images/perl_logo__1_.png
 permalink: /

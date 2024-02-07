@@ -73,4 +73,4 @@ b. your breach of any of these Terms of Use.
 
 ### **Queries**
 
-If you have any queries in relation to our collection, use, disclose and/or process of your data or on the matters set out in this document, please email us at rgss@moe.edu.sg
+If you have any queries in relation to our collection, use, disclose and/or process of your data or on the matters set out in this document, please email us at rgs.perl@rafflesgirlssch.edu.sg
