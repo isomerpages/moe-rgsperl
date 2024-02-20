@@ -13,15 +13,15 @@ third_nav_title: Research Projects List
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Title</strong>
+<p><strong>Project Title</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Personnel Involved</strong>
+<p><strong>Investigator(s)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Discipline</strong>
+<p><strong>Discipline/ Department</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ third_nav_title: Research Projects List
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Category</strong>
+<p><strong>Categories</strong>
 </p>
 </td>
 </tr>
@@ -432,7 +432,7 @@ Learning</p>
 <p>Assessments</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performance Task; Technology</p>
+<p>Performance Task, Technology</p>
 </td>
 </tr>
 <tr>
@@ -557,7 +557,7 @@ Education Programme</p>
 <p>Pedagogical Approach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Differentiation; Technology</p>
+<p>Differentiation, Technology</p>
 </td>
 </tr>
 <tr>
@@ -1508,7 +1508,7 @@ Students in English Language and Literature</p>
 <p>Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Motivation; Self-regulated Learnirng</p>
+<p>Student Motivation, Self-regulated Learning</p>
 </td>
 </tr>
 <tr>
@@ -2003,8 +2003,8 @@ Cycle for Lower Secondary Science Students</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Augmented Reality; Web Applet; Lower Sec Science; Transport System in
-Living Things; Cardiac Cycle</p>
+<p>Augmented Reality, Web Applet, Lower Sec Science, Transport System in
+Living Things, Cardiac Cycle</p>
 </td>
 </tr>
 <tr>
@@ -2052,7 +2052,7 @@ for Students (Phase 2)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Integration; CCE Competencies</p>
+<p>Art Integration, CCE Competencies</p>
 </td>
 </tr>
 <tr>
@@ -2097,7 +2097,7 @@ and Formative Data</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Self-Regulated Learning; Blended Learning;</p>
+<p>Self-Regulated Learning, Blended Learning</p>
 </td>
 </tr>
 <tr>
@@ -2120,7 +2120,7 @@ One Literature Unit
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blended Learning; Ownership of Learning</p>
+<p>Blended Learning, Ownership of Learning</p>
 </td>
 </tr>
 <tr>
@@ -2147,7 +2147,7 @@ Study</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blended Learning; ICT in Education; Teacher Quality; Teacher Learning
+<p>Blended Learning, ICT in Education, Teacher Quality, Teacher Learning
 and Development</p>
 </td>
 </tr>
