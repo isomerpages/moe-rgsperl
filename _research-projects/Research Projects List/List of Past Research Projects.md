@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Research Projects List
 ---
-<h4>List of Projects</h4>
+<h4>List of Past Projects</h4>
 <p>The complete list of projects carried out by RGS staff can be accessed
 <a href="https://docs.google.com/spreadsheets/d/1rxC6OabVpDl4D6Oc9iRjmelrELn1wy6WC1QzeGot0uE/edit?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
