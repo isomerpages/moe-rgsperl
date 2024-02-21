@@ -7,7 +7,7 @@ description: ""
 <p>Discover an extensive collection of RGS staff's research projects conducted
 over the past five years <a href="https://perl.rgs.edu.sg/research-projects/research-projects-list/2023-research/" rel="noopener noreferrer nofollow" target="_blank">here.</a> If
 you are interested in learning more about the research projects conducted
-by our staff since 2011, please click <a href="/research-projects/research-projects-list/all-research/" rel="noopener noreferrer nofollow" target="_blank">here.</a> These
+by our staff since 2011, please click <a href="research-projects/research-projects-list/all-research/" rel="noopener noreferrer nofollow" target="_blank">here.</a> These
 collections offer valuable findings into the diverse research endeavours
 undertaken by our dedicated staff.</p>
 <p>Additionally, you can delve into the wealth of knowledge shared through
