@@ -39,6 +39,24 @@ work:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>30 May 01 June 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transforming Education &amp; Strengthening Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yen Chuan and Lucille Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://repository.nie.edu.sg/entities/publication/12d90800-5d05-492a-aecf-0d0b1b8f9569/details" rel="noopener noreferrer nofollow" target="_blank">An Exploratory Study on Blended Learning in A Secondary School: Teachers’ Perspectives</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 – 3 June 2020</p>
 </td>
 <td rowspan="1" colspan="1">

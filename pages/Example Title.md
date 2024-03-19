@@ -1,6 +1,6 @@
 ---
 title: Example Title
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
