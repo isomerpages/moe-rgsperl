@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/coverimage .jpg
+      background: /images/2_6_Staff_Interaction___Library__EK16061_Web_Res.jpg
       key_highlights:
         - title: Announcements
           description: ""
