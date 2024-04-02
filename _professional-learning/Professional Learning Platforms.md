@@ -39,7 +39,7 @@ work:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May 01 June 2022</p>
+<p>30 May – 1 June 2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Redesigning Pedagogy International Conference</p>
@@ -93,7 +93,7 @@ Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20&nbsp;– 24&nbsp;August 2018</p>
+<p>20&nbsp;– 24 August 2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th Asia-Pacific Conference on Giftedness (APCG2018)</p>
@@ -111,7 +111,7 @@ Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20&nbsp;– 24&nbsp;August 2018</p>
+<p>20&nbsp;– 24 August 2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15th Asia-Pacific Conference on Giftedness (APCG2018)</p>
