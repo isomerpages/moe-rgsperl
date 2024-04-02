@@ -39,92 +39,112 @@ work:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May – 1 June 2022</p>
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Gifted Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence Without Borders: Gifted Education in A Changing World</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sandi Kum, Sharon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harnessing Digital Tools to Monitor Students’ Performance Using Blended
+Learning Approach</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Redesigning Pedagogy International Conference</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Chuan and Lucille Yap</p>
+<p>Azahar Noor, Foo Ling Ling, Tan Yen Chuan, Lucille Yap, Tan Yin Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://repository.nie.edu.sg/entities/publication/12d90800-5d05-492a-aecf-0d0b1b8f9569/details" rel="noopener noreferrer nofollow" target="_blank">An Exploratory Study on Blended Learning in A Secondary School: Teachers’ Perspectives</a>
-</p>
+<p>A Whole School Approach to Blended Learning</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 – 3 June 2020</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Redesigning Pedagogy International Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educating for Innovation, Nurturing for Society</p>
+<p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Chuan and Masturah Binte Abdul Aziz</p>
+<p>Chew Meek Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Developing School's Professional Capital through The Lens of Knowledge
-Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8&nbsp;– 11 August 2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16th Conference of the European Council for High Ability (ECHA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Working with Gifted Students in the 21st Century</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eriyanty Mohd and Foo Ling Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/learning-platforms/plat1/" rel="noopener noreferrer nofollow" target="_blank">The Design-Thinking Approach for the High-Ability Learners</a>
-</p>
+<p>Using Error Analysis to Develop Students’ Metacognitive Skills</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20&nbsp;– 24 August 2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15th Asia-Pacific Conference on Giftedness (APCG2018)</p>
+<p>Redesigning Pedagogy International Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inspiration, Motivation, and Creativity: Leading the Way to Giftedness</p>
+<p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Su Yin Caroline and Tan Jiaxiu</p>
+<p>Chua Han Hui, Ng Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/learning-platforms/plat2/" rel="noopener noreferrer nofollow" target="_blank">Mathematics comprehension tests&nbsp;as a tool in talent identification</a>
-</p>
+<p>Fostering Cultural Awareness Using The 3P Cultural Model"</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20&nbsp;– 24 August 2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15th Asia-Pacific Conference on Giftedness (APCG2018)</p>
+<p>PE Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inspiration, Motivation, and Creativity: Leading the Way to Giftedness</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Yong Wee, Christopher Foo and Rachel Goh Shiao En</p>
+<p>Alina Wee, Mag Suey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/learning-platforms/plat3/" rel="noopener noreferrer nofollow" target="_blank">Differentiation in a Chemistry Classroom</a>
-</p>
+<p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
+in PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science International Teachers’ Conference (SISTIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reflect. Refine. Reimagine – A Better Future with Science Education.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Sau Siong, Cindy Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collaborative Learning in IBL through Role Playing using Socratic Questioning</p>
 </td>
 </tr>
 </tbody>
@@ -194,18 +214,6 @@ view the GDP 2017 programme</p>
 <td rowspan="1" colspan="1">
 <p>Click <a href="/files/GPD%202015%20Programme_23%20July.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the GDP 2015 programme booklet</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Differentiation and Critical Thinking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Using a common text to access a multiple vistas: How to keep your teaching
-of the same material fresh? (Languages)</p>
 </td>
 </tr>
 </tbody>
