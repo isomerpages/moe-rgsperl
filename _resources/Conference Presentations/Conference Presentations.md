@@ -89,7 +89,7 @@ Learning Approach</p>
 <p>Chew Meek Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Using Error Analysis to develop students’ metacognitive skills</p>
+<p>Using Error Analysis to Develop Students’ Metacognitive Skills</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ Learning Approach</p>
 <p>Chua Han Hui, Ng Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fostering Cultural Awareness using the 3P Cultural Model"</p>
+<p>Fostering Cultural Awareness Using The 3P Cultural Model"</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +125,8 @@ Learning Approach</p>
 <p>Alina Wee, Mag Suey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leveraging on Peer Feedback in Assessment to promote self-directed learning
-in PE"</p>
+<p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
+in PE</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ in PE"</p>
 <p>Alina Wee, Mag Suey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leveraging on Peer Feedback in Assessment to promote self-directed learning
+<p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
 in PE</p>
 </td>
 </tr>
