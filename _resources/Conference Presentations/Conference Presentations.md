@@ -55,13 +55,13 @@ Learning Approach</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Redesigning Pedagogy International Conference</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Transforming Education &amp; Strengthening Society</p>
 <p>(Virtual Conference)</p>
 <p></p>
@@ -75,6 +75,17 @@ Learning Approach</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chew Meek Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,6 +94,17 @@ Learning Approach</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chua Han Hui, Ng Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,6 +112,9 @@ Learning Approach</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>PE Conference</p>
 </td>
@@ -106,6 +131,9 @@ in PE"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Science International Teachers’ Conference (SISTIC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,13 +147,13 @@ in PE"</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Teachers’ Conference &amp; Excel Fest&nbsp; (TCEF)</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ignite Imagination, Empower Communities, Transform Practice</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,6 +165,15 @@ in PE"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Conference &amp; Excel Fest&nbsp; (TCEF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignite Imagination, Empower Communities, Transform Practice</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Alina Wee, Mag Suey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,6 +182,15 @@ in PE</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Conference &amp; Excel Fest&nbsp; (TCEF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignite Imagination, Empower Communities, Transform Practice</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Foo Ling Ling,</p>
 <p>Lim Er Yang,</p>
