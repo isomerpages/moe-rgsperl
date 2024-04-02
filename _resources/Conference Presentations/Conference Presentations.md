@@ -44,7 +44,7 @@ new insights back to apply in our classrooms.</p>
 <p>World Gifted Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Excellence Without Borders: Gifted Education in a Changing World</p>
+<p>Excellence Without Borders: Gifted Education in A Changing World</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sandi Kum, Sharon Tan</p>
@@ -137,7 +137,7 @@ in PE</p>
 <p>Science International Teachers’ Conference (SISTIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Reflect. Refine. Reimagine – A better future with science education.</p>
+<p>Reflect. Refine. Reimagine – A Better Future with Science Education.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chan Sau Siong, Cindy Tiong</p>
