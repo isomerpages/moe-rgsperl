@@ -40,6 +40,23 @@ new insights back to apply in our classrooms.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teachers’ Conference &amp; Excel Fest (TCEF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignite Imagination, Empower Communities, Transform Practice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jassie Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>World Gifted Conference</p>
 </td>
 <td rowspan="1" colspan="1">
