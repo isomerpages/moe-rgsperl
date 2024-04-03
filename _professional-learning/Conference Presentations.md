@@ -138,7 +138,7 @@ Learning Approach</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alina Wee, Mag Suey</p>
+<p>Alina Wee, Magdalene Suey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
@@ -208,9 +208,7 @@ in PE</p>
 <p>Ignite Imagination, Empower Communities, Transform Practice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Ling Ling,</p>
-<p>Lim Er Yang,</p>
-<p>Tan Hui Leng</p>
+<p>Foo Ling Ling, Lim Er Yang, Tan Hui Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Engaging and Monitoring Students during Full Home-Based Learning: A Sharing
