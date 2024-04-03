@@ -192,30 +192,6 @@ view the GDP 2022 programme booklet</p>
 view the GDP 2019 programme booklet</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Inspire, Empower &amp; Transform</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GDP 2017 programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engaging Diversity in 21st Century Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="/files/GPD%202015%20Programme_23%20July.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GDP 2015 programme booklet</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>School-based Training</h4>
