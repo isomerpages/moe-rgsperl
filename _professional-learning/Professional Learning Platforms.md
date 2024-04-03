@@ -7,11 +7,14 @@ variant: tiptap
 <p>Teachers are encouraged to share their experiences in curriculum and pedagogical
 innovation. The dialogical exchange of ideas cultivates teacher leadership,
 so integral to teacher-led professional excellence in the community.</p>
-<h3>Seminars and Conferences</h3>
-<p>The following seminars and conferences provide RGS teachers and their
-counterparts from other schools the opportunity to learn, share, exchange,
-network and possibly collaborate professionally in the various areas of
-work:</p>
+<h3>Conference Presentations</h3>
+<p>Recent conferences attended by RGS teachers have provided valuable opportunities
+for professional learning, collaboration, and networking. These events
+bring together educators from different schools to share expertise, exchange
+ideas, and explore potential collaborations. By attending, RGS teachers
+gain diverse perspectives, innovative practices, and emerging trends in
+education, enhancing their ability to deliver high-quality education and
+contribute to student development.</p>
 <h4>Local and Overseas Conferences</h4>
 <table>
 <tbody>
@@ -150,11 +153,11 @@ in PE</p>
 </tbody>
 </table>
 <h4>Good Practice Day</h4>
-<p>This in-house biennial event showcases teacher-led workshops, symposium
-and research presentations. It develops teacher leaders as they exchange
-ideas on innovative practices, keeping each other abreast of the latest
-developments in the field. The following are some examples of educational
-technologies and innovations shared by teachers:</p>
+<p>Our biennial in-house event is a platform for teacher-led workshops, symposiums,
+and research presentations. It cultivates teacher leaders by fostering
+the exchange of ideas on innovative practices and keeping participants
+informed about the latest developments in the field. Here are some examples
+of educational technologies and innovations shared by our teachers:</p>
 <table>
 <tbody>
 <tr>
