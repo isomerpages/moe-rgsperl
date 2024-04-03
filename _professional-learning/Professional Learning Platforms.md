@@ -123,7 +123,7 @@ Learning Approach</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alina Wee, Mag Suey</p>
+<p>Alina Wee, Magdalene Suey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
