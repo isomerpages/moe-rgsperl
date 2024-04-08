@@ -10,9 +10,9 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" src="/images/This Is It.jpg">
 </div>
 <p>The Pedagogical Research Lab (PeRL) was launched in RGS on 28 August 2010
-by Mrs Tan Ching Yee, the-then Permanent Secretary of Education. The aim
-was to engender school-based inquiry into pedagogy and practice as well
-as to offer consultancy.</p>
+by Mrs Tan Ching Yee, then Permanent Secretary of Education. The aim was
+to engender school-based inquiry into pedagogy and practice as well as
+to offer consultancy.</p>
 <p>PeRL’s unique feature is the creation of the Specialist track. The Teacher-Specialists
 conduct Academic Research that informs curricular practices as well as
 steer Practitioner Inquiry amongst teachers. We have conducted Inquiry
