@@ -11,6 +11,6 @@ third_nav_title: Research Projects List
 <p></p>
 <h4>Full-Text Request</h4>
 <p>If you would like to obtain the full-text of any of the research projects,
-please email us at <a href="mailto:rgs.perl@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rgs.perl@rafflesgirlssch.edu.sg </a>with
+please email us at <a href="mailto:rgs.perl@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rgs.perl@rafflesgirlssch.edu.s<u>g</u></a> with
 the project title you are interested in.</p>
 <p></p>
