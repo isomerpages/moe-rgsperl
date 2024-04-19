@@ -180,7 +180,7 @@ of educational technologies and innovations shared by our teachers:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GDP 2022 programme booklet</p>
+view the GPD 2022 programme booklet</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ view the GDP 2022 programme booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GDP 2019 programme booklet</p>
+view the GPD 2019 programme booklet</p>
 </td>
 </tr>
 </tbody>
@@ -203,13 +203,26 @@ and ongoing reflection. The aim is to nurture the adept, reflective teacher
 of the highly able learner.</p>
 <p>As a school for gifted and talented, the RGS Professional Development
 Plan therefore, focuses on the following core competencies:</p>
-<p>1 . Gifted &amp; Talented pedagogies such as&nbsp;<em>Critical Thinking, Creative Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven instruction</em> 
-<br>2 . Curriculum Design Framework such as Understanding by Design (UbD),
-Lynn Erickson’s concept-based learning principles
-<br>3 . Practitioner Inquiry
-<br>4 . Assessment Literacy: Assessment principles, Formative &amp; Summative
-assessments, Design of the Performance Task
-<br>5 . Learning Technologies</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Gifted &amp; Talented pedagogies such as&nbsp;<em>Critical Thinking, Creative Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven instruction</em> 
+</p>
+</li>
+<li>
+<p>Curriculum Design Framework such as Understanding by Design (UbD), Lynn
+Erickson’s concept-based learning principles</p>
+</li>
+<li>
+<p>Practitioner Inquiry</p>
+</li>
+<li>
+<p>Assessment Literacy: Assessment principles, Formative &amp; Summative
+assessments, Design of the Performance Task</p>
+</li>
+<li>
+<p>Learning Technologies</p>
+</li>
+</ol>
 <h4>Induction Programme</h4>
 <p>The Professional Learning Academy provides a 2-year Induction Programme
 for teachers new to RGS. The programme aims to (a) provide support to the
