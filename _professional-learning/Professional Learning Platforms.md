@@ -7,11 +7,14 @@ variant: tiptap
 <p>Teachers are encouraged to share their experiences in curriculum and pedagogical
 innovation. The dialogical exchange of ideas cultivates teacher leadership,
 so integral to teacher-led professional excellence in the community.</p>
-<h3>Seminars and Conferences</h3>
-<p>The following seminars and conferences provide RGS teachers and their
-counterparts from other schools the opportunity to learn, share, exchange,
-network and possibly collaborate professionally in the various areas of
-work:</p>
+<h3>Conference Presentations</h3>
+<p>Recent conferences attended by RGS teachers have provided valuable opportunities
+for professional learning, collaboration, and networking. These events
+bring together educators from different schools to share expertise, exchange
+ideas, and explore potential collaborations. By attending, RGS teachers
+gain diverse perspectives, innovative practices, and emerging trends in
+education, enhancing their ability to deliver high-quality education and
+contribute to student development.</p>
 <h4>Local and Overseas Conferences</h4>
 <table>
 <tbody>
@@ -39,102 +42,122 @@ work:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May 01 June 2022</p>
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>World Gifted Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence Without Borders: Gifted Education in A Changing World</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sandi Kum, Sharon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harnessing Digital Tools to Monitor Students’ Performance Using Blended
+Learning Approach</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Redesigning Pedagogy International Conference</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Chuan and Lucille Yap</p>
+<p>Azahar Noor, Foo Ling Ling, Tan Yen Chuan, Lucille Yap, Tan Yin Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://repository.nie.edu.sg/entities/publication/12d90800-5d05-492a-aecf-0d0b1b8f9569/details" rel="noopener noreferrer nofollow" target="_blank">An Exploratory Study on Blended Learning in A Secondary School: Teachers’ Perspectives</a>
-</p>
+<p>A Whole School Approach to Blended Learning</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 – 3 June 2020</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Redesigning Pedagogy International Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educating for Innovation, Nurturing for Society</p>
+<p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Chuan and Masturah Binte Abdul Aziz</p>
+<p>Chew Meek Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Developing School's Professional Capital through The Lens of Knowledge
-Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8&nbsp;– 11 August 2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16th Conference of the European Council for High Ability (ECHA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Working with Gifted Students in the 21st Century</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eriyanty Mohd and Foo Ling Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/learning-platforms/plat1/" rel="noopener noreferrer nofollow" target="_blank">The Design-Thinking Approach for the High-Ability Learners</a>
-</p>
+<p>Using Error Analysis to Develop Students’ Metacognitive Skills</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20&nbsp;– 24&nbsp;August 2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15th Asia-Pacific Conference on Giftedness (APCG2018)</p>
+<p>Redesigning Pedagogy International Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inspiration, Motivation, and Creativity: Leading the Way to Giftedness</p>
+<p>Transforming Education &amp; Strengthening Society</p>
+<p>(Virtual Conference)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Su Yin Caroline and Tan Jiaxiu</p>
+<p>Chua Han Hui, Ng Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/learning-platforms/plat2/" rel="noopener noreferrer nofollow" target="_blank">Mathematics comprehension tests&nbsp;as a tool in talent identification</a>
-</p>
+<p>Fostering Cultural Awareness Using The 3P Cultural Model"</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20&nbsp;– 24&nbsp;August 2018</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15th Asia-Pacific Conference on Giftedness (APCG2018)</p>
+<p>PE Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inspiration, Motivation, and Creativity: Leading the Way to Giftedness</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Yong Wee, Christopher Foo and Rachel Goh Shiao En</p>
+<p>Alina Wee, Magdalene Suey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/learning-platforms/plat3/" rel="noopener noreferrer nofollow" target="_blank">Differentiation in a Chemistry Classroom</a>
-</p>
+<p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
+in PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science International Teachers’ Conference (SISTIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reflect. Refine. Reimagine – A Better Future with Science Education.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Sau Siong, Cindy Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collaborative Learning in IBL through Role Playing using Socratic Questioning</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Good Practice Day</h4>
-<p>This in-house biennial event showcases teacher-led workshops, symposium
-and research presentations. It develops teacher leaders as they exchange
-ideas on innovative practices, keeping each other abreast of the latest
-developments in the field. The following are some examples of educational
-technologies and innovations shared by teachers:</p>
+<p>Our biennial in-house event is a platform for teacher-led workshops, symposiums,
+and research presentations. It cultivates teacher leaders by fostering
+the exchange of ideas on innovative practices and keeping participants
+informed about the latest developments in the field. Here are some examples
+of educational technologies and innovations shared by our teachers:</p>
 <table>
 <tbody>
 <tr>
@@ -170,42 +193,6 @@ view the GDP 2022 programme booklet</p>
 <td rowspan="1" colspan="1">
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the GDP 2019 programme booklet</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Inspire, Empower &amp; Transform</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GDP 2017 programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engaging Diversity in 21st Century Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="/files/GPD%202015%20Programme_23%20July.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GDP 2015 programme booklet</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2013</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Differentiation and Critical Thinking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Using a common text to access a multiple vistas: How to keep your teaching
-of the same material fresh? (Languages)</p>
 </td>
 </tr>
 </tbody>
