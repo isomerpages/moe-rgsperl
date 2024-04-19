@@ -205,7 +205,7 @@ of the highly able learner.</p>
 Plan therefore, focuses on the following core competencies:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Gifted &amp; Talented pedagogies such as&nbsp;<em>Critical Thinking, Creative Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven instruction</em> 
+<p>Gifted &amp; Talented pedagogies such as&nbsp;<em>Critical Thinking, Creative Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven instruction</em>
 </p>
 </li>
 <li>
