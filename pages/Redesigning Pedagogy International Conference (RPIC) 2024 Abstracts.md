@@ -6,7 +6,7 @@ description: ""
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Differentiated instruction for collaborative learning in Science inquiry-based learning</strong>
+<summary><strong>Diferentiated instruction for collaborative learning in Science inquiry-based learning</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
@@ -108,7 +108,7 @@ presentation can be presented in English or Chinese. (Examples are in Chinese)</
 </details>
 </div>
 <p></p>
-<h3></h3>
+<h2></h2>
 <h3></h3>
 <p></p>
 <p></p>
