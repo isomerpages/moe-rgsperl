@@ -7,14 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>From RGS FB post:</p>
-<p>Our colleagues presented their research at the Redesigning Pedagogy International
-Conference (RPIC) 2024, organised by the National Institute of Education
-(NIE).</p>
-<p>This year's theme, "Growing future-ready teachers and learners: Collaborative
-research for educational change," sparks essential conversations on translating
-research into impactful educational practices.</p>
-<p>Our presentations and workshop included:</p>
+<p>At the recent Redesigning Pedagogy International Conference (RPIC) organised
+by the National Institute of Education (NIE) from 28 to 30 May 2024, our
+colleagues presented their latest research findings. Their presentations,
+aligned with the conference's theme "Growing future-ready teachers and
+learners: Collaborative research for educational change," aimed to spark
+essential conversations on translating research into impactful educational
+practices.</p>
+<p>Our colleagues delivered the following presentations and workshop:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>An exploratory study on the influence of ICT-enhanced peer review on Secondary
@@ -29,8 +29,9 @@ study in a secondary school by Ms Tan Yen Chuan &amp; Ms Hafizah Jumat</p>
 learning by Mr Chan Sau Siong &amp; Ms Cindy Tiong</p>
 </li>
 </ul>
-<p>This global exchange of ideas among local and international educators
-is vital for advancing pedagogical practices. We are proud to contribute
-to these meaningful discussions.</p>
+<p>This global platform enabled valuable knowledge sharing among local and
+international educators, contributing to the advancement of pedagogical
+approaches. We are proud to have been part of these vital discussions that
+shape the future of education.</p>
 <p>Abstracts of the presentations and workshop can be found <a href="https://rgs.perl.edu.sg/rpic-2024-abstracts/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
