@@ -4,12 +4,13 @@ permalink: /rpic-2024-abstracts/
 variant: tiptap
 description: ""
 ---
+<h3>Workshop Abstract</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Diferentiated instruction for collaborative learning in Science inquiry-based learning</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
+<p></p>
 <p><strong>By Chan Sau Siong &amp; Cindy Tiong</strong>
 </p>
 <p></p>
@@ -36,8 +37,41 @@ In addition, the use of Socratic questions in the collaborative learning
 process played a role in developing students’ intellectual traits.</p>
 </div>
 </details>
+</div>
+<p></p>
+<h3>Paper Presentation Abstracts</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Learner’s experience in a blended learning environment: An exploratory study in a secondary school</strong>
+<summary><strong>An exploratory study on the influence of ICT-enhanced peer review on Secondary 1 students narrative writing skills</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>By Neo Jiahui</strong>
+</p>
+<p></p>
+<p>Since 2021, with the implementation of the new Chinese syllabus which
+places strong emphasis on self-directed learning, as well as the introduction
+of iPad as student’s personal learning devices in RGS, the RGS Secondary
+1 Higher Chinese team from the Languages department embarked on process
+writing and peer review in the teaching of Narrative Writing. ICT tools
+and platforms such as google document, Student Learning Space and Apple
+Pencil are used in the writing and peer review process. In 2022, the Secondary
+1 Higher Chinese team began an Action Research on the effectiveness of
+using technology in peer review on Secondary 1 Higher Chinese Students
+Narrative Writing skills. Through comparing pre and post essay results,
+level-wide survey, as well as face-to-face interviews with teachers and
+students, this research aims to find out: 1) Does ICT-enhanced Peer Review
+help students to understand the requirement of Narrative Writing? 2) Does
+ICT-enhanced Peer Review help students to improve their Narrative Writing
+skills' 3) What are Teachers’ and Students’ feedback on the ICT-enhanced
+Peer Review process' This presentation will share the process on how the
+team implemented the ICT-enhanced peer review in our teaching and some
+takeaways from using ICT tools in process writing and peer review. This
+presentation can be presented in English or Chinese. (Examples are in Chinese)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Learner’s experience in a blended learning environment: An exploratory study in a secondary school  </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -79,36 +113,9 @@ of blended learning, and enhance the overall blended learning experience
 for secondary school students.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>An exploratory study on the influence of ICT-enhanced peer review on Secondary 1 students narrative writing skills</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>By Neo Jia Hui</strong>
-</p>
-<p>Since 2021, with the implementation of the new Chinese syllabus which
-places strong emphasis on self-directed learning, as well as the introduction
-of iPad as student’s personal learning devices in RGS, the RGS Secondary
-1 Higher Chinese team from the Languages department embarked on process
-writing and peer review in the teaching of Narrative Writing. ICT tools
-and platforms such as google document, Student Learning Space and Apple
-Pencil are used in the writing and peer review process. In 2022, the Secondary
-1 Higher Chinese team began an Action Research on the effectiveness of
-using technology in peer review on Secondary 1 Higher Chinese Students
-Narrative Writing skills. Through comparing pre and post essay results,
-level-wide survey, as well as face-to-face interviews with teachers and
-students, this research aims to find out: 1) Does ICT-enhanced Peer Review
-help students to understand the requirement of Narrative Writing? 2) Does
-ICT-enhanced Peer Review help students to improve their Narrative Writing
-skills' 3) What are Teachers’ and Students’ feedback on the ICT-enhanced
-Peer Review process' This presentation will share the process on how the
-team implemented the ICT-enhanced peer review in our teaching and some
-takeaways from using ICT tools in process writing and peer review. This
-presentation can be presented in English or Chinese. (Examples are in Chinese)</p>
-</div>
-</details>
 </div>
 <p></p>
-<h2></h2>
+<p></p>
 <h3></h3>
 <p></p>
 <p></p>
