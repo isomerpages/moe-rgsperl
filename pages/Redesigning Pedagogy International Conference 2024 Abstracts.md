@@ -4,15 +4,15 @@ permalink: /rpic-2024-abstracts/
 variant: tiptap
 description: ""
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Differentiated instruction for collaborative learning in Science inquiry-based learning </strong>
+<summary><strong>Differentiated instruction for collaborative learning in Science inquiry-based learning</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h4></h4>
 <p><strong>By Chan Sau Siong &amp; Cindy Tiong</strong>
 </p>
-<p>Abstract</p>
+<p></p>
 <p>Science inquiry-based learning (IBL) often adopts a student-centred approach
 that requires teachers to design the IBL activities as well as employ facilitation
 strategies to guide students in their inquiry. This workshop aims to provide
@@ -36,10 +36,14 @@ In addition, the use of Socratic questions in the collaborative learning
 process played a role in developing students’ intellectual traits.</p>
 </div>
 </details>
-</div>
-<h4></h4>
-<h3>Learner’s experience in a blended learning environment: An exploratory study in a secondary school </h3>
-<p>By Tan Yen Chuan &amp; Hafizah Bte Jumat</p>
+<details class="isomer-details">
+<summary><strong>Learner’s experience in a blended learning environment: An exploratory study in a secondary school</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>By Tan Yen Chuan &amp; Hafizah Bte Jumat</strong>
+</p>
+<p></p>
 <p>This study explores learners' perceptions and experiences in a blended
 learning environment, aiming to uncover the challenges they face and ways
 in which the school can provide support. This study employed a single-case
@@ -73,8 +77,14 @@ environment. The survey instrument can serve as a valuable tool for educators
 to gather feedback, inform instructional design while incorporating elements
 of blended learning, and enhance the overall blended learning experience
 for secondary school students.</p>
-<h3>An exploratory study on the influence of ICT-enhanced peer review on Secondary 1 students narrative writing skills </h3>
-<p>By Neo Jia Hui</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>An exploratory study on the influence of ICT-enhanced peer review on Secondary 1 students narrative writing skills</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>By Neo Jia Hui</strong>
+</p>
 <p>Since 2021, with the implementation of the new Chinese syllabus which
 places strong emphasis on self-directed learning, as well as the introduction
 of iPad as student’s personal learning devices in RGS, the RGS Secondary
@@ -94,5 +104,11 @@ Peer Review process' This presentation will share the process on how the
 team implemented the ICT-enhanced peer review in our teaching and some
 takeaways from using ICT tools in process writing and peer review. This
 presentation can be presented in English or Chinese. (Examples are in Chinese)</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3></h3>
+<h3></h3>
 <p></p>
 <p></p>
