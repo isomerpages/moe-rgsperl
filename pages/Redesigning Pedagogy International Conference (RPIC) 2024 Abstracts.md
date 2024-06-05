@@ -71,7 +71,7 @@ presentation can be presented in English or Chinese. (Examples are in Chinese)</
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Learner’s experience in a blended learning environment: An exploratory study in a secondary school  </strong>
+<summary><strong>Learner’s experience in a blended learning environment: an exploratory study in a secondary school</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
