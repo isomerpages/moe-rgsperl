@@ -35,3 +35,7 @@ approaches. We are proud to have been part of these vital discussions that
 shape the future of education.</p>
 <p>Abstracts of the presentations and workshop can be found <a href="https://rgs.perl.edu.sg/rpic-2024-abstracts/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Happenings albums/RPIC_group_photo.png">
+</div>
+<p></p>
