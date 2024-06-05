@@ -32,4 +32,5 @@ learning by Mr Chan Sau Siong &amp; Ms Cindy Tiong</p>
 <p>This global exchange of ideas among local and international educators
 is vital for advancing pedagogical practices. We are proud to contribute
 to these meaningful discussions.</p>
+<p>Abstracts of the presentations and workshop can be found <a href="/rpic-2024-abstracts/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
