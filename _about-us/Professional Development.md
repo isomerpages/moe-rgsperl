@@ -5,14 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Professional Development in RGS: Nurturing The Adept Teacher of The Highly Able Girl</h2>
-<p>One of the strategic goals of the school is to be a world-class institution
-for the education of gifted and talented girls, recognised locally and
-internationally.</p>
-<p>In line with this, the RGS Professional Development Plan-2 (PDP-2) aims
-to develop and retain staff with the necessary competencies and dispositions
-to cultivate professional discourse and viewpoints that engage, create
-and challenge learning. An ongoing review process ensures constant feedback,
-analysis and refinement of the quality of teaching.</p>
+<p>The RGS Professional Development Plan-2 (PDP-2) aims to develop and retain
+staff with the necessary competencies and dispositions to cultivate professional
+discourse and viewpoints that engage, create and challenge learning. An
+ongoing review process ensures constant feedback, analysis and refinement
+of the quality of teaching.</p>
 <h3>Professional Learning of RGS Education Officers</h3>
 <p>Definition: Professional Development Plan and Professional Learning</p>
 <p><u>Professional Development Plan</u> refers to the overall, whole-school
@@ -23,7 +20,7 @@ to plan and reflect on their practices. Work is interlaced with learning
 within a collaborative culture.</p>
 <p>Both Professional Development (PD) and Professional Learning are systematic
 and intentional.</p>
-<h4>Rationale for Professional Learning </h4>
+<h4>Rationale for Professional Learning</h4>
 <p>Research shows that quality teaching enables quality learning. In line
 with this, Professional Learning focuses on providing the conditions for
 all to learn, including school management and teachers. The school gives
@@ -41,17 +38,6 @@ teaching
 they want to improve their practice
 <br>4 . <strong>Student learning needs</strong> define educators’ learning needs</p>
 <p>These beliefs have largely endured in RGS over time.</p>
-<p>However, current research in professional development increasingly points
-to the need for shifts in the conventional approaches to it. For instance,
-research consistently reflects the limitations of a one-shot approach to
-training. When teachers attend training that is not directly connected
-to their practice in real time, the transfer of learning is usually impeded.</p>
-<p>The value of a top-down approach to PD is also questionable. Rather than
-teachers being told that they ‘should’, ‘must’ and ‘need’ to be equipped
-in the expected capacities, the school management views student learning
-as a collective responsibility.</p>
-<p>The entire fraternity takes ownership for setting high expectations for
-student learning.</p>
 <h4>Features of RGS' Professional Learning</h4>
 <p>Literature indicates that a well-developed Professional Learning Plan
 consists of the following principles:</p>
@@ -104,15 +90,6 @@ using evidence–backed standards for professional learning,&nbsp;<u>focusing on
 than to establish a causal relationship between professional learning and
 student achievement. Meanwhile, through in-house research and scan of research
 elsewhere, this relationship will be attempted.</p>
-<p>The RGS Professional Learning standards are adapted from the following
-organisations:</p>
-<p>1 . Academy of Science Teachers, MOE, Singapore: Teacher Growth Model
-<br>2 . Learning Forward Professional Learning Association, United States
-<br>3 . National Staff Development Council, United States (now known as Learning
-Forward)
-<br>4 . National Comprehensive Centre for Teacher Quality, United States
-<br>5 . Ministry of Education, New Zealand: Teacher Professional Learning
-and Development: Best Evidence Synthesis Iteration</p>
 <p>Acknowledging the multifacetedness of Teaching and Learning, multiple
 measures are accordingly used to evaluate professional learning. These
 include the following:</p>
@@ -133,6 +110,13 @@ Mary, USA)</p>
 </ul>
 <p>The data contributes to training plans, in-house research and strategic
 directions.</p>
+<p></p>
+<p>The in-house SING approach facilitates a segmentised professional learning
+plan.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SING_approach.png">
+</div>
 <hr>
+<p></p>
 <p><a href="http://www.oecd.org/edu/school/48727127.pdf" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;Quoted
 in OECD report accessed from http://www.oecd.org/edu/school/48727127.pdf</p>
