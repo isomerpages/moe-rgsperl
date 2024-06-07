@@ -21,18 +21,18 @@ practices.</p>
 1 students narrative writing skills by Ms Neo Jia Hui</p>
 </li>
 <li>
-<p>Learner’s experience in a blended learning environment: An exploratory
-study in a secondary school by Ms Tan Yen Chuan &amp; Ms Hafizah Jumat</p>
-</li>
-<li>
 <p>Differentiated instruction for collaborative learning in Science inquiry-based
 learning by Mr Chan Sau Siong &amp; Ms Cindy Tiong</p>
 </li>
+<li>
+<p>Learner’s experience in a blended learning environment: An exploratory
+study in a secondary school by Ms Tan Yen Chuan &amp; Ms Hafizah Jumat</p>
+</li>
 </ul>
 <p>This global platform enabled valuable knowledge sharing among local and
-international educators, contributing to the advancement of pedagogical
-approaches. We are proud to have been part of these vital discussions that
-shape the future of education.</p>
+international educators and researchers, contributing to the advancement
+of pedagogical approaches. We are proud to have been part of these vital
+discussions that shape the future of education.</p>
 <p>Abstracts of the presentations and workshop can be found <a href="https://rgs.perl.edu.sg/rpic-2024-abstracts/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
