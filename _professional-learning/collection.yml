@@ -2,7 +2,6 @@ collections:
   professional-learning:
     output: true
     order:
-      - Overview.md
       - Professional Learning Platforms.md
       - Professional Learning Space.md
       - Conference Presentations.md
