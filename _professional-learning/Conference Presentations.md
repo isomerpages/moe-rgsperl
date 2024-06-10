@@ -11,7 +11,14 @@ presentations and workshops at a variety of international and local conferences.
 Their participation has allowed them to exchange ideas with peers and bring
 new insights back to apply in our classrooms.</p>
 <p></p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,6 +40,63 @@ new insights back to apply in our classrooms.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Presentation Title</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growing future-ready teachers and learners: Collaborative research for
+educational change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Sau Siong, Cindy Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Differentiated Instruction for Collaborative Learning in Science Inquiry-based
+Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growing future-ready teachers and learners: Collaborative research for
+educational change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Jiahui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An Exploratory Study on the Influence of ICT-enhanced Peer Review on Secondary
+1 Students Narrative Writing Skills</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growing future-ready teachers and learners: Collaborative research for
+educational change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yen Chuan, Hafiizah Bte Jumat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learner’s Experience in A Blended Learning Environment: An Exploratory
+Study in A Secondary School</p>
 </td>
 </tr>
 <tr>
