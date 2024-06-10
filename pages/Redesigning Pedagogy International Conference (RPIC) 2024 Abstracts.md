@@ -7,7 +7,7 @@ description: ""
 <h3>Workshop Abstract</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Diferentiated instruction for collaborative learning in Science inquiry-based learning</strong>
+<summary><strong>Differentiated instruction for collaborative learning in Science inquiry-based learning</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
