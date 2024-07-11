@@ -16,7 +16,14 @@ gain diverse perspectives, innovative practices, and emerging trends in
 education, enhancing their ability to deliver high-quality education and
 contribute to student development.</p>
 <h4>Local and Overseas Conferences</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -42,6 +49,63 @@ contribute to student development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growing future-ready teachers and learners: Collaborative research for
+educational change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Sau Siong, Cindy Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Differentiated instruction for collaborative learning in Science inquiry-based
+learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growing future-ready teachers and learners: Collaborative research for
+educational change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Jiahui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An exploratory study on the influence of ICT-enhanced peer review on Secondary
+1 students narrative writing skills</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Redesigning Pedagogy International Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Growing future-ready teachers and learners: Collaborative research for
+educational change</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yen Chuan, Hafizah Bte Jumat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learner’s experience in a blended learning environment: an exploratory
+study in a secondary school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,98 +122,6 @@ contribute to student development.</p>
 Learning Approach</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Redesigning Pedagogy International Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transforming Education &amp; Strengthening Society</p>
-<p>(Virtual Conference)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Azahar Noor, Foo Ling Ling, Tan Yen Chuan, Lucille Yap, Tan Yin Lai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Whole School Approach to Blended Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Redesigning Pedagogy International Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transforming Education &amp; Strengthening Society</p>
-<p>(Virtual Conference)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chew Meek Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Using Error Analysis to Develop Students’ Metacognitive Skills</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Redesigning Pedagogy International Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Transforming Education &amp; Strengthening Society</p>
-<p>(Virtual Conference)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Han Hui, Ng Siew Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fostering Cultural Awareness Using The 3P Cultural Model"</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alina Wee, Magdalene Suey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
-in PE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science International Teachers’ Conference (SISTIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Reflect. Refine. Reimagine – A Better Future with Science Education.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Sau Siong, Cindy Tiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaborative Learning in IBL through Role Playing using Socratic Questioning</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Good Practice Day</h4>
@@ -158,7 +130,12 @@ and research presentations. It cultivates teacher leaders by fostering
 the exchange of ideas on innovative practices and keeping participants
 informed about the latest developments in the field. Here are some examples
 of educational technologies and innovations shared by our teachers:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -173,6 +150,18 @@ of educational technologies and innovations shared by our teachers:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurturing Creators, Connectors &amp; Contributors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://sites.google.com/rafflesgirlssch.edu.sg/gpd2024/programme" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the GPD 2024 programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +169,7 @@ of educational technologies and innovations shared by our teachers:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GPD 2022 programme booklet</p>
+view the GPD 2022 programme</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +181,7 @@ view the GPD 2022 programme booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the GPD 2019 programme booklet</p>
+view the GPD 2019 programme</p>
 </td>
 </tr>
 </tbody>
@@ -205,8 +194,9 @@ of the highly able learner.</p>
 Plan therefore, focuses on the following core competencies:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Gifted &amp; Talented pedagogies such as&nbsp;<em>Critical Thinking, Creative Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven instruction</em>
-</p>
+<p>Gifted &amp; Talented pedagogies such as&nbsp;Critical Thinking, Creative
+Thinking, Differentiation strategies, Concept attainment strategies, Inquiry-driven
+instruction</p>
 </li>
 <li>
 <p>Curriculum Design Framework such as Understanding by Design (UbD), Lynn
