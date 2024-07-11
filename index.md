@@ -17,10 +17,9 @@ sections:
           url: ""
   - resources:
       id: resources
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
+  - infopic:
+      title: Professional Learning Fortnight
+      id: infopic
       button: Button Text
+      alt: Image alt text
 ---
