@@ -20,6 +20,8 @@ sections:
   - infopic:
       title: Professional Learning Fortnight
       id: infopic
-      button: Button Text
+      button: Watch video
       alt: Image alt text
+      url: https://www.youtube.com/watch?v=Y4ZdhIztqzM
+      image: /images/Professional_Learning_Fortnight_thumbnail.png
 ---
