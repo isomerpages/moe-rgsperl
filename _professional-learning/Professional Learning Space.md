@@ -18,11 +18,10 @@ inquiry engenders a ‘reframing’ (Schon, 1983) mindset in which we make
 sense of situations with perspectives other than our own.</p>
 <p>The following diagram shows the Create-Implement-Review Cycle that guides
 PLS&nbsp;&nbsp;discourse at RGS.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="PLS diagram" src="/images/PLS diagram.png">
+<img style="width: 100%" height="auto" width="100%" alt="CIR model" src="/images/Create_implement_review_model__1_.png">
 </div>
-<p><em>Source: Mary George Cheriyan (2014)</em>
-</p>
 <h4>PLS Discourse</h4>
 <p>RGS’ Curriculum Maps are concept-based. To maintain relevance and robustness,
 we are currently reviewing our Curriculum Maps, improving our Enduring

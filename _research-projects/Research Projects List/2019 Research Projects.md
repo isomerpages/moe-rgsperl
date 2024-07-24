@@ -6,7 +6,13 @@ description: ""
 third_nav_title: Research Projects List
 ---
 <h2>Practitioner Inquiry</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,6 +91,47 @@ Skills &amp; Learning Attitudes
 </td>
 <td rowspan="1" colspan="1">
 <p>Pedagogical Approach</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Academic Research</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Discipline/ Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Project Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Investigator(s)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Domain(s)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School-Wide Research</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Developing a School’s Professional Capital through the Lens of Knowledge
+Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Masturah Abdul Aziz, Ms Tan Yen Chuan, Mrs Tan Kum Chee, Mrs Lucille
+Yap, Mr Azahar M Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professional Development</p>
 </td>
 </tr>
 </tbody>

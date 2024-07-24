@@ -6,7 +6,13 @@ description: ""
 third_nav_title: Research Projects List
 ---
 <h2>Practitioner Inquiry</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,7 +108,13 @@ Wei, Mr Kendrick Tan, Mr Chan Sau Siong</p>
 </tbody>
 </table>
 <h2>Academic Research</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
