@@ -10,7 +10,6 @@ and stay current in their fields. Over the years, our educators have delivered
 presentations and workshops at a variety of international and local conferences.
 Their participation has allowed them to exchange ideas with peers and bring
 new insights back to apply in our classrooms.</p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -92,7 +91,7 @@ educational change</p>
 educational change</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yen Chuan, Hafiizah Bte Jumat</p>
+<p>Tan Yen Chuan, Hafizah Bte Jumat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learner’s Experience in A Blended Learning Environment: An Exploratory
@@ -224,59 +223,6 @@ in PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collaborative Learning in IBL through Role Playing using Socratic Questioning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Conference &amp; Excel Fest&nbsp; (TCEF)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ignite Imagination, Empower Communities, Transform Practice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Sau Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Designing Inquiry-based Biology Lessons in Raffles Girls’ School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Conference &amp; Excel Fest&nbsp; (TCEF)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ignite Imagination, Empower Communities, Transform Practice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alina Wee, Magdalene Suey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leveraging on Peer Feedback in Assessment to Promote Self-directed Learning
-in PE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Conference &amp; Excel Fest&nbsp; (TCEF)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ignite Imagination, Empower Communities, Transform Practice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foo Ling Ling, Lim Er Yang, Tan Hui Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engaging and Monitoring Students during Full Home-Based Learning: A Sharing
-by RGS Teachers</p>
 </td>
 </tr>
 </tbody>
