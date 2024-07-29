@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h3>SingTeach Virtual Staff Lounge</h3>
+<p><strong><a href="https://singteach.nie.edu.sg/2024/07/21/navigating-blended-learning-insights-from-students-experiences/" rel="noopener noreferrer nofollow" target="_blank">Navigating Blended Learning: Insights from Students’ Experiences</a></strong>
+</p>
+<p>Contributed by Ms Tan Yen Chuan and Ms Hafizah Jumat, Centre for Pedagogical
+Research and Learning, Raffles Girls’ School (Secondary), for SingTeach
+Virtual Staff Lounge (July 2024)</p>
 <p><strong><a href="https://singteach.nie.edu.sg/2023/04/13/using-ict-enhanced-peer-review-process-to-improve-students-narrative-writing/" rel="noopener noreferrer nofollow" target="_blank">Using ICT-Enhanced Peer Review Process to Improve Students’ Narrative Writing</a></strong>
 <br>Contributed by Ms Neo Jia Hui, from Raffles Girls’ School, for SingTeach
 Virtual Staff Lounge (April 2023).</p>

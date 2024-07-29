@@ -3,7 +3,6 @@ title: List of Past Research Projects
 permalink: /research-projects/research-projects-list/all-research/
 variant: tiptap
 description: ""
-third_nav_title: Research Projects List
 ---
 <h4>List of Past Research Projects</h4>
 <p>The complete list of projects carried out by RGS staff can be accessed
