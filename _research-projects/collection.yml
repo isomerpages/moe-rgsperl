@@ -2,6 +2,7 @@ collections:
   research-projects:
     output: true
     order:
+      - List of Past Research Projects.md
       - 2019 Research Projects.md
       - 2020 Research Projects.md
       - 2021 Research Projects.md
