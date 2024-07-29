@@ -2,6 +2,7 @@ collections:
   research-projects:
     output: true
     order:
+      - 2024 Ongoing Research Projects.md
       - Conference Presentations.md
       - 2023 Research Projects.md
       - 2022 Research Projects.md
