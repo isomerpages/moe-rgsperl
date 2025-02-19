@@ -4,7 +4,7 @@ title: Raffles Girls' School PeRL
 description: An Isomer site of the Singapore Government
 image: /images/perl_logo__1_.png
 permalink: /
-notification: ""
+notification: "Save the Date: 6th PeRL Symposium (11 July, Friday) at Raffles Girls' School."
 sections:
   - hero:
       background: /images/2_6_Staff_Interaction___Library__EK16061_Web_Res.jpg
@@ -15,6 +15,14 @@ sections:
         - title: Happenings
           description: ""
           url: ""
+  - infopic:
+      title: 6th PeRL Symposium
+      subtitle: Save the date!
+      id: infopic
+      button: Click here for more details
+      url: https://rgs.perl.edu.sg/6th-perl-symposium/
+      image: /images/Save_the_date_.png
+      alt: Image alt text
   - resources:
       id: resources
   - infopic:
