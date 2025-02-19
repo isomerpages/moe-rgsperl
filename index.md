@@ -18,6 +18,14 @@ sections:
   - resources:
       id: resources
   - infopic:
+      title: 6th PeRL Symposium
+      subtitle: Save the date!
+      id: infopic
+      button: Click here for more details
+      url: /
+      image: /images/Save_the_date_.png
+      alt: Image alt text
+  - infopic:
       title: PeRL - Journey of a Decade
       id: infopic
       button: Watch video
