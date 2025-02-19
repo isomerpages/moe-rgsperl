@@ -15,8 +15,6 @@ sections:
         - title: Happenings
           description: ""
           url: ""
-  - resources:
-      id: resources
   - infopic:
       title: 6th PeRL Symposium
       subtitle: Save the date!
@@ -25,6 +23,8 @@ sections:
       url: https://rgs.perl.edu.sg/6th-perl-symposium/
       image: /images/Save_the_date_.png
       alt: Image alt text
+  - resources:
+      id: resources
   - infopic:
       title: PeRL - Journey of a Decade
       id: infopic
