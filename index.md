@@ -20,7 +20,7 @@ sections:
       subtitle: Save the date!
       id: infopic
       button: Click here for more details
-      url: https://rgs.perl.edu.sg/6th-perl-symposium/
+      url: https://https://perl.rgs.edu.sg/6th-perl-symposium/
       image: /images/Save_the_date_.png
       alt: Image alt text
   - resources:
