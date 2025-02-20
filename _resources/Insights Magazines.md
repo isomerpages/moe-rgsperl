@@ -13,7 +13,7 @@ for a complimentary hardcopy of the latest issue of Insights, please click
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDl4vV7llMZwQXm0aOMw9flvkLZJOhtk3rGtmEIKUAgGVOFQ/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
 </a>.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1c-GerfP1mGa0-sL-OLjDa1bWY0Y6kVW8/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Volume 6 Cover" src="/images/Untitled_design__10_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights Vol. 6</div><div class="isomer-card-link">Download</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1J18AdgHhVMWvB1hrQpP9xAxt6M9UQPpd/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Volume 6 Cover" src="/images/Untitled_design__10_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Insights Vol. 6</div><div class="isomer-card-link">Download</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1MZygdYU2Yoe6Q_gO00SsLeek7vU_s3u0/view?usp=drive_link" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,6 +58,9 @@ for a complimentary hardcopy of the latest issue of Insights, please click
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p><a href="https://perl.rgs.edu.sg/insights-2021-toc/" rel="noopener noreferrer nofollow" target="_blank">Volume 5</a>
 </p>
 </th>
@@ -65,12 +68,12 @@ for a complimentary hardcopy of the latest issue of Insights, please click
 <p><a href="https://perl.rgs.edu.sg/insights-2018-toc/" rel="noopener noreferrer nofollow" target="_blank">Volume 4</a>
 </p>
 </th>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><a href="https://perl.rgs.edu.sg/insights-2016-toc/" rel="noopener noreferrer nofollow" target="_blank">Volume 3</a>
 </p>
 </th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://perl.rgs.edu.sg/insights-2014-toc/" rel="noopener noreferrer nofollow" target="_blank">Volume 2</a></strong>
 </p>
@@ -78,9 +81,6 @@ for a complimentary hardcopy of the latest issue of Insights, please click
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://perl.rgs.edu.sg/insights-2012-toc/" rel="noopener noreferrer nofollow" target="_blank">Volume 1</a></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
