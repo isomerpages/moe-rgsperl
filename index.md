@@ -19,10 +19,10 @@ sections:
       title: 6th PeRL Symposium
       subtitle: Save the date!
       id: infopic
-      button: Click here for more details
-      url: https://https://perl.rgs.edu.sg/6th-perl-symposium/
+      button: Link coming soon
+      url: https://perl.rgs.edu.sg/
       image: /images/Save_the_date_.png
-      alt: Image alt text
+      alt: RGS PeRL Symposium
   - resources:
       id: resources
   - infopic:
