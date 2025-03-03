@@ -16,13 +16,22 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: 6th PeRL Symposium
-      subtitle: Save the date!
+      title: 6th RGS PeRL Symposium
+      subtitle: 11 July 2025 (Friday)
       id: infopic
-      button: Link coming soon
-      url: https://perl.rgs.edu.sg/
-      image: /images/Save_the_date_.png
+      button: Click here to register
+      url: https://docs.google.com/forms/d/e/1FAIpQLSf-xfbXplzF6VbE1eEroXCcrPoTnc-5_nS31g0ItvJKj1FwsA/viewform
+      image: /images/Final_version.png
       alt: RGS PeRL Symposium
+  - infopic:
+      title: KEYNOTE SPEAKER
+      subtitle: 6th RGS PeRL SYMPOSIUM
+      id: infopic
+      description: Mr Chng Kai Fong
+      button: Click here to register
+      url: https://docs.google.com/forms/d/e/1FAIpQLSf-xfbXplzF6VbE1eEroXCcrPoTnc-5_nS31g0ItvJKj1FwsA/viewform
+      image: /images/Final_version__2_.png
+      alt: Image alt text
   - resources:
       id: resources
   - infopic:
@@ -32,11 +41,4 @@ sections:
       url: https://www.youtube.com/watch?v=3mxLyn55Tl0
       image: /images/journey_of_a_decade.png
       alt: Image alt text
-  - infopic:
-      title: Professional Learning Fortnight
-      id: infopic
-      button: Watch video
-      alt: Thumbnail of video
-      url: https://www.youtube.com/watch?v=Y4ZdhIztqzM
-      image: /images/Professional_Learning_Fortnight_thumbnail.png
 ---
