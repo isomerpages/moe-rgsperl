@@ -19,8 +19,6 @@ sections:
       title: 6th RGS PeRL Symposium
       subtitle: 11 July 2025 (Friday)
       id: infopic
-      button: Click here to register
-      url: https://docs.google.com/forms/d/e/1FAIpQLSf-xfbXplzF6VbE1eEroXCcrPoTnc-5_nS31g0ItvJKj1FwsA/viewform
       image: /images/Final_version.png
       alt: RGS PeRL Symposium
   - infopic:
@@ -28,8 +26,6 @@ sections:
       subtitle: 6th RGS PeRL SYMPOSIUM
       id: infopic
       description: Mr Chng Kai Fong
-      button: Click here to register
-      url: https://docs.google.com/forms/d/e/1FAIpQLSf-xfbXplzF6VbE1eEroXCcrPoTnc-5_nS31g0ItvJKj1FwsA/viewform
       image: /images/Final_version__2_.png
       alt: Image alt text
   - resources:
