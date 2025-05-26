@@ -24,3 +24,9 @@ tuned!</p>
 <p>We look forward to welcoming you to an enriching exchange of insights
 and ideas!</p>
 <p></p>
+<p></p>
+<hr>
+<p><em>We regret to inform you that abstract submissions and participant registration are now closed. We are grateful for the enthusiastic response and look forward to welcoming all confirmed presenters and attendees.</em>
+</p>
+<p><em>If you have any questions, feel free to contact us at <a href="mailto:rgs.perl@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rgs.perl@rafflesgirlssch.edu.sg</a>.</em>
+</p>
