@@ -31,3 +31,9 @@ and innovations in teaching and learning.</p>
 <p>We thank all presenters and participants for their thoughtful contributions.
 Together, we continue to grow a reflective and forward-looking professional
 community that places learners at the heart of education.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PeRL_2025.png">
+</div>
+<p></p>
