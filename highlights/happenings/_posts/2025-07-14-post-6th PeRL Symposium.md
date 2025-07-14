@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The 6th PeRL Symposium took place on 11th July on our campus, bringing
-together a vibrant community of educators from various schools who are
-committed to deepening professional practice.</p>
+<p>The 6th PeRL Symposium took place on 11 July 2025, bringing together a
+vibrant community of educators from various schools who are committed to
+deepening professional practice.</p>
 <p>Since its launch in 2014, the RGS PeRL Symposium has provided a platform
 for teacher-practitioners and educational researchers to exchange ideas,
 reflect on practice, and advance pedagogical research in Singapore.</p>
